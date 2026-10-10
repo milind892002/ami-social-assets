@@ -1,0 +1,214 @@
+{
+  "slug": "2026-10-meta-ads",
+  "ads": [
+    {
+      "name": "Whole-body MRI",
+      "layout": "hero",
+      "photo": {
+        "src": "whole-body-mri-anatomy.jpg",
+        "feed": [
+          0,
+          10,
+          1024,
+          749
+        ],
+        "story": [
+          0,
+          10,
+          1024,
+          1205
+        ],
+        "shade_left": 0.82,
+        "offset": 150
+      },
+      "colors": {
+        "bg": "#050A1A",
+        "accent": "#5EEEDE",
+        "price": "#5EEEDE",
+        "muted": "#A9B8CC",
+        "chip_border": "#24425E"
+      },
+      "eyebrow": "Whole-body 3T MRI · St. Petersburg",
+      "title": "One MRI.<br>Head to toe.",
+      "title_size": 100,
+      "price": "$1,499",
+      "price_notes": [
+        "All-inclusive",
+        "HSA &amp; FSA accepted"
+      ],
+      "chips": [
+        "No radiation",
+        "15+ organ systems",
+        "72-hour report"
+      ],
+      "footer": "Read by board-certified radiologists on site · advancedimg.com",
+      "meta_copy": {
+        "primary": "A head-to-toe 3T MRI in St. Petersburg for $1,499, all-inclusive. No radiation, 60–90 minutes in a wide-bore scanner, and every scan is read by a board-certified radiologist on site. Physician-signed report within 72 hours. HSA/FSA accepted.",
+        "headline": "Whole-body 3T MRI · $1,499",
+        "description": "Local radiologists · St. Petersburg",
+        "link": "https://www.advancedimg.com/lp/whole-body-mri-stpete",
+        "cta": "BOOK_NOW"
+      }
+    },
+    {
+      "name": "DEXA body composition",
+      "layout": "report",
+      "colors": {
+        "bg": "#EAF9F7",
+        "ink": "#053D38",
+        "accent": "#0A7A70",
+        "price": "#0A7A70",
+        "muted": "#3F6F6A",
+        "border": "#CCEFEC",
+        "chip_border": "#A7DCD6"
+      },
+      "eyebrow": "DEXA body composition · Seminole",
+      "title": "Fat, muscle and bone,",
+      "title_accent": "measured precisely.",
+      "card_label": "Sample report",
+      "legend": [
+        [
+          "Lean",
+          "#0A7A70"
+        ],
+        [
+          "Fat",
+          "#9B59B6"
+        ],
+        [
+          "Bone",
+          "#B8C7CC"
+        ]
+      ],
+      "rows": [
+        [
+          "Arms",
+          [
+            [
+              0.6,
+              "#0A7A70"
+            ],
+            [
+              0.34,
+              "#9B59B6"
+            ],
+            [
+              0.06,
+              "#B8C7CC"
+            ]
+          ]
+        ],
+        [
+          "Trunk",
+          [
+            [
+              0.5,
+              "#0A7A70"
+            ],
+            [
+              0.45,
+              "#9B59B6"
+            ],
+            [
+              0.05,
+              "#B8C7CC"
+            ]
+          ]
+        ],
+        [
+          "Legs",
+          [
+            [
+              0.56,
+              "#0A7A70"
+            ],
+            [
+              0.36,
+              "#9B59B6"
+            ],
+            [
+              0.08,
+              "#B8C7CC"
+            ]
+          ]
+        ]
+      ],
+      "price": "$100",
+      "price_notes": [
+        "Self-pay",
+        "No referral needed"
+      ],
+      "chips": [
+        "About 10 minutes",
+        "Results in 72 hours",
+        "Bone density +$75"
+      ],
+      "footer": "advancedimg.com · 9555 Seminole Blvd, Seminole",
+      "meta_copy": {
+        "primary": "A DEXA scan measures body fat, lean muscle and visceral fat region by region, far more precisely than a smart scale. $100 self-pay in Seminole, about 10 minutes, no referral needed. Add bone density for $75 in the same visit.",
+        "headline": "DEXA body composition · $100",
+        "description": "Seminole · Results in 72 hours",
+        "link": "https://www.advancedimg.com/lp/dexa-body-composition-seminole-fl",
+        "cta": "BOOK_NOW"
+      }
+    },
+    {
+      "name": "Screening prices",
+      "layout": "price_list",
+      "photo": {
+        "src": "facility/mammography.jpg",
+        "feed": [
+          0,
+          300,
+          1200,
+          900
+        ],
+        "story": [
+          0,
+          230,
+          1200,
+          1052
+        ],
+        "polish": true
+      },
+      "colors": {
+        "bg": "#FFFFFF",
+        "ink": "#053D38",
+        "accent": "#0A7A70",
+        "price": "#6B2F80",
+        "muted": "#4F6B68",
+        "border": "#DCE7E5",
+        "chip_border": "#BFDCD8"
+      },
+      "eyebrow": "Screening in Seminole",
+      "title": "Self-pay prices,<br>posted up front.",
+      "title_size": 70,
+      "items": [
+        [
+          "3D mammogram",
+          "$249"
+        ],
+        [
+          "2D mammogram",
+          "$195"
+        ],
+        [
+          "Bone density (DEXA)",
+          "$75"
+        ]
+      ],
+      "chips": [
+        "Mammograms $0 on many plans",
+        "Female technologists"
+      ],
+      "footer": "advancedimg.com · 9555 Seminole Blvd, Seminole",
+      "meta_copy": {
+        "primary": "Screening mammograms and bone density scans in Seminole, with self-pay prices posted up front: 3D mammogram $249, 2D mammogram $195, bone density $75. Many insurance plans cover screening mammograms at $0 in-network. Exams are performed by female technologists.",
+        "headline": "Mammogram & bone density · Seminole",
+        "description": "Prices posted up front",
+        "link": "https://www.advancedimg.com/schedule",
+        "cta": "BOOK_NOW"
+      }
+    }
+  ]
+}
