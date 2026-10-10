@@ -1,0 +1,110 @@
+{
+  "slug": "2026-10-11-mri-checklist",
+  "title": "MRI checklist: how to prepare for your scan",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "service-mri.jpg",
+        "crop": [
+          100,
+          0,
+          714,
+          512
+        ]
+      },
+      "eyebrow": "Save this for scan day",
+      "title": "Your MRI checklist.",
+      "title_accent": "Prep made simple."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before you leave home",
+      "items": [
+        "Wear comfy clothes with no metal zippers, buttons or underwire.",
+        "Leave jewelry, watches and hair clips at home.",
+        "Using insurance? Bring your card and your doctor&#39;s order.",
+        "Plan to arrive 15 minutes early."
+      ]
+    },
+    {
+      "type": "list",
+      "eyebrow": "Safety first",
+      "title": "Please tell us about:",
+      "items": [
+        "A pacemaker, implant or surgical hardware.",
+        "Any metal in your body, even from an old injury.",
+        "A medication patch. Some contain metal.",
+        "A pregnancy, or a chance of one."
+      ],
+      "footnote": "Our technologist reviews a safety checklist with you before every scan. Sources: FDA; RadiologyInfo.org (ACR and RSNA)."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "What to expect",
+      "title": "How your visit goes.",
+      "steps": [
+        [
+          "Check in",
+          "A short safety questionnaire with our technologist."
+        ],
+        [
+          "The scan",
+          "30 to 60 minutes for most exams. Tapping and humming sounds are normal."
+        ],
+        [
+          "After",
+          "Drive, eat and get back to your day. Results go to your doctor within 72 hours."
+        ]
+      ]
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Nervous about tight spaces?",
+      "title": "You have options.",
+      "cards": [
+        [
+          "Wide-bore",
+          "MRI with more room than traditional machines"
+        ],
+        [
+          "Music",
+          "or earplugs during your scan"
+        ],
+        [
+          "Open MRI",
+          "open sides, no tunnel"
+        ],
+        [
+          "A friend",
+          "can stay in the Open MRI room with you"
+        ]
+      ],
+      "footnote": "Very anxious? Ask your doctor if a mild sedative could help."
+    },
+    {
+      "type": "cta",
+      "title": "Save this for scan day.",
+      "title_accent": "Book when you&#39;re ready.",
+      "share": "Send this to a friend with an MRI coming up."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "service-mri.jpg",
+      "crop": [
+        90,
+        0,
+        431,
+        512
+      ]
+    },
+    "eyebrow": "Before your MRI",
+    "title": "Your MRI checklist.",
+    "title_accent": "Simple prep, easier scan.",
+    "sub": "High-field and Open MRI in Seminole. Results to your doctor within 72 hours."
+  }
+}
