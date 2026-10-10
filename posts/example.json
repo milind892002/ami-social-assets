@@ -1,0 +1,32 @@
+{
+  "slug": "2026-10-10-bcam-mammogram",
+  "title": "Breast Cancer Awareness Month: mammograms",
+  "palette": "pink",
+  "ribbon": true,
+  "slides": [
+    {"type": "hook", "photo": {"src": "hero-radiologist-patient.jpg", "crop": [660, 0, 1536, 730]},
+     "eyebrow": "Breast Cancer Awareness Month", "title": "15 minutes for you.", "title_accent": "Peace of mind for the people who love you."},
+    {"type": "stat", "eyebrow": "Why it matters", "title": "Finding it early makes a real difference.",
+     "stat": "&gt;99%", "stat_caption": "Five-year relative survival when breast cancer is found before it has spread.",
+     "card": {"label": "The guidelines", "title": "A mammogram every 1 to 2 years from age 40", "body": "Radiologists advise every year. Ask your doctor what is right for you."},
+     "source": "Survival: American Cancer Society (SEER), diagnosed 2015 to 2021. Guidelines: USPSTF 2024 (every 2 years); American College of Radiology (yearly)."},
+    {"type": "photo_list", "photo": {"src": "service-mammography.jpg", "crop": [0, 40, 768, 465]},
+     "eyebrow": "Nervous? That&#39;s normal", "title": "Here&#39;s what to expect at your visit.",
+     "items": ["A female technologist performs your exam.", "Compression lasts just a few seconds per view.", "The 3D exam takes about 15 minutes."]},
+    {"type": "cards", "eyebrow": "Booking is easy", "title": "Easier to book than you might think.",
+     "cards": [["No referral", "usually needed for a routine screening at 40+"], ["$0", "with many insurance plans, in-network"],
+               ["$195", "self-pay screening, or $249 with 3D"], ["This week", "appointments are often available"]],
+     "footnote": "Coverage varies by plan. Our team will help you check yours."},
+    {"type": "list", "save": true, "title": "4 tips for a more comfortable mammogram",
+     "items": ["Still getting periods? Book 1 to 2 weeks after, when breasts are less tender.", "Skip deodorant, powder and lotion that day.",
+               "Wear a two-piece outfit.", "Bring past mammograms, or tell us where you had them."]},
+    {"type": "cta", "title": "Book yours this month.", "title_accent": "Then send this to someone you love.",
+     "share": "Tag a friend, sister or mom who&#39;s due."}
+  ],
+  "single": {"photo": {"src": "service-mammography.jpg", "crop": [0, 46, 768, 466]}, "eyebrow": "Breast Cancer Awareness Month",
+             "title": "3D mammograms in Seminole.", "title_accent": "Book your screening this month.",
+             "lines": ["Female technologist · Usually no referral needed", "$0 with many insurance plans, in-network"]},
+  "gbp": {"photo": {"src": "hero-radiologist-patient.jpg", "crop": [650, 0, 1333, 1024]}, "eyebrow": "Breast Cancer Awareness Month",
+          "title": "15 minutes for you.", "title_accent": "Peace of mind for the people who love you.",
+          "sub": "3D mammograms in Seminole, performed by a female technologist."}
+}

@@ -6,6 +6,13 @@ placed here for a few minutes, imported into Canva, then deleted.
 
 Served by GitHub Pages at https://milind892002.github.io/ami-social-assets/
 
+## Layout
+
+- `tools/build_post.py` builds a post's HTML from a short JSON spec (see tools/README.md).
+- `posts/` keeps one spec per post: the record of what was made, and the content log
+  used to avoid repeating topics.
+- `imports/` is temporary: each batch is deleted right after Canva imports it.
+
 ## Rules
 
 - Marketing images and design files only. Never patient information (PHI),
