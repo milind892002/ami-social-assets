@@ -1,0 +1,129 @@
+{
+  "slug": "2026-10-12-dexa-what-to-expect",
+  "title": "What to expect: DEXA bone density scan",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "service-dexa.jpg",
+        "crop": [
+          60,
+          0,
+          700,
+          507
+        ]
+      },
+      "eyebrow": "What to expect: bone density scan",
+      "title": "10 minutes. Fully clothed.",
+      "title_accent": "No needles, no tunnel."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "What to expect",
+      "title": "How your visit goes.",
+      "steps": [
+        [
+          "Lie back",
+          "On a padded table, in your own clothes. Nothing closes around you."
+        ],
+        [
+          "The scan",
+          "An open arm passes over your hip and spine. Just lie still for about 10 minutes."
+        ],
+        [
+          "After",
+          "Get right back to your day. Results go to your doctor within 72 hours."
+        ]
+      ]
+    },
+    {
+      "type": "stat",
+      "eyebrow": "Why it matters",
+      "title": "Bone loss is silent until a bone breaks.",
+      "stat": "1 in 4",
+      "stat_caption": "women 65 and older has osteoporosis.",
+      "card": {
+        "label": "The guidelines",
+        "title": "Screening for women 65+, and younger women after menopause with risk factors",
+        "body": "For men, experts differ. Ask your doctor what is right for you."
+      },
+      "source": "USPSTF 2025 (27.1% of women 65+). Men: USPSTF finds evidence insufficient; some groups advise testing from 70."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before your bone density scan",
+      "items": [
+        "Skip calcium supplements for 24 hours before.",
+        "Wear clothes with no metal zippers, buttons or belts.",
+        "Had a barium study or contrast scan lately? Tell us.",
+        "Pregnant, or might be? Tell us first."
+      ],
+      "footnote": "Source: NIH MedlinePlus."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Booking is easy",
+      "title": "Simple to book in Seminole.",
+      "cards": [
+        [
+          "$75",
+          "self-pay bone density scan"
+        ],
+        [
+          "No referral",
+          "needed for self-pay"
+        ],
+        [
+          "Covered",
+          "by Medicare every 2 years for eligible patients"
+        ],
+        [
+          "Same day",
+          "appointments often available"
+        ]
+      ],
+      "footnote": "With insurance, a doctor&#39;s order is needed. We check your benefits before your visit."
+    },
+    {
+      "type": "cta",
+      "title": "Strong bones start with knowing.",
+      "title_accent": "Book your DEXA scan.",
+      "share": "Send this to a mom, aunt or friend who&#39;s due."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "service-dexa.jpg",
+      "crop": [
+        40,
+        0,
+        380,
+        507
+      ]
+    },
+    "eyebrow": "What to expect: DEXA",
+    "title": "10 minutes. Fully clothed.",
+    "title_accent": "No needles, no tunnel.",
+    "sub": "Bone density scans in Seminole. $75 self-pay, no referral needed."
+  },
+  "captions": {
+    "instagram": "A bone density scan takes about 10 minutes, and you stay fully clothed. 🦴\n\nHere's what to expect at your DEXA scan:\n✔️ Lie back on a padded table. Nothing closes around you\n✔️ An open arm passes over your hip and spine. No needles, no tunnel\n✔️ Skip calcium supplements for 24 hours before\n✔️ Wear clothes with no metal zippers, buttons or belts\n✔️ Get right back to your day. Results go to your doctor within 72 hours\n\n📅 Book through the link in our bio or call (727) 398-5999. Self-pay bone density scan $75, no referral needed.\n\nKnow someone who's due for a bone density scan? Send this to them.\n\nGeneral information, not medical advice.\n\n#Osteoporosis #DEXAScan #BoneDensity #SeminoleFL #PinellasCounty",
+    "facebook": "A bone density scan takes about 10 minutes, and you stay fully clothed. 🦴\n\nHere's what to expect at your DEXA scan:\n✔️ Lie back on a padded table. Nothing closes around you\n✔️ An open arm passes over your hip and spine. No needles, no tunnel\n✔️ Skip calcium supplements for 24 hours before\n✔️ Wear clothes with no metal zippers, buttons or belts\n✔️ Get right back to your day. Results go to your doctor within 72 hours\n\nSelf-pay bone density scan $75, no referral needed. Medicare covers it every 2 years for eligible patients.\n\n📅 Book online: https://www.advancedimg.com/schedule?utm_source=facebook&utm_medium=social&utm_campaign=dexa-what-to-expect\n📞 Or call (727) 398-5999\n\nKnow someone who's due for a bone density scan? Send this to them.\n\nGeneral information, not medical advice.\n\n#Osteoporosis #DEXAScan #SeminoleFL",
+    "gbp": "Wondering what a bone density (DEXA) scan is like? It takes about 10 minutes and you stay fully clothed. You lie back on a padded table while an open scanner arm passes over your hip and spine. There are no needles and no tunnel. To prepare, skip calcium supplements for 24 hours before, wear clothes without metal zippers, buttons or belts, and tell us if you recently had a barium study or contrast scan, or might be pregnant. Afterward you can get right back to your day, and results go to your doctor within 72 hours. Screening is recommended for women 65 and older and for younger women after menopause with risk factors; for men, ask your doctor. Self-pay bone density scans are $75 with no referral needed.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A technologist beside a DEXA scanner with a patient lying on the table. 10 minutes. Fully clothed. No needles, no tunnel.",
+      "How your visit goes: lie back on a padded table in your own clothes; an open arm passes over your hip and spine for about 10 minutes; get back to your day, with results to your doctor within 72 hours.",
+      "Bone loss is silent until a bone breaks. 1 in 4 women 65 and older has osteoporosis. Guidelines: screening for women 65 and older, and younger women after menopause with risk factors. For men, experts differ.",
+      "Before your bone density scan: skip calcium supplements for 24 hours; wear clothes with no metal zippers, buttons or belts; tell us about a recent barium study or contrast scan; tell us if you are or might be pregnant.",
+      "Simple to book in Seminole: $75 self-pay bone density scan, no referral needed for self-pay, covered by Medicare every 2 years for eligible patients, same-day appointments often available.",
+      "Strong bones start with knowing. Book your DEXA scan. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A technologist beside a DEXA scanner. 10 minutes, fully clothed, no needles, no tunnel. Bone density scans in Seminole, $75 self-pay."
+  },
+  "status": "draft"
+}
