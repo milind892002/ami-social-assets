@@ -125,5 +125,10 @@
     ],
     "gbp": "A technologist beside a DEXA scanner. 10 minutes, fully clothed, no needles, no tunnel. Bone density scans in Seminole, $75 self-pay."
   },
-  "status": "draft"
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHXtPrlP6g",
+    "gbp": "DAHXtM2B6Jw",
+    "open_transaction": "2979649798082266353 (slide 1 heading width fix)"
+  }
 }
