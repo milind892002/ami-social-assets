@@ -125,9 +125,14 @@
   },
   "canva": {
     "carousel": "DAHXnLSQGzk",
-    "gbp": "DAHXnLh9mVo",
-    "open_transaction": "515054798671605544 (slide 1 heading width fix)"
+    "gbp": "DAHXnLh9mVo"
   },
-  "status": "awaiting approval",
-  "planned_time": "2026-10-11T10:00:00 America/New_York"
+  "status": "scheduled",
+  "planned_time": "2026-10-11T10:00:00 America/New_York",
+  "scheduled_time": "2026-10-11T19:20:00 America/New_York",
+  "metricool_ids": {
+    "instagram": 393578328,
+    "facebook": 393578396,
+    "gmb": 393578479
+  }
 }
