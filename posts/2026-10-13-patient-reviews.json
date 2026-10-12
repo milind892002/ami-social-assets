@@ -84,5 +84,14 @@
     "gbp": "The Advanced Medical Imaging team smiling in the Seminole office. Nervous about a scan? Our patients get it. Book at advancedimg.com."
   },
   "status": "awaiting approval",
-  "planned_time": "2026-10-13 (time from Metricool best time on approval, else 10:00 America/New_York)"
+  "planned_time": "2026-10-13 (time from Metricool best time on approval, else 10:00 America/New_York)",
+  "canva": {
+    "carousel": "DAHXzMGGKsU",
+    "gbp": "DAHXzJkvvP0",
+    "open_transaction": {
+      "design": "DAHXzMGGKsU",
+      "id": "5673928378906055234",
+      "note": "slide 1 heading resized to 904px so it wraps; commit on approval"
+    }
+  }
 }
