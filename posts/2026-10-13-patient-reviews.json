@@ -1,0 +1,88 @@
+{
+  "slug": "2026-10-13-patient-reviews",
+  "title": "Patient review spotlight: in their words",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "facility/team.jpg"
+      },
+      "eyebrow": "What patients say",
+      "title": "Nervous about a scan?",
+      "title_accent": "Our patients get it."
+    },
+    {
+      "type": "quote",
+      "eyebrow": "On feeling comfortable",
+      "quote": "Michelle is a wonderful tech who made me feel so comfortable during my MRI! She was so kind and professional. Wonderful experience!",
+      "name": "Christina A."
+    },
+    {
+      "type": "quote",
+      "eyebrow": "On scheduling and costs",
+      "quote": "&hellip;She made sure everything was scheduled properly, helped me understand the costs involved, and explained what to expect&hellip; She made the whole process much easier and less stressful.",
+      "quote_size": 50,
+      "name": "Sean D."
+    },
+    {
+      "type": "quote",
+      "eyebrow": "On getting in quickly",
+      "quote": "Everyone is super nice. I was able to walk right in and get an MRI within 30 minutes.",
+      "name": "Joshua J."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Questions to ask before any scan",
+      "items": [
+        "What will my exam cost?",
+        "Do I need a doctor&#39;s order?",
+        "How long will it take, and how do I prepare?",
+        "When will my doctor get the results?"
+      ],
+      "footnote": "Call us and we&#39;ll answer all four before you book."
+    },
+    {
+      "type": "cta",
+      "title": "Feel at ease from check-in to results.",
+      "title_accent": "Book your scan.",
+      "share": "Know someone who&#39;s nervous about a scan? Send this to them.",
+      "disclaimer": "Verbatim public Google reviews; trims marked &hellip;. Experiences vary. General information, not medical advice."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "facility/team.jpg",
+      "crop": [
+        455,
+        400,
+        955,
+        1150
+      ]
+    },
+    "eyebrow": "What patients say",
+    "title": "Nervous about a scan?",
+    "title_accent": "Our patients get it.",
+    "sub": "Kind technologists and real help with scheduling and costs, in Seminole and St.&nbsp;Pete."
+  },
+  "captions": {
+    "instagram": "Nervous about a scan? You're not the only one, and our patients say it was easier than they expected. 💙\n\nWhat they mention most:\n✔️ A technologist who makes you feel comfortable\n✔️ Help scheduling and understanding the costs\n✔️ Getting in quickly\n✔️ A kind, professional team from check-in on\n\nSwipe to read their words, and save the last tip for your next scan.\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone who's nervous about a scan? Send this to them.\n\nGeneral information, not medical advice. Individual experiences vary.\n\n#PatientReviews #MRI #MedicalImaging #SeminoleFL #PinellasCounty",
+    "facebook": "Nervous about a scan? You're not the only one, and our patients say it was easier than they expected. 💙\n\nWhat they mention most:\n✔️ A technologist who makes you feel comfortable\n✔️ Help scheduling and understanding the costs\n✔️ Getting in quickly\n✔️ A kind, professional team from check-in on\n\nSwipe to read their words, and save the last tip for your next scan.\n\n📅 Book online: https://www.advancedimg.com/schedule?utm_source=facebook&utm_medium=social&utm_campaign=patient-reviews-oct\n📞 Or call (727) 398-5999\n\nKnow someone who's nervous about a scan? Share this with them.\n\nGeneral information, not medical advice. Individual experiences vary.\n\n#PatientReviews #MedicalImaging #SeminoleFL",
+    "gbp": "Nervous about a scan? Here's what recent patients shared in their Google reviews.\n\n\"Michelle is a wonderful tech who made me feel so comfortable during my MRI! She was so kind and professional. Wonderful experience!\" (Christina A.)\n\n\"…She made sure everything was scheduled properly, helped me understand the costs involved, and explained what to expect… She made the whole process much easier and less stressful.\" (Sean D.)\n\n\"Everyone is super nice. I was able to walk right in and get an MRI within 30 minutes.\" (Joshua J.)\n\nBefore any scan, it helps to ask: what will my exam cost, do I need a doctor's order, how long will it take and how do I prepare, and when will my doctor get the results? Our team is happy to answer all four before you book, at our Seminole and St. Pete offices.\n\nBook online at advancedimg.com. Individual experiences vary. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "The Advanced Medical Imaging team in scrubs smiling in the Seminole office. Nervous about a scan? Our patients get it.",
+      "Five-star Google review from Christina A.: Michelle is a wonderful tech who made me feel so comfortable during my MRI! She was so kind and professional. Wonderful experience!",
+      "Five-star Google review from Sean D.: She made sure everything was scheduled properly, helped me understand the costs involved, and explained what to expect. She made the whole process much easier and less stressful.",
+      "Five-star Google review from Joshua J.: Everyone is super nice. I was able to walk right in and get an MRI within 30 minutes.",
+      "Questions to ask before any scan: What will my exam cost? Do I need a doctor's order? How long will it take, and how do I prepare? When will my doctor get the results?",
+      "Feel at ease from check-in to results. Book your scan. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "The Advanced Medical Imaging team smiling in the Seminole office. Nervous about a scan? Our patients get it. Book at advancedimg.com."
+  },
+  "status": "awaiting approval",
+  "planned_time": "2026-10-13 (time from Metricool best time on approval, else 10:00 America/New_York)"
+}
