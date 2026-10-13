@@ -1,0 +1,40 @@
+{
+  "slug": "2026-10-14-ghost-myths",
+  "format": "reel",
+  "title": "Imaging myths you should definitely ghost",
+  "status": "script drafted, awaiting clips or go-ahead for animated version",
+  "trend": "Things You Should Definitely Ghost (Oct 2026), original audio",
+  "clips": [
+    {
+      "sign": "(no sign, ghost waves)",
+      "overlay": "Imaging myths you should definitely ghost 👻"
+    },
+    {
+      "sign": "YOU ALWAYS NEED A REFERRAL",
+      "overlay": "Paying yourself? No referral needed."
+    },
+    {
+      "sign": "MRI = A TIGHT TUBE",
+      "overlay": "Ask about Open MRI in Seminole. Music, too."
+    },
+    {
+      "sign": "MRI USES RADIATION",
+      "overlay": "MRI uses a magnet and radio waves, no x-rays.",
+      "source": "NIH MedlinePlus"
+    },
+    {
+      "sign": "A SCAN COSTS THOUSANDS",
+      "overlay": "Self-pay MRI from $295."
+    },
+    {
+      "sign": "RESULTS TAKE FOREVER",
+      "overlay": "Results go to your doctor within 72 hours."
+    },
+    {
+      "sign": "BOO-K YOUR SCAN",
+      "overlay": "Link in bio · (727) 398-5999"
+    }
+  ],
+  "facts_checked": "Referral, Open MRI, music, $295, 72 h: amiweb (insurance page, services-data.ts, pricing page). No ionizing radiation: MedlinePlus MRI article 003335, checked 2026-10-13.",
+  "flag": "Website shows X-ray $50 (pricing) and 'Chest X-ray from $75' (LpInlineForm.tsx); X-ray price left out until resolved."
+}
