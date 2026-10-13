@@ -114,5 +114,14 @@
   },
   "facts_checked": "MRI/ultrasound no ionizing radiation, patient tips: CDC Facts About Imaging Procedures (reviewed 2026-07-15). Doses vs background (chest X-ray 0.1 mSv/10 days, DEXA 0.001 mSv/3 h, screening digital mammo 0.28 mSv/34 days, ~3 mSv/yr): RadiologyInfo.org X-ray page (ACR/RSNA, reviewed 2025-04-15). Checked 2026-10-13.",
   "flag": "Website DEXA FAQ (services-data.ts ~line 1546) says DEXA is 'about 1/10th the dose of a standard chest X-ray'; RadiologyInfo gives 0.001 vs 0.1 mSv (about 1/100). X-ray FAQ (~line 1449) says 'a few days' of background; RadiologyInfo says about 10 days.",
-  "status": "awaiting approval"
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHX5Ju-YjU",
+    "gbp": "DAHX5LWmFB0"
+  },
+  "canva_open_transaction": {
+    "design": "DAHX5Ju-YjU",
+    "transaction_id": "7058785366525486783",
+    "note": "Page 1 heading resized to 904px to wrap, heading and eyebrow moved up 16px; commit on approval"
+  }
 }
