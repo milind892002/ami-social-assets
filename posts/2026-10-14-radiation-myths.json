@@ -1,0 +1,118 @@
+{
+  "slug": "2026-10-14-radiation-myths",
+  "title": "Myth vs fact: radiation from medical scans",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "service-open-mri.jpg",
+        "crop": [
+          330,
+          0,
+          1250,
+          1024
+        ]
+      },
+      "eyebrow": "Myth vs fact: radiation",
+      "title": "Worried about radiation from a scan?",
+      "title_accent": "Let&#39;s clear it up."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Myth vs fact",
+      "title": "3 myths, busted.",
+      "steps": [
+        [
+          "Myth: every scan uses radiation",
+          "Fact: MRI uses a magnet and radio waves. Ultrasound uses sound waves. No radiation."
+        ],
+        [
+          "Myth: X-ray doses are big",
+          "Fact: a chest X-ray is about the same as 10 days of the natural radiation all around us."
+        ],
+        [
+          "Myth: it&#39;s rude to ask",
+          "Fact: please ask. Your doctor weighs the benefit of every scan against its small risk."
+        ]
+      ],
+      "footnote": "Sources: CDC (2026); RadiologyInfo.org, from the ACR and RSNA."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Putting it in perspective",
+      "title": "About the same as everyday life for&hellip;",
+      "cards": [
+        [
+          "0",
+          "MRI or ultrasound: no radiation at all"
+        ],
+        [
+          "3 hours",
+          "a DEXA bone scan"
+        ],
+        [
+          "10 days",
+          "a chest X-ray"
+        ],
+        [
+          "34 days",
+          "a screening mammogram"
+        ]
+      ],
+      "footnote": "Typical adult doses vs natural background radiation (about 3 mSv a year in the U.S.). Source: RadiologyInfo.org (ACR, RSNA)."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before any X-ray, CT or mammogram",
+      "items": [
+        "Pregnant, or could you be? Tell us first.",
+        "Keep a simple list of the scans you&#39;ve had.",
+        "Share past images so you can skip repeats.",
+        "Ask if a scan without radiation could work."
+      ],
+      "footnote": "Source: CDC, Facts About Imaging Procedures."
+    },
+    {
+      "type": "cta",
+      "title": "Questions about a scan?",
+      "title_accent": "Just ask us.",
+      "share": "Know someone worried about radiation? Send this to them."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "service-open-mri.jpg",
+      "crop": [
+        250,
+        0,
+        1450,
+        900
+      ]
+    },
+    "eyebrow": "Myth vs fact: radiation",
+    "title": "Worried about radiation?",
+    "title_accent": "Let&#39;s clear it up.",
+    "sub": "MRI and ultrasound use none. A chest X-ray is about 10 days of natural background."
+  },
+  "captions": {
+    "instagram": "Worried about radiation from a scan? Let's clear up 3 common myths. 🩻\n\n✔️ MRI and ultrasound use no radiation at all\n✔️ A chest X-ray is about the same as 10 days of everyday natural radiation\n✔️ A DEXA bone density scan is about 3 hours' worth\n✔️ Pregnant, or might be? Always tell us and your doctor first\n✔️ It's always OK to ask whether a scan without radiation could answer the question\n\nSave this for your next appointment. 📌\n\n📅 Questions? Call (727) 398-5999 or book through the link in our bio.\n\nKnow someone worried about radiation? Send this to them.\n\nGeneral information, not medical advice. Sources: CDC; RadiologyInfo.org (ACR, RSNA).\n\n#RadiationSafety #MRI #Ultrasound #SeminoleFL #PinellasCounty",
+    "facebook": "Worried about radiation from a scan? Let's clear up 3 common myths. 🩻\n\n✔️ MRI and ultrasound use no radiation at all\n✔️ A chest X-ray is about the same as 10 days of everyday natural radiation\n✔️ A DEXA bone density scan is about 3 hours' worth\n✔️ Pregnant, or might be? Always tell us and your doctor first\n✔️ It's always OK to ask whether a scan without radiation could answer the question\n\nSave this for your next appointment.\n\n📅 Book online: https://www.advancedimg.com/lp/imaging-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=radiation-myths\n📞 Questions? Call (727) 398-5999\n\nKnow someone worried about radiation? Share this with them.\n\nGeneral information, not medical advice. Sources: CDC; RadiologyInfo.org (ACR, RSNA).\n\n#RadiationSafety #MRI #SeminoleFL",
+    "gbp": "Worried about radiation from a medical scan? Here are the facts. MRI uses a magnet and radio waves, and ultrasound uses sound waves, so neither uses any radiation. Scans that do use radiation use very small amounts: a chest X-ray is about the same as 10 days of the natural background radiation we all receive, a DEXA bone density scan about 3 hours, and a screening mammogram about 34 days. Before any X-ray, CT or mammogram, tell us and your doctor if you are or might be pregnant, keep a simple list of the scans you've had, and send past images to new doctors to avoid repeats. It's always OK to ask whether a scan without radiation could answer the question. Our team in Seminole is happy to answer your questions before you book.\n\nBook online at advancedimg.com. General information, not medical advice. Sources: CDC; RadiologyInfo.org (ACR, RSNA)."
+  },
+  "alt_text": {
+    "carousel": [
+      "A smiling technologist beside a patient lying on an open MRI table. Myth vs fact: worried about radiation from a scan? Let's clear it up.",
+      "3 myths, busted. Every scan uses radiation: false, MRI and ultrasound use none. X-ray doses are big: a chest X-ray is about 10 days of natural radiation. It's rude to ask: please ask, your doctor weighs benefit against a small risk.",
+      "About the same as everyday natural radiation for: 0 for MRI or ultrasound, 3 hours for a DEXA scan, 10 days for a chest X-ray, 34 days for a screening mammogram.",
+      "Before any X-ray, CT or mammogram: tell us first if you are or could be pregnant; keep a list of your scans; share past images so you can skip repeats; ask if a scan without radiation could work.",
+      "Questions about a scan? Just ask us. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A smiling technologist beside a patient on an open MRI table. Worried about radiation? MRI and ultrasound use none; a chest X-ray is about 10 days of natural background."
+  },
+  "facts_checked": "MRI/ultrasound no ionizing radiation, patient tips: CDC Facts About Imaging Procedures (reviewed 2026-07-15). Doses vs background (chest X-ray 0.1 mSv/10 days, DEXA 0.001 mSv/3 h, screening digital mammo 0.28 mSv/34 days, ~3 mSv/yr): RadiologyInfo.org X-ray page (ACR/RSNA, reviewed 2025-04-15). Checked 2026-10-13.",
+  "flag": "Website DEXA FAQ (services-data.ts ~line 1546) says DEXA is 'about 1/10th the dose of a standard chest X-ray'; RadiologyInfo gives 0.001 vs 0.1 mSv (about 1/100). X-ray FAQ (~line 1449) says 'a few days' of background; RadiologyInfo says about 10 days.",
+  "status": "awaiting approval"
+}
