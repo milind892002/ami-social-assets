@@ -1,0 +1,19 @@
+{
+  "slug": "2026-10-13-scarier-than-mri",
+  "format": "reel",
+  "title": "Halloween: Things scarier than your MRI",
+  "video": "imports/2026-10-13-scarier-than-mri/reel.mp4 (1080x1920, 17 s, 30 fps, original synthesized audio)",
+  "source": "posts/reels/2026-10-13-scarier-than-mri/",
+  "facts_checked": "amiweb src/lib/services-data.ts (30-60 min, music/earplugs, Open MRI) and src/app/pricing/page.tsx (MRI $295 self-pay), 2026-10-13",
+  "captions": {
+    "instagram": "Things scarier than your MRI 🎃👻\n\n#4 A spider in your shoe 🕷️\n#3 The dentist's drill 🦷\n#2 Stepping on a toy in the dark 🧸\n#1 Your inbox after vacation 📬\n\nYour MRI at Advanced Medical Imaging:\n✔️ Most scans take 30 to 60 minutes\n✔️ Music or earplugs during your scan\n✔️ Open MRI in Seminole if tight spaces worry you\n✔️ Self-pay MRI from $295, no referral needed\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nWhat would make YOUR list? Tell us below 👇 And send this to the friend who keeps putting off their scan.\n\nGeneral information, not medical advice.\n\n#Halloween #MRI #OpenMRI #SeminoleFL #PinellasCounty",
+    "facebook": "Things scarier than your MRI 🎃👻\n\n#4 A spider in your shoe 🕷️\n#3 The dentist's drill 🦷\n#2 Stepping on a toy in the dark 🧸\n#1 Your inbox after vacation 📬\n\nYour MRI at Advanced Medical Imaging:\n✔️ Most scans take 30 to 60 minutes\n✔️ Music or earplugs during your scan\n✔️ Open MRI in Seminole if tight spaces worry you\n✔️ Self-pay MRI from $295, no referral needed\n\n📅 Book online: https://www.advancedimg.com/lp/mri-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=halloween-scarier-than-mri\n📞 Or call (727) 398-5999\n\nWhat would make YOUR list? Tell us below 👇 And send this to the friend who keeps putting off their scan.\n\nGeneral information, not medical advice.\n\n#Halloween #MRI #SeminoleFL",
+    "gbp": "Things scarier than your MRI: a spider in your shoe, the dentist's drill, stepping on a toy in the dark, and your inbox after vacation. 🎃\n\nYour MRI, on the other hand, is not scary, just easy. Most scans take 30 to 60 minutes, you get music or earplugs during the scan, and if tight spaces worry you, ask about our Open MRI in Seminole. Self-pay MRI starts at $295 with no referral needed.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "reel": "Animated countdown of things scarier than your MRI: a spider in your shoe, the dentist's drill, stepping on a toy in the dark, your inbox after vacation. Then: your MRI takes 30 to 60 minutes, with music or earplugs, an Open MRI option and self-pay from $295. Not scary, just easy.",
+    "gbp": "Waiting room at Advanced Medical Imaging. Not scary, just easy: 30 to 60 minutes, music or earplugs, Open MRI option, from $295 self-pay."
+  },
+  "status": "awaiting approval",
+  "planned_time": "2026-10-13T10:00:00 America/New_York"
+}

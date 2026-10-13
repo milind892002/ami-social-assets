@@ -89,8 +89,7 @@
     ],
     "gbp": "The waiting room at Advanced Medical Imaging. Nervous about a scan? Our patients get it. Book at advancedimg.com."
   },
-  "status": "awaiting approval",
-  "planned_time": "2026-10-13 (time from Metricool best time on approval, else 10:00 America/New_York)",
+  "status": "postponed (replaced on Oct 13 by Halloween Reel); v2 uses waiting room photo, not yet imported to Canva",
   "photo_note": "Do not use facility/team.jpg or any staff photo: Milind has not asked staff for permission (2026-10-13).",
   "canva_rejected": {
     "carousel": "DAHXzMGGKsU",
