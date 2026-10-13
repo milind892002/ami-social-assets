@@ -7,7 +7,13 @@
     {
       "type": "hook",
       "photo": {
-        "src": "facility/team.jpg"
+        "src": "facility/waiting-1.jpg",
+        "crop": [
+          60,
+          0,
+          1500,
+          1200
+        ]
       },
       "eyebrow": "What patients say",
       "title": "Nervous about a scan?",
@@ -54,18 +60,18 @@
   ],
   "gbp": {
     "photo": {
-      "src": "facility/team.jpg",
+      "src": "facility/waiting-1.jpg",
       "crop": [
-        455,
-        400,
-        955,
-        1150
+        280,
+        0,
+        1080,
+        1200
       ]
     },
     "eyebrow": "What patients say",
     "title": "Nervous about a scan?",
     "title_accent": "Our patients get it.",
-    "sub": "Kind technologists and real help with scheduling and costs, in Seminole and St.&nbsp;Pete."
+    "sub": "Real reviews from patients at our Seminole and St.&nbsp;Pete offices."
   },
   "captions": {
     "instagram": "Nervous about a scan? You're not the only one, and our patients say it was easier than they expected. 💙\n\nWhat they mention most:\n✔️ A technologist who makes you feel comfortable\n✔️ Help scheduling and understanding the costs\n✔️ Getting in quickly\n✔️ A kind, professional team from check-in on\n\nSwipe to read their words, and save the last tip for your next scan.\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone who's nervous about a scan? Send this to them.\n\nGeneral information, not medical advice. Individual experiences vary.\n\n#PatientReviews #MRI #MedicalImaging #SeminoleFL #PinellasCounty",
@@ -74,24 +80,21 @@
   },
   "alt_text": {
     "carousel": [
-      "The Advanced Medical Imaging team in scrubs smiling in the Seminole office. Nervous about a scan? Our patients get it.",
+      "A calm, bright waiting room at Advanced Medical Imaging with three cream chairs and a floral painting. Nervous about a scan? Our patients get it.",
       "Five-star Google review from Christina A.: Michelle is a wonderful tech who made me feel so comfortable during my MRI! She was so kind and professional. Wonderful experience!",
       "Five-star Google review from Sean D.: She made sure everything was scheduled properly, helped me understand the costs involved, and explained what to expect. She made the whole process much easier and less stressful.",
       "Five-star Google review from Joshua J.: Everyone is super nice. I was able to walk right in and get an MRI within 30 minutes.",
       "Questions to ask before any scan: What will my exam cost? Do I need a doctor's order? How long will it take, and how do I prepare? When will my doctor get the results?",
       "Feel at ease from check-in to results. Book your scan. Call (727) 398-5999 or use the link in bio."
     ],
-    "gbp": "The Advanced Medical Imaging team smiling in the Seminole office. Nervous about a scan? Our patients get it. Book at advancedimg.com."
+    "gbp": "The waiting room at Advanced Medical Imaging. Nervous about a scan? Our patients get it. Book at advancedimg.com."
   },
   "status": "awaiting approval",
   "planned_time": "2026-10-13 (time from Metricool best time on approval, else 10:00 America/New_York)",
-  "canva": {
+  "photo_note": "Do not use facility/team.jpg or any staff photo: Milind has not asked staff for permission (2026-10-13).",
+  "canva_rejected": {
     "carousel": "DAHXzMGGKsU",
     "gbp": "DAHXzJkvvP0",
-    "open_transaction": {
-      "design": "DAHXzMGGKsU",
-      "id": "5673928378906055234",
-      "note": "slide 1 heading resized to 904px so it wraps; commit on approval"
-    }
+    "reason": "staff photo without permission; moved to Old versions"
   }
 }
