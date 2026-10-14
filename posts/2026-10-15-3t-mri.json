@@ -141,8 +141,13 @@
   "status": "awaiting approval (v2)",
   "planned_time": "2026-10-15 (time from Metricool best time, else 10:00 America/New_York)",
   "canva": {
-    "carousel": "DAHX_FtaTWk",
-    "gbp": "DAHX_NGAgaQ"
+    "carousel": "DAHYBSxO9co",
+    "gbp": "DAHYBfpyTUo",
+    "open_transaction": "3971567965442300757 (page 1 heading resized to wrap; commit on approval)",
+    "v1_archived": [
+      "DAHX_FtaTWk",
+      "DAHX_NGAgaQ"
+    ]
   },
   "structure": "Post + problem (insurance authorization, unknown cost) + solution (self-pay price, no referral, same day, 3T) + perspective (Dr. Patel) + no ask (no booking CTA). Per Milind 2026-10-14."
 }
