@@ -38,6 +38,7 @@ slot's shape). Use crop to keep faces in frame and to cut out off-topic details.
 | steps | eyebrow, title, steps [[title, text] x3], footnote |
 | quote | quote (verbatim review), name ("First L."), eyebrow, footnote |
 | cta | title, title_accent, phone_line, book_line, share, disclaimer |
+| perspective | photo, eyebrow, quote (wording approved by the person quoted), name, role, quote_size (52), disclaimer. Closing slide with no buttons (no ask) |
 
 single: photo, eyebrow, title, title_accent, lines [], button, footer
 gbp: photo, eyebrow, title, title_accent, sub, button

@@ -264,6 +264,20 @@ class Builder:
             f'<p style="margin: 0; font-size: 32px; color: {P["on_dark"]}">{sl["name"]}, Google review</p></div>'
             + f'<p style="position: relative; margin: 0; font-size: 24px; color: {P["accent_dark"]}">{sl.get("footnote", "Shared from our public Google reviews.")}</p>')
 
+    def s_perspective(self, sl, i):
+        """Closing point of view from a real AMI person (wording approved by them). No buttons, no ask."""
+        P = self.P
+        photo = self.save_photo(sl["photo"], (220, 220), "round", radius=110)
+        return self.page(f"Slide {i} Perspective", True,
+            self.rings(-440, 560) + self.wordmark(True)
+            + f'<div style="position: relative; display: flex; flex-direction: column; gap: 36px">'
+            f'{self.eyebrow(sl.get("eyebrow", "Our perspective"), P["accent_dark"])}'
+            f'<p style="margin: 0; width: {INNER}px; {H}; font-weight: 800; font-size: {sl.get("quote_size", 52)}px; line-height: 1.2; letter-spacing: -0.01em">&ldquo;{sl["quote"]}&rdquo;</p>'
+            f'<div style="display: flex; align-items: center; gap: 30px">{self.img(photo, 220, 220)}'
+            f'<div style="display: flex; flex-direction: column; gap: 6px"><span style="font-size: 36px; font-weight: 700">{sl["name"]}</span>'
+            f'<span style="font-size: 28px; color: {P["on_dark"]}">{sl.get("role", "")}</span></div></div></div>'
+            + f'<p style="position: relative; margin: 0; font-size: 22px; line-height: 1.45; color: {P["accent_dark"]}">{sl.get("disclaimer", "General information, not medical advice.")}</p>')
+
     def s_cta(self, sl, i):
         P = self.P
         rib = (f'<div style="position: absolute; right: 88px; top: 88px">{self.ribbon(130, P["ribbon_dark"], P["dark"])}</div>'
@@ -380,7 +394,7 @@ def main():
     out.mkdir(parents=True, exist_ok=True)
     b = Builder(spec, out, "img/" if preview else f"{BASE_URL}{slug}/img/", photos)
     kinds = {"hook": b.s_hook, "stat": b.s_stat, "photo_list": b.s_photo_list, "cards": b.s_cards,
-             "list": b.s_list, "steps": b.s_steps, "quote": b.s_quote, "cta": b.s_cta}
+             "list": b.s_list, "steps": b.s_steps, "quote": b.s_quote, "perspective": b.s_perspective, "cta": b.s_cta}
     files = []
     if spec.get("slides"):
         pages = [kinds[sl["type"]](sl, i) for i, sl in enumerate(spec["slides"], 1)]

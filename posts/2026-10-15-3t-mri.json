@@ -1,65 +1,76 @@
 {
   "slug": "2026-10-15-3t-mri",
-  "title": "Our technology: 3T MRI in St. Pete",
+  "title": "3T MRI without the insurance runaround",
   "palette": "blue",
   "ribbon": false,
   "slides": [
     {
       "type": "hook",
       "photo": {
-        "src": "service-3t-mri.jpg",
+        "src": "service-mri.jpg",
         "crop": [
-          640,
           0,
-          1504,
-          1080
+          0,
+          640,
+          512
         ]
       },
-      "eyebrow": "Our technology: 3T MRI",
-      "title": "Twice the magnet.",
-      "title_accent": "Sharper detail.<br>Same price."
+      "eyebrow": "3T MRI in St. Pete",
+      "title": "Waiting on insurance to approve your MRI?",
+      "title_accent": "There&#39;s another way."
+    },
+    {
+      "type": "list",
+      "eyebrow": "Sound familiar?",
+      "title": "The insurance runaround.",
+      "items": [
+        "Days of waiting for an approval.",
+        "Not knowing what you&#39;ll owe.",
+        "A deductible you haven&#39;t met yet."
+      ],
+      "footnote": "If you&#39;d rather use insurance, we still handle the authorization for you."
     },
     {
       "type": "cards",
-      "eyebrow": "3T at a glance",
-      "title": "What makes 3T different?",
+      "eyebrow": "A simpler way",
+      "title": "One clear price. No approval to wait for.",
       "cards": [
         [
-          "3 Tesla",
-          "twice the magnet strength of a standard 1.5T MRI"
-        ],
-        [
-          "Finer detail",
-          "for small structures like nerves and cartilage"
-        ],
-        [
-          "0",
-          "radiation: MRI uses a magnet and radio waves"
-        ],
-        [
           "$295",
-          "self-pay, the same price as our other MRIs"
+          "self-pay 3T MRI, radiologist reading included"
+        ],
+        [
+          "No referral",
+          "needed for self-pay. Our physician reviews your request"
+        ],
+        [
+          "Same day",
+          "appointments are often available"
+        ],
+        [
+          "No surprises",
+          "no facility or reading fees added later"
         ]
       ],
-      "footnote": "Self-pay $295 without contrast, $395 with. Source for no radiation: FDA, MRI Benefits and Risks."
+      "footnote": "$395 with contrast. On Medicare or Medicaid? Ask us what applies."
     },
     {
       "type": "photo_list",
       "photo": {
-        "src": "service-mri.jpg",
+        "src": "service-3t-mri.jpg",
         "crop": [
-          40,
-          40,
-          700,
-          500
+          300,
+          60,
+          1620,
+          1050
         ]
       },
-      "eyebrow": "Where 3T shines",
-      "title": "Often chosen for these exams.",
+      "eyebrow": "Same price, our strongest magnet",
+      "title": "Why 3T?",
       "items": [
-        "Brain and pituitary, where tiny details matter.",
-        "Prostate MRI.",
-        "Small joints, cartilage and ligaments."
+        "Twice the magnet strength of a standard 1.5T.",
+        "Finer detail: brain, prostate, small joints.",
+        "No radiation. Results in 2 to 3 days."
       ]
     },
     {
@@ -75,34 +86,22 @@
       "footnote": "Implant MRI safety ratings list the magnet strengths they cover. Source: FDA MRI safety labeling guidance."
     },
     {
-      "type": "cards",
-      "eyebrow": "Booking is easy",
-      "title": "3T MRI in St. Petersburg.",
-      "cards": [
-        [
-          "No referral",
-          "needed for self-pay. With insurance, bring your doctor&#39;s order"
-        ],
-        [
-          "$295",
-          "self-pay, radiologist reading included"
-        ],
-        [
-          "Same day",
-          "appointments are often available"
-        ],
-        [
-          "Central Ave",
-          "2201 Central Ave, Suite 100, St. Pete"
+      "type": "perspective",
+      "photo": {
+        "src": "dr-milind-patel.jpg",
+        "crop": [
+          200,
+          40,
+          760,
+          600
         ]
-      ],
-      "footnote": "Your doctor picks the right MRI for you. Coverage varies by plan."
-    },
-    {
-      "type": "cta",
-      "title": "Sharper pictures, clearer answers.",
-      "title_accent": "Book your MRI.",
-      "share": "Know someone due for an MRI? Send them this."
+      },
+      "eyebrow": "From our radiologist",
+      "quote": "Nobody should wait weeks for an answer or guess what a scan will cost. So we post one clear price, often scan the same day, and get results to your doctor fast. If your insurance is the better deal, we&#39;ll tell you that too.",
+      "quote_size": 48,
+      "name": "Dr. Milind Patel",
+      "role": "Radiologist, Advanced Medical Imaging",
+      "disclaimer": "General information, not medical advice. Self-pay prices as of October 2026."
     }
   ],
   "gbp": {
@@ -115,33 +114,35 @@
         900
       ]
     },
-    "eyebrow": "Our technology: 3T MRI",
-    "title": "Twice the magnet.",
-    "title_accent": "Sharper detail.<br>Same price.",
-    "sub": "3T MRI in St. Petersburg. No radiation. Self-pay from $295."
+    "eyebrow": "3T MRI in St. Petersburg",
+    "title": "No insurance wait.",
+    "title_accent": "One clear price.",
+    "sub": "Self-pay 3T MRI $295, radiologist reading included. No referral needed. Same-day often available.",
+    "button": "advancedimg.com"
   },
   "captions": {
-    "instagram": "Twice the magnet, sharper detail, same price. Meet our 3T MRI in St. Pete. 🧲\n\n✔️ 3 Tesla is twice the magnet strength of a standard 1.5T MRI\n✔️ Finer detail for small structures like the brain, nerves, prostate and cartilage\n✔️ No radiation: MRI uses a magnet and radio waves\n✔️ It's louder, so earplugs or music are provided\n✔️ Self-pay $295, no referral needed, same-day appointments often available\n\nHave an implant? Tell us before your scan, even if you've had an MRI before. Safety ratings depend on magnet strength.\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone who needs an MRI? Send this to them.\n\nGeneral information, not medical advice. Your doctor chooses the right MRI for your exam.\n\n#MedicalTechnology #MRI #3TMRI #StPete #PinellasCounty",
-    "facebook": "Twice the magnet, sharper detail, same price. Meet our 3T MRI in St. Pete. 🧲\n\n✔️ 3 Tesla is twice the magnet strength of a standard 1.5T MRI\n✔️ Finer detail for small structures like the brain, nerves, prostate and cartilage\n✔️ No radiation: MRI uses a magnet and radio waves\n✔️ It's louder, so earplugs or music are provided\n✔️ Self-pay $295 ($395 with contrast), no referral needed, same-day appointments often available\n\nHave an implant? Tell us before your scan, even if you've had an MRI before. Safety ratings depend on magnet strength.\n\n📍 2201 Central Ave, Suite 100, St. Petersburg\n📅 Book online: https://www.advancedimg.com/lp/3t-mri-st-pete?utm_source=facebook&utm_medium=social&utm_campaign=3t-mri-tech\n📞 Or call (727) 398-5999\n\nKnow someone who needs an MRI? Share this with them.\n\nGeneral information, not medical advice. Your doctor chooses the right MRI for your exam.\n\n#3TMRI #MRI #StPete",
-    "gbp": "Meet our 3T MRI in St. Petersburg. A 3 Tesla MRI has twice the magnet strength of a standard 1.5T scanner, which gives finer detail for small structures such as the brain and pituitary, nerves, the prostate, and cartilage and ligaments in small joints. Like every MRI, it uses a magnet and radio waves, with no radiation. A 3T scanner is louder than a standard MRI, so we provide earplugs or music. If you have any implant, tell us before your scan, even if you've had an MRI before, because implant safety ratings depend on magnet strength. Self-pay 3T MRI is $295 without contrast and $395 with, the same price as our other MRIs, with the radiologist's reading included. No referral is needed for self-pay, and same-day appointments are often available. Your doctor chooses the right MRI for your exam. Visit us at 2201 Central Ave, Suite 100.\n\nBook online at advancedimg.com. General information, not medical advice."
+    "instagram": "Waiting on insurance to approve your MRI? There's another way. 🧲\n\nThe insurance runaround is real: days of waiting for an approval, not knowing what you'll owe, a deductible you haven't met yet.\n\nWith self-pay at our St. Pete 3T MRI:\n✔️ One clear price: $295, radiologist reading included ($395 with contrast)\n✔️ No facility or reading fees added later\n✔️ No referral needed, so there's no approval to wait for\n✔️ Same-day appointments often available\n✔️ 3 Tesla: twice the magnet strength of a standard MRI, with finer detail and no radiation\n\n\"Nobody should wait weeks for an answer or guess what a scan will cost. If your insurance is the better deal, we'll tell you that too.\" – Dr. Milind Patel, radiologist\n\nPrefer to use insurance? We still handle the authorization for you.\n\nGeneral information, not medical advice. Using Medicare or Medicaid? Ask us what applies to you.\n\n#HealthcareCosts #MRI #3TMRI #StPete #PinellasCounty",
+    "facebook": "Waiting on insurance to approve your MRI? There's another way. 🧲\n\nThe insurance runaround is real: days of waiting for an approval, not knowing what you'll owe, a deductible you haven't met yet.\n\nWith self-pay at our St. Pete 3T MRI:\n✔️ One clear price: $295, radiologist reading included ($395 with contrast)\n✔️ No facility or reading fees added later\n✔️ No referral needed, so there's no approval to wait for\n✔️ Same-day appointments often available\n✔️ 3 Tesla: twice the magnet strength of a standard MRI, with finer detail and no radiation\n\n\"Nobody should wait weeks for an answer or guess what a scan will cost. If your insurance is the better deal, we'll tell you that too.\" – Dr. Milind Patel, radiologist\n\nPrefer to use insurance? We still handle the authorization for you.\n\n📍 2201 Central Ave, Suite 100, St. Petersburg · (727) 398-5999\n🔗 Prices and details: https://www.advancedimg.com/lp/3t-mri-st-pete?utm_source=facebook&utm_medium=social&utm_campaign=3t-mri-self-pay\n\nGeneral information, not medical advice. Using Medicare or Medicaid? Ask us what applies to you.\n\n#3TMRI #MRI #StPete",
+    "gbp": "Waiting on insurance to approve your MRI? There's another way. With self-pay at our St. Petersburg 3T MRI, there is no authorization to wait for and no referral needed. You get one clear price: $295, or $395 with contrast, with the radiologist's reading included and no facility or reading fees added later. Same-day appointments are often available. Our 3 Tesla scanner has twice the magnet strength of a standard 1.5T MRI, giving finer detail for the brain, prostate and small joints, with no radiation, and results go to your doctor in 48 to 72 hours. If you have any implant, tell us before your scan, even if you've had an MRI before. Prefer to use insurance? We still verify your benefits and handle the authorization for you. Using Medicare or Medicaid? Ask us what applies to you. Visit us at 2201 Central Ave, Suite 100.\n\nMore at advancedimg.com. General information, not medical advice."
   },
   "alt_text": {
     "carousel": [
-      "A physician points at a spine MRI on a monitor, with an MRI scanner behind the window. Our technology: 3T MRI. Twice the magnet, sharper detail, same price.",
-      "What makes 3T different: 3 Tesla is twice the magnet strength of a standard 1.5T MRI; finer detail for nerves and cartilage; no radiation; $295 self-pay, the same as our other MRIs.",
-      "A technologist beside a patient on an MRI table. Where 3T shines: brain and pituitary, prostate MRI, and small joints, cartilage and ligaments.",
+      "A technologist beside a patient lying on an MRI table. Waiting on insurance to approve your MRI? There's another way.",
+      "The insurance runaround: days of waiting for an approval, not knowing what you'll owe, a deductible you haven't met yet. If you'd rather use insurance, we still handle the authorization.",
+      "One clear price, no approval to wait for: $295 self-pay 3T MRI with the radiologist reading included; no referral needed for self-pay; same-day appointments often available; no facility or reading fees added later.",
+      "A physician reviews a spine MRI with the scanner behind the window. Why 3T: twice the magnet strength of a standard 1.5T MRI; finer detail for the brain, prostate and small joints; no radiation, results in 2 to 3 days.",
       "Before your 3T MRI: tell us about any implant, even if you've had an MRI before; 3T is louder, earplugs or music provided; wear clothes with no metal; arrive 15 minutes early.",
-      "3T MRI in St. Petersburg: no referral needed for self-pay; $295 with the radiologist reading included; same-day appointments often available; 2201 Central Ave, Suite 100.",
-      "Sharper pictures, clearer answers. Book your MRI. Call (727) 398-5999 or use the link in bio."
+      "Dr. Milind Patel, radiologist: Nobody should wait weeks for an answer or guess what a scan will cost. So we post one clear price, often scan the same day, and get results to your doctor fast. If your insurance is the better deal, we'll tell you that too."
     ],
-    "gbp": "A physician reviews a spine MRI with an MRI scanner behind the window. 3T MRI in St. Petersburg: twice the magnet, sharper detail, same price, self-pay from $295."
+    "gbp": "A physician reviews a spine MRI. Skip the insurance wait: self-pay 3T MRI in St. Petersburg, one clear price of $295 with the radiologist reading included."
   },
-  "facts_checked": "No ionizing radiation; loud knocking noise needs ear protection; implants must be MR Safe/MR Conditional: FDA MRI Benefits and Risks page. MR Conditional labeling lists permitted static field strength (e.g. 1.5T or 3.0T): FDA guidance 'Testing and Labeling Medical Devices for Safety in the MR Environment'. 3T = 2x 1.5T field, finer detail for brain/prostate/small joints, louder, prices $295/$395, no referral self-pay, same-day, St. Pete address: amiweb services-data.ts 3t-mri and mri entries, pricing page. Could not open the PubMed 1.5T vs 3T systematic review (rate limited). Checked 2026-10-14.",
+  "facts_checked": "No ionizing radiation; loud knocking noise needs ear protection; implants must be MR Safe/MR Conditional: FDA MRI Benefits and Risks page. MR Conditional labeling lists permitted static field strength (e.g. 1.5T or 3.0T): FDA guidance 'Testing and Labeling Medical Devices for Safety in the MR Environment'. 3T = 2x 1.5T field, finer detail for brain/prostate/small joints, louder, prices $295/$395, no referral self-pay, same-day, St. Pete address: amiweb services-data.ts 3t-mri and mri entries, pricing page. Could not open the PubMed 1.5T vs 3T systematic review (rate limited). Checked 2026-10-14. Self-pay framing: pricing/page.tsx ('Skip prior authorizations, denials, and surprise bills. Know your price upfront'), services-data.ts MRI FAQ (self-pay same day, no authorization to wait for; with insurance we handle authorization), 3T 48-72h results. Dr. Patel quote drafted by Claude, needs his approval.",
   "flag": "services-data.ts 3t-mri headline/meta say '3T MRI in Seminole & St. Petersburg' and 'Seminole FL', but the MRI 'Which location' FAQ says Seminole has open and 1.5T and St. Pete is the dedicated 3T center. Post says 3T is in St. Pete only.",
-  "status": "awaiting approval",
+  "status": "awaiting approval (v2)",
   "planned_time": "2026-10-15 (time from Metricool best time, else 10:00 America/New_York)",
   "canva": {
     "carousel": "DAHX_FtaTWk",
     "gbp": "DAHX_NGAgaQ"
-  }
+  },
+  "structure": "Post + problem (insurance authorization, unknown cost) + solution (self-pay price, no referral, same day, 3T) + perspective (Dr. Patel) + no ask (no booking CTA). Per Milind 2026-10-14."
 }
