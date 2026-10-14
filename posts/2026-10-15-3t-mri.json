@@ -138,6 +138,10 @@
   },
   "facts_checked": "No ionizing radiation; loud knocking noise needs ear protection; implants must be MR Safe/MR Conditional: FDA MRI Benefits and Risks page. MR Conditional labeling lists permitted static field strength (e.g. 1.5T or 3.0T): FDA guidance 'Testing and Labeling Medical Devices for Safety in the MR Environment'. 3T = 2x 1.5T field, finer detail for brain/prostate/small joints, louder, prices $295/$395, no referral self-pay, same-day, St. Pete address: amiweb services-data.ts 3t-mri and mri entries, pricing page. Could not open the PubMed 1.5T vs 3T systematic review (rate limited). Checked 2026-10-14.",
   "flag": "services-data.ts 3t-mri headline/meta say '3T MRI in Seminole & St. Petersburg' and 'Seminole FL', but the MRI 'Which location' FAQ says Seminole has open and 1.5T and St. Pete is the dedicated 3T center. Post says 3T is in St. Pete only.",
-  "status": "draft",
-  "planned_time": "2026-10-15 (time from Metricool best time, else 10:00 America/New_York)"
+  "status": "awaiting approval",
+  "planned_time": "2026-10-15 (time from Metricool best time, else 10:00 America/New_York)",
+  "canva": {
+    "carousel": "DAHX_FtaTWk",
+    "gbp": "DAHX_NGAgaQ"
+  }
 }
