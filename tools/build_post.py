@@ -295,8 +295,43 @@ class Builder:
             f'<p style="margin: 0; font-size: 22px; line-height: 1.45; color: {P["accent_dark"]}">{sl.get("disclaimer", "General information, not medical advice. Coverage and costs vary by plan.")}</p></div>')
 
     # ----- other formats -----
+    def poster(self, sl, label, w=1080, h=1350):
+        """Bold one-page price poster: crossed-out pains, one big promise, a price grid. No photo."""
+        P = self.P
+        land = w > h
+        pad = 64 if land else 88
+        inner = w - 2 * pad
+        strike_size = sl.get("strike_size", 50 if land else 64)
+        strikes = "".join(
+            f'<p style="margin: 0; {H}; font-weight: 700; font-size: {strike_size}px; line-height: 1.1; color: {P["on_dark"]}; '
+            f'text-decoration: line-through; text-decoration-color: #FF6B6B; text-decoration-thickness: 7px">{t}</p>' for t in sl["strikes"])
+        cols = 3
+        gap = 18
+        cw = (inner - gap * (cols - 1)) // cols
+        big = 64 if land else 76
+        cells = "".join(
+            f'<div style="width: {cw}px; box-sizing: border-box; background: {P["card"]}; border-radius: 20px; padding: {18 if land else 26}px {20 if land else 26}px; '
+            f'display: flex; flex-direction: column; gap: 6px">'
+            f'<span style="{H}; font-weight: 800; font-size: {big}px; line-height: 1; letter-spacing: -0.02em; color: #FFFFFF">{pr}</span>'
+            f'<span style="font-size: {22 if land else 28}px; font-weight: 600; line-height: 1.2; color: {P["accent_dark"]}">{name}</span></div>'
+            for name, pr in sl["prices"])
+        return (f'<div data-document-role="page" data-label="{label}" style="position: relative; width: {w}px; height: {h}px; box-sizing: border-box; '
+                f'padding: {pad}px; overflow: hidden; background: {P["dark"]}; color: #FFFFFF; {B}; display: flex; flex-direction: column; justify-content: space-between">'
+                + self.rings(-520, -460) + self.wordmark(True, 20 if land else 24)
+                + f'<div style="position: relative; display: flex; flex-direction: column; gap: {12 if land else 18}px">{strikes}</div>'
+                + self.heading(sl["title"], sl.get("title_accent"), sl.get("title_size", 72 if land else 104), dark=True, tag="h1", width=inner)
+                + f'<div style="position: relative; display: flex; flex-wrap: wrap; gap: {gap}px; width: {inner}px">{cells}</div>'
+                + f'<div style="position: relative; display: flex; flex-direction: column; gap: 10px">'
+                f'<p style="margin: 0; font-size: {24 if land else 30}px; font-weight: 600; line-height: 1.35; width: {inner}px">{sl.get("line", "")}</p>'
+                f'<p style="margin: 0; font-size: {16 if land else 20}px; line-height: 1.4; width: {inner}px; color: {P["accent_dark"]}">{sl.get("footnote", "")}</p></div></div>')
+
+    def s_poster(self, sl, i):
+        return self.poster(sl, f"Slide {i} Poster")
+
     def single(self, sp):
         """1080x1350 single image (organic single post or ad creative)."""
+        if sp.get("layout") == "poster":
+            return self.poster(sp, "Single")
         P = self.P
         photo = self.save_photo(sp["photo"], (INNER, 494), "round")
         rib = self.ribbon(30, P["ribbon_dark"], P["dark"]) if self.use_ribbon else ""
@@ -312,7 +347,9 @@ class Builder:
             f'<span style="font-size: 24px; color: {P["on_dark"]}">{sp.get("footer", "9555 Seminole Blvd")}</span></div>')
 
     def gbp(self, g):
-        """1200x900 (4:3) image for Google Business Profile posts: photo left, text right."""
+        """1200x900 (4:3) image for Google Business Profile posts: photo left, text right (or layout "poster")."""
+        if g.get("layout") == "poster":
+            return self.poster(g, "Google 4x3", 1200, 900)
         P = self.P
         photo = self.save_photo(g["photo"], (600, 900))
         rib = self.ribbon(24, P["ribbon_dark"], P["dark"]) if self.use_ribbon else ""
@@ -394,7 +431,7 @@ def main():
     out.mkdir(parents=True, exist_ok=True)
     b = Builder(spec, out, "img/" if preview else f"{BASE_URL}{slug}/img/", photos)
     kinds = {"hook": b.s_hook, "stat": b.s_stat, "photo_list": b.s_photo_list, "cards": b.s_cards,
-             "list": b.s_list, "steps": b.s_steps, "quote": b.s_quote, "perspective": b.s_perspective, "cta": b.s_cta}
+             "list": b.s_list, "steps": b.s_steps, "quote": b.s_quote, "perspective": b.s_perspective, "poster": b.s_poster, "cta": b.s_cta}
     files = []
     if spec.get("slides"):
         pages = [kinds[sl["type"]](sl, i) for i, sl in enumerate(spec["slides"], 1)]
