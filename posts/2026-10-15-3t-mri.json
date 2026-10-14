@@ -115,12 +115,14 @@
   "status": "awaiting approval (v3)",
   "planned_time": "2026-10-15 (time from Metricool best time, else 10:00 America/New_York)",
   "canva": {
-    "carousel": "DAHYBSxO9co",
-    "gbp": "DAHYBfpyTUo",
-    "open_transaction": "3971567965442300757 (page 1 heading resized to wrap; commit on approval)",
-    "v1_archived": [
+    "single": "DAHYBeksCYo",
+    "carousel": "DAHYBY6v124",
+    "gbp": "DAHYBY4NcXE",
+    "archived": [
       "DAHX_FtaTWk",
-      "DAHX_NGAgaQ"
+      "DAHX_NGAgaQ",
+      "DAHYBSxO9co",
+      "DAHYBfpyTUo"
     ]
   },
   "structure": "v3 per Milind: dramatic one-pager (crossed-out pains + one clear price list) + optional perspective page; no ask. Option A: 2-slide carousel IG/FB. Option B: single poster everywhere.",
