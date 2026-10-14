@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-15-3t-mri",
+  "title": "Our technology: 3T MRI in St. Pete",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "service-3t-mri.jpg",
+        "crop": [
+          640,
+          0,
+          1504,
+          1080
+        ]
+      },
+      "eyebrow": "Our technology: 3T MRI",
+      "title": "Twice the magnet.",
+      "title_accent": "Sharper detail.<br>Same price."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "3T at a glance",
+      "title": "What makes 3T different?",
+      "cards": [
+        [
+          "3 Tesla",
+          "twice the magnet strength of a standard 1.5T MRI"
+        ],
+        [
+          "Finer detail",
+          "for small structures like nerves and cartilage"
+        ],
+        [
+          "0",
+          "radiation: MRI uses a magnet and radio waves"
+        ],
+        [
+          "$295",
+          "self-pay, the same price as our other MRIs"
+        ]
+      ],
+      "footnote": "Self-pay $295 without contrast, $395 with. Source for no radiation: FDA, MRI Benefits and Risks."
+    },
+    {
+      "type": "photo_list",
+      "photo": {
+        "src": "service-mri.jpg",
+        "crop": [
+          40,
+          40,
+          700,
+          500
+        ]
+      },
+      "eyebrow": "Where 3T shines",
+      "title": "Often chosen for these exams.",
+      "items": [
+        "Brain and pituitary, where tiny details matter.",
+        "Prostate MRI.",
+        "Small joints, cartilage and ligaments."
+      ]
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before your 3T MRI",
+      "items": [
+        "Tell us about any implant, even if you&#39;ve had an MRI before.",
+        "3T is louder. Earplugs or music are provided.",
+        "Wear clothes with no metal zippers, buttons or underwire.",
+        "Arrive 15 minutes early for safety screening."
+      ],
+      "footnote": "Implant MRI safety ratings list the magnet strengths they cover. Source: FDA MRI safety labeling guidance."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Booking is easy",
+      "title": "3T MRI in St. Petersburg.",
+      "cards": [
+        [
+          "No referral",
+          "needed for self-pay. With insurance, bring your doctor&#39;s order"
+        ],
+        [
+          "$295",
+          "self-pay, radiologist reading included"
+        ],
+        [
+          "Same day",
+          "appointments are often available"
+        ],
+        [
+          "Central Ave",
+          "2201 Central Ave, Suite 100, St. Pete"
+        ]
+      ],
+      "footnote": "Your doctor picks the right MRI for you. Coverage varies by plan."
+    },
+    {
+      "type": "cta",
+      "title": "Sharper pictures, clearer answers.",
+      "title_accent": "Book your MRI.",
+      "share": "Know someone due for an MRI? Send them this."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "service-3t-mri.jpg",
+      "crop": [
+        420,
+        0,
+        1620,
+        900
+      ]
+    },
+    "eyebrow": "Our technology: 3T MRI",
+    "title": "Twice the magnet.",
+    "title_accent": "Sharper detail.<br>Same price.",
+    "sub": "3T MRI in St. Petersburg. No radiation. Self-pay from $295."
+  },
+  "captions": {
+    "instagram": "Twice the magnet, sharper detail, same price. Meet our 3T MRI in St. Pete. 🧲\n\n✔️ 3 Tesla is twice the magnet strength of a standard 1.5T MRI\n✔️ Finer detail for small structures like the brain, nerves, prostate and cartilage\n✔️ No radiation: MRI uses a magnet and radio waves\n✔️ It's louder, so earplugs or music are provided\n✔️ Self-pay $295, no referral needed, same-day appointments often available\n\nHave an implant? Tell us before your scan, even if you've had an MRI before. Safety ratings depend on magnet strength.\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone who needs an MRI? Send this to them.\n\nGeneral information, not medical advice. Your doctor chooses the right MRI for your exam.\n\n#MedicalTechnology #MRI #3TMRI #StPete #PinellasCounty",
+    "facebook": "Twice the magnet, sharper detail, same price. Meet our 3T MRI in St. Pete. 🧲\n\n✔️ 3 Tesla is twice the magnet strength of a standard 1.5T MRI\n✔️ Finer detail for small structures like the brain, nerves, prostate and cartilage\n✔️ No radiation: MRI uses a magnet and radio waves\n✔️ It's louder, so earplugs or music are provided\n✔️ Self-pay $295 ($395 with contrast), no referral needed, same-day appointments often available\n\nHave an implant? Tell us before your scan, even if you've had an MRI before. Safety ratings depend on magnet strength.\n\n📍 2201 Central Ave, Suite 100, St. Petersburg\n📅 Book online: https://www.advancedimg.com/lp/3t-mri-st-pete?utm_source=facebook&utm_medium=social&utm_campaign=3t-mri-tech\n📞 Or call (727) 398-5999\n\nKnow someone who needs an MRI? Share this with them.\n\nGeneral information, not medical advice. Your doctor chooses the right MRI for your exam.\n\n#3TMRI #MRI #StPete",
+    "gbp": "Meet our 3T MRI in St. Petersburg. A 3 Tesla MRI has twice the magnet strength of a standard 1.5T scanner, which gives finer detail for small structures such as the brain and pituitary, nerves, the prostate, and cartilage and ligaments in small joints. Like every MRI, it uses a magnet and radio waves, with no radiation. A 3T scanner is louder than a standard MRI, so we provide earplugs or music. If you have any implant, tell us before your scan, even if you've had an MRI before, because implant safety ratings depend on magnet strength. Self-pay 3T MRI is $295 without contrast and $395 with, the same price as our other MRIs, with the radiologist's reading included. No referral is needed for self-pay, and same-day appointments are often available. Your doctor chooses the right MRI for your exam. Visit us at 2201 Central Ave, Suite 100.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A physician points at a spine MRI on a monitor, with an MRI scanner behind the window. Our technology: 3T MRI. Twice the magnet, sharper detail, same price.",
+      "What makes 3T different: 3 Tesla is twice the magnet strength of a standard 1.5T MRI; finer detail for nerves and cartilage; no radiation; $295 self-pay, the same as our other MRIs.",
+      "A technologist beside a patient on an MRI table. Where 3T shines: brain and pituitary, prostate MRI, and small joints, cartilage and ligaments.",
+      "Before your 3T MRI: tell us about any implant, even if you've had an MRI before; 3T is louder, earplugs or music provided; wear clothes with no metal; arrive 15 minutes early.",
+      "3T MRI in St. Petersburg: no referral needed for self-pay; $295 with the radiologist reading included; same-day appointments often available; 2201 Central Ave, Suite 100.",
+      "Sharper pictures, clearer answers. Book your MRI. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A physician reviews a spine MRI with an MRI scanner behind the window. 3T MRI in St. Petersburg: twice the magnet, sharper detail, same price, self-pay from $295."
+  },
+  "facts_checked": "No ionizing radiation; loud knocking noise needs ear protection; implants must be MR Safe/MR Conditional: FDA MRI Benefits and Risks page. MR Conditional labeling lists permitted static field strength (e.g. 1.5T or 3.0T): FDA guidance 'Testing and Labeling Medical Devices for Safety in the MR Environment'. 3T = 2x 1.5T field, finer detail for brain/prostate/small joints, louder, prices $295/$395, no referral self-pay, same-day, St. Pete address: amiweb services-data.ts 3t-mri and mri entries, pricing page. Could not open the PubMed 1.5T vs 3T systematic review (rate limited). Checked 2026-10-14.",
+  "flag": "services-data.ts 3t-mri headline/meta say '3T MRI in Seminole & St. Petersburg' and 'Seminole FL', but the MRI 'Which location' FAQ says Seminole has open and 1.5T and St. Pete is the dedicated 3T center. Post says 3T is in St. Pete only.",
+  "status": "draft",
+  "planned_time": "2026-10-15 (time from Metricool best time, else 10:00 America/New_York)"
+}
