@@ -125,5 +125,10 @@
   "facts_checked": "No clinical claims in this post (booking logistics only), so no guideline search needed. Sources, amiweb main 9440b6b, checked 2026-10-15: schedule/page.tsx (online request asks insurance or self-pay; 'We'll confirm within one business day'; 'Same-day often available for self-pay'; 'Self-pay patients do not need a referral'); patient-resources and pricing FAQ (insurance needs a physician's order); insurance/page.tsx (free benefits verification; bring photo ID, insurance card, doctor's order for insurance patients, prior imaging CDs or reports); services-data.ts (results to your doctor in 48 to 72 hours; with insurance usually the same week once authorization comes through, which we handle; 'eligible' self-pay exams need no referral, so 'most'); constants.ts (Mon to Fri 8 to 5).",
   "flag": "Hook photo hero-radiologist-patient.jpg is a stock image (also used on the Oct 10 hook, different crop); copy does not call the people staff or patients. Waiting room photo is the real Seminole office. No staff photos used (per 2026-10-13 note). Topic chosen instead of a self-pay price post because the Oct 15 price poster is still awaiting approval.",
   "status": "awaiting approval",
-  "planned_time": "2026-10-16 (time from Metricool best time, else 10:00 America/New_York)"
+  "planned_time": "2026-10-16 (time from Metricool best time, else 10:00 America/New_York)",
+  "canva": {
+    "carousel": "DAHYFP0plUM",
+    "gbp": "DAHYFETXGgU",
+    "open_transaction": "6794199096409685496 (carousel page 1: hook heading resized to 904px so it wraps; commit on approval)"
+  }
 }
