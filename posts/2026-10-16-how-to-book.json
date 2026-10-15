@@ -1,0 +1,129 @@
+{
+  "slug": "2026-10-16-how-to-book",
+  "title": "Booking made easy: how to book your scan",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "hero-radiologist-patient.jpg",
+        "crop": [
+          560,
+          0,
+          1536,
+          813
+        ]
+      },
+      "eyebrow": "Booking made easy",
+      "title": "Need a scan?",
+      "title_accent": "Here&#39;s how easy booking is."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How it works",
+      "title": "From request to scan in 3 steps.",
+      "steps": [
+        [
+          "Request online or call",
+          "Tell us your exam and whether you&#39;re using insurance or self-pay."
+        ],
+        [
+          "We call to confirm",
+          "Our team reaches out within one business day."
+        ],
+        [
+          "Come in for your scan",
+          "Your report goes to your doctor in 48 to 72 hours."
+        ]
+      ],
+      "footnote": "Open Monday to Friday, 8 to 5. Seminole &amp; St. Pete."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Two ways to book",
+      "title": "Insurance or self-pay. Both are simple.",
+      "cards": [
+        [
+          "Insurance",
+          "Bring your doctor&#39;s order. We check your benefits for free."
+        ],
+        [
+          "We handle it",
+          "We take care of the authorization with your plan."
+        ],
+        [
+          "Self-pay",
+          "No referral needed for most exams."
+        ],
+        [
+          "Same day",
+          "often available for self-pay patients."
+        ]
+      ],
+      "footnote": "With insurance, most scans happen the same week, once your plan approves. Coverage varies by plan."
+    },
+    {
+      "type": "photo_list",
+      "photo": {
+        "src": "facility/waiting-1.jpg",
+        "crop": [
+          0,
+          160,
+          1600,
+          1048
+        ]
+      },
+      "eyebrow": "Save this for scan day",
+      "title": "What to bring with you.",
+      "items": [
+        "A photo ID.",
+        "Using insurance? Your card and doctor&#39;s order.",
+        "CDs or reports from scans you had elsewhere.",
+        "Arrive a few minutes early to check in."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Ready when you are.",
+      "title_accent": "We&#39;ll handle the rest.",
+      "share": "Send this to someone putting off a scan.",
+      "disclaimer": "General information, not medical advice. Coverage varies by plan."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "facility/waiting-1.jpg",
+      "crop": [
+        520,
+        0,
+        1320,
+        1200
+      ]
+    },
+    "eyebrow": "Booking made easy",
+    "title": "Need a scan?",
+    "title_accent": "Booking takes 3 easy steps.",
+    "sub": "Request online or call, we confirm within one business day, then come in. No referral needed for most self-pay exams.",
+    "button": "Book at advancedimg.com"
+  },
+  "captions": {
+    "instagram": "Need a scan? Booking is easier than you think. 💙\n\nHere's how it works at Advanced Medical Imaging:\n✔️ Request online or call us, and tell us if you're using insurance or self-pay\n✔️ We call you back to confirm within one business day\n✔️ Using insurance? Bring your doctor's order. We check your benefits for free and handle the authorization\n✔️ Self-pay? Most exams need no referral, and same-day is often available\n✔️ Your report goes to your doctor in 48 to 72 hours\n\n📌 Save this so you know what to bring: photo ID, insurance card and doctor's order (if using insurance), and any past scans from elsewhere.\n\n📅 Book through the link in our bio or call (727) 398-5999. Open Monday to Friday, 8 to 5, in Seminole and St. Pete.\n\nKnow someone putting off a scan? Send this to them.\n\nGeneral information, not medical advice. Coverage varies by plan.\n\n#HealthTips #MRI #MedicalImaging #SeminoleFL #PinellasCounty",
+    "facebook": "Need a scan? Booking is easier than you think. 💙\n\nHere's how it works at Advanced Medical Imaging:\n✔️ Request online or call us, and tell us if you're using insurance or self-pay\n✔️ We call you back to confirm within one business day\n✔️ Using insurance? Bring your doctor's order. We check your benefits for free and handle the authorization\n✔️ Self-pay? Most exams need no referral, and same-day is often available\n✔️ Your report goes to your doctor in 48 to 72 hours\n\nWhat to bring: photo ID, insurance card and doctor's order (if using insurance), and any past scans from elsewhere.\n\n📅 Request an appointment: https://www.advancedimg.com/schedule?utm_source=facebook&utm_medium=social&utm_campaign=how-to-book\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 Seminole: 9555 Seminole Blvd · St. Pete 3T MRI: 2201 Central Ave\n\nKnow someone putting off a scan? Share this with them.\n\nGeneral information, not medical advice. Coverage varies by plan.\n\n#MedicalImaging #MRI #SeminoleFL",
+    "gbp": "Need a scan? Booking with Advanced Medical Imaging takes three easy steps. First, request an appointment online or call us, and let us know your exam and whether you're using insurance or paying yourself. Second, our team calls you back to confirm within one business day. Third, come in for your scan, and your radiologist's report goes to your doctor in 48 to 72 hours. If you're using insurance, bring your doctor's order; we check your benefits for free and take care of the authorization with your plan, and most insured scans happen the same week once your plan approves. If you're paying yourself, most exams need no referral and same-day appointments are often available. On scan day, bring a photo ID, your insurance card and doctor's order if you're using insurance, and any CDs or reports from scans you had elsewhere. We're open Monday to Friday, 8 to 5, in Seminole and at our St. Petersburg 3T MRI center. Coverage varies by plan.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A healthcare worker shows a woman a scan on a tablet. Booking made easy: need a scan? Here's how easy booking is.",
+      "How it works, from request to scan in 3 steps: request online or call; we call to confirm within one business day; come in for your scan, with your report to your doctor in 48 to 72 hours. Open Monday to Friday, 8 to 5.",
+      "Two ways to book. Insurance: bring your doctor's order, we check your benefits for free and handle the authorization. Self-pay: no referral needed for most exams, and same day is often available.",
+      "The Advanced Medical Imaging waiting room. What to bring: a photo ID; your insurance card and doctor's order if using insurance; CDs or reports from scans you had elsewhere; arrive a few minutes early to check in.",
+      "Ready when you are. We'll handle the rest. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "The Advanced Medical Imaging waiting room. Need a scan? Booking takes 3 easy steps: request online or call, we confirm within one business day, then come in."
+  },
+  "facts_checked": "No clinical claims in this post (booking logistics only), so no guideline search needed. Sources, amiweb main 9440b6b, checked 2026-10-15: schedule/page.tsx (online request asks insurance or self-pay; 'We'll confirm within one business day'; 'Same-day often available for self-pay'; 'Self-pay patients do not need a referral'); patient-resources and pricing FAQ (insurance needs a physician's order); insurance/page.tsx (free benefits verification; bring photo ID, insurance card, doctor's order for insurance patients, prior imaging CDs or reports); services-data.ts (results to your doctor in 48 to 72 hours; with insurance usually the same week once authorization comes through, which we handle; 'eligible' self-pay exams need no referral, so 'most'); constants.ts (Mon to Fri 8 to 5).",
+  "flag": "Hook photo hero-radiologist-patient.jpg is a stock image (also used on the Oct 10 hook, different crop); copy does not call the people staff or patients. Waiting room photo is the real Seminole office. No staff photos used (per 2026-10-13 note). Topic chosen instead of a self-pay price post because the Oct 15 price poster is still awaiting approval.",
+  "status": "awaiting approval",
+  "planned_time": "2026-10-16 (time from Metricool best time, else 10:00 America/New_York)"
+}
