@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-17-dense-breasts",
+  "title": "Breast Cancer Awareness Month: what dense breasts mean",
+  "palette": "pink",
+  "ribbon": true,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "hero-radiologist-patient.jpg",
+        "crop": [
+          660,
+          0,
+          1536,
+          730
+        ]
+      },
+      "eyebrow": "Breast Cancer Awareness Month",
+      "title": "Mammogram letter says &quot;dense&quot;?",
+      "title_accent": "Here&#39;s what it means."
+    },
+    {
+      "type": "stat",
+      "eyebrow": "You&#39;re not alone",
+      "title": "Dense breasts are common.",
+      "stat": "1 in 2",
+      "stat_caption": "About half of women 40+ have dense breast tissue.",
+      "card": {
+        "label": "New since September 2024",
+        "title": "Your results letter now tells you",
+        "body": "FDA rules require every mammogram letter to say whether your breast tissue is dense."
+      },
+      "source": "Sources: FDA, Understanding Breast Density; CDC, About Dense Breasts."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What &quot;dense&quot; means",
+      "title": "Normal tissue, just harder to read.",
+      "cards": [
+        [
+          "Normal",
+          "More gland and fiber tissue than fat. Not a disease."
+        ],
+        [
+          "Unseen",
+          "You can&#39;t feel it. Only a mammogram shows it."
+        ],
+        [
+          "Harder",
+          "to read: dense tissue and tumors both look white."
+        ],
+        [
+          "Risk",
+          "Density modestly raises risk. It&#39;s one factor of several."
+        ]
+      ],
+      "footnote": "Sources: American Cancer Society; CDC; FDA."
+    },
+    {
+      "type": "photo_list",
+      "photo": {
+        "src": "facility/mammography.jpg",
+        "crop": [
+          0,
+          360,
+          1200,
+          985
+        ]
+      },
+      "eyebrow": "Options to ask about",
+      "title": "Dense? Your doctor may suggest:",
+      "items": [
+        "A 3D mammogram, which looks at tissue layer by layer.",
+        "A breast ultrasound, with no radiation.",
+        "A breast MRI, mainly for higher-risk women."
+      ]
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "4 questions to ask your doctor",
+      "items": [
+        "Is my tissue dense? Which category, A to D?",
+        "Should my yearly screening be a 3D mammogram?",
+        "Would an ultrasound or MRI help in my case?",
+        "Will my insurance cover extra screening?"
+      ],
+      "footnote": "Experts don&#39;t yet agree on extra tests for dense breasts (USPSTF 2024: not enough evidence; ACS: talk with your doctor)."
+    },
+    {
+      "type": "cta",
+      "title": "Book your 3D mammogram.",
+      "title_accent": "Breast ultrasound, too, in Seminole.",
+      "share": "Send this to a friend who just got her results.",
+      "disclaimer": "General information, not medical advice. Coverage varies by plan."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "facility/mammography.jpg",
+      "crop": [
+        0,
+        100,
+        1000,
+        1600
+      ]
+    },
+    "eyebrow": "Breast Cancer Awareness Month",
+    "title": "Told you have dense breasts?",
+    "title_accent": "Here&#39;s what it means.",
+    "sub": "About half of women 40+ do. 3D mammograms and breast ultrasound in Seminole.",
+    "button": "Book at advancedimg.com"
+  },
+  "captions": {
+    "instagram": "Did your mammogram letter say you have dense breasts? You're not alone. 🎀\n\nAbout half of women 40 and older have dense breast tissue, and since September 2024 every mammogram letter has to tell you. Here's what it means:\n✔️ It's normal tissue, not a disease, and you can't feel it\n✔️ It can make a mammogram harder to read, because dense tissue and tumors both look white\n✔️ It modestly raises breast cancer risk, as one factor among several\n✔️ A 3D mammogram looks at the tissue layer by layer\n✔️ Your doctor may suggest a breast ultrasound or MRI, depending on your overall risk\n\n📌 Save this and bring the 4 questions to your next appointment.\n\n📅 3D mammograms and breast ultrasound in Seminole. Book through the link in our bio or call (727) 398-5999.\n\nKnow someone who just got her results? Send this to her.\n\nGeneral information, not medical advice. Coverage varies by plan.\n\n#BreastCancerAwareness #Mammogram #3DMammography #SeminoleFL #PinellasCounty",
+    "facebook": "Did your mammogram letter say you have dense breasts? You're not alone. 🎀\n\nAbout half of women 40 and older have dense breast tissue, and since September 2024 every mammogram letter has to tell you. Here's what it means:\n✔️ It's normal tissue, not a disease, and you can't feel it\n✔️ It can make a mammogram harder to read, because dense tissue and tumors both look white\n✔️ It modestly raises breast cancer risk, as one factor among several\n✔️ A 3D mammogram looks at the tissue layer by layer\n✔️ Your doctor may suggest a breast ultrasound or MRI, depending on your overall risk\n\nQuestions to ask your doctor: Is my tissue dense, and which category (A to D)? Should my yearly screening be a 3D mammogram? Would an ultrasound or MRI help in my case? Will my insurance cover extra screening?\n\n📅 Book a 3D mammogram or breast ultrasound: https://www.advancedimg.com/lp/mammogram-ultrasound-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=dense-breasts\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 9555 Seminole Blvd, Suite 101, Seminole\n\nKnow someone who just got her results? Share this with her.\n\nGeneral information, not medical advice. Coverage varies by plan.\n\n#BreastCancerAwareness #Mammogram #SeminoleFL",
+    "gbp": "Did your mammogram results letter say you have dense breasts? You're not alone: about half of women 40 and older have dense breast tissue, and since September 2024 federal (FDA) rules require every mammogram letter to say whether your tissue is dense. Dense means your breasts have more glandular and fibrous tissue than fat. It's normal, not a disease, and you can't feel it. It can make a mammogram harder to read, because dense tissue and tumors both look white, and it modestly raises breast cancer risk as one factor among several. A 3D mammogram looks at breast tissue layer by layer, and depending on your overall risk your doctor may suggest a breast ultrasound or MRI. Experts don't yet agree on extra tests for dense breasts, so talk with your doctor about what's right for you. Advanced Medical Imaging offers 3D mammograms and breast ultrasound in Seminole. Coverage varies by plan.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A healthcare worker talks with a smiling woman. Breast Cancer Awareness Month: Mammogram letter says dense? Here's what it means.",
+      "Dense breasts are common: about 1 in 2 women 40 and older have dense breast tissue. Since September 2024, FDA rules require every mammogram letter to say whether your breast tissue is dense.",
+      "What dense means: normal tissue, not a disease; you can't feel it; dense tissue and tumors both look white, so mammograms are harder to read; density modestly raises risk, one factor of several.",
+      "The 3D mammography room at Advanced Medical Imaging in Seminole. If you have dense breasts, your doctor may suggest a 3D mammogram, a breast ultrasound with no radiation, or a breast MRI, mainly for higher-risk women.",
+      "Save this: 4 questions to ask your doctor. Is my tissue dense, and which category, A to D? Should my yearly screening be a 3D mammogram? Would an ultrasound or MRI help in my case? Will my insurance cover extra screening?",
+      "Book your 3D mammogram. Breast ultrasound, too, in Seminole. Call (727) 398-5999 or book through the link in our bio."
+    ],
+    "gbp": "The 3D mammography room at Advanced Medical Imaging in Seminole. Told you have dense breasts? Here's what it means. About half of women 40 and older do."
+  },
+  "facts_checked": "Checked 2026-10-16. FDA 'Understanding Breast Density': approximately half of women over 40 have dense tissue; patient letter must say dense or not dense, effective September 2024; dense tissue can hide cancers and is a risk factor; other imaging may help some. CDC 'About Dense Breasts': about half of women 40+; density is not how breasts feel or look; ultrasound and MRI may find some cancers mammograms miss, with false positives and possible lack of coverage. ACS 'Breast Density and Your Mammogram Report': categories A to D; dense tissue and cancer both look white; 3D may help in dense breasts; experts do not agree on supplemental tests. USPSTF 2024: I statement (insufficient evidence) for supplemental screening in dense breasts. Practice facts from amiweb 5822719: services-data.ts mammography (Hologic 3D, Seminole, breast ultrasound $195 self-pay), lp/mammogram-ultrasound-seminole-fl, constants.ts phone and hours.",
+  "flag": "Second Breast Cancer Awareness post in 8 days (Oct 10 was 'get your mammogram'); this one is a different topic (breast density). Hook photo hero-radiologist-patient.jpg is stock (also Oct 10 and Oct 16 hooks; this crop leaves out the tablet). Mammography room photo is the real Seminole office. Website services-data.ts mammography FAQ says dense breasts affect 'roughly 40% of women over 40'; FDA and CDC say about half. Flagged to Milind.",
+  "status": "awaiting approval",
+  "planned_time": "2026-10-17 (Metricool best time 8:00 to 20:00, else 10:00 America/New_York)"
+}
