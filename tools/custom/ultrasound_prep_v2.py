@@ -358,8 +358,8 @@ def gbp():
              + at(64, 220, f'<div style="display: flex; flex-direction: column; gap: 26px">{eyebrow("Before your ultrasound", ACC_D)}'
                   + h("Ultrasound prep?", "It varies by scan.", 58, "#FFFFFF", ACC_D, 520) + chips
                   + p("Painless, no radiation. $195 self-pay in Seminole, no referral needed.", 28, ON_D, 500) + "</div>")
-             + at(64, 770, f'<div style="display: inline-block; padding: 20px 34px; border-radius: 999px; background: {ACC_D}; '
-                  f'font-size: 28px; font-weight: 700; color: {NAVY}">Book at advancedimg.com</div>'))
+             + at(64, 760, f'<div style="width: 400px; height: 76px; border-radius: 38px; background: {ACC_D}; display: flex; align-items: center; justify-content: center">'
+                  f'<span style="font-size: 28px; font-weight: 700; color: {NAVY}">Book at advancedimg.com</span></div>'))
     return page("Google image", NAVY, inner, w=1200, h=900)
 
 
