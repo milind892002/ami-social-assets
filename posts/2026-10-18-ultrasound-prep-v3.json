@@ -37,5 +37,5 @@
     "note": "Renders placed and layout fixes saved in this new draft design (not an approved design)."
   },
   "flag": "Anatomy images are AI-generated (Canva) 3D renders, not licensed atlas art: Milind (radiologist) to check accuracy. If used, set Instagram isAiGenerated true. Leg-vessel render is low contrast. Pelvis render is female anatomy. Website pelvic prep gap (transvaginal) still open.",
-  "status": "awaiting approval"
+  "status": "rejected by Milind 2026-10-17 (still AI-looking; hard square edges); replaced by v4"
 }
