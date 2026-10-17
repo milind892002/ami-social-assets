@@ -21,7 +21,7 @@ LEFT = [
              ("Prostate MRI (PI-RADS)", "$499", 1), ("NeuroQuant brain MRI", "$999", 0),
              ("Whole-body MRI", "$1,499", 1)]),
     ("CT", [("CT, no contrast", "$295", 0), ("CT with/without contrast", "$395", 0),
-            ("Heart calcium score", "$99", 1), ("Lung cancer screening CT", "$150", 1),
+            ("Heart calcium score", "$99", 1), ("Lung screening CT", "$150", 1),
             ("Cleerly coronary CTA", "$1,399", 1)]),
 ]
 RIGHT = [
@@ -48,13 +48,11 @@ def section(title, rows):
     out = (f'<div style="{H}; font-weight: 800; font-size: 34px; color: {TEAL}; letter-spacing: 0.06em; '
            f'text-transform: uppercase; padding-bottom: 8px; border-bottom: 4px solid {TEAL}; margin-bottom: 4px">{title}</div>')
     for name, price, scr in rows:
-        dot = (f'<span style="display: inline-block; width: 14px; height: 14px; border-radius: 99px; background: {TEAL}; '
-               f'margin-right: 12px; vertical-align: middle; position: relative; top: -2px"></span>') if scr else \
-              '<span style="display: inline-block; width: 14px; margin-right: 12px"></span>'
-        out += (f'<div style="display: flex; justify-content: space-between; align-items: baseline; padding: 14px 0; '
-                f'border-bottom: 2px solid {LINE}; font-size: 30px; line-height: 1.2">'
-                f'<span style="color: {INK}; font-weight: {700 if scr else 400}">{dot}{name}</span>'
-                f'<span style="{H}; font-weight: 800; font-size: 32px; color: {INK}; white-space: nowrap; margin-left: 12px">{price}</span></div>')
+        dot = f'<div style="flex: 0 0 14px; width: 14px; height: 14px; border-radius: 99px; background: {TEAL if scr else "#FFFFFF"}"></div>'
+        out += (f'<div style="display: flex; align-items: center; gap: 14px; padding: 14px 0; '
+                f'border-bottom: 2px solid {LINE}; font-size: 30px; line-height: 1.2">{dot}'
+                f'<div style="flex: 1; color: {INK}; font-weight: {700 if scr else 400}">{name}</div>'
+                f'<div style="{H}; font-weight: 800; font-size: 32px; color: {INK}; white-space: nowrap">{price}</div></div>')
     return f'<div style="margin-bottom: 34px">{out}</div>'
 
 def page():
