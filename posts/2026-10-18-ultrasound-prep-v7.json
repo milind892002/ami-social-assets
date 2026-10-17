@@ -34,6 +34,14 @@
     "gbp": "DAHYSLTEo2o"
   },
   "flag": "Still-life photos are AI-generated (Canva); no people. Set Instagram isAiGenerated true if used.",
-  "status": "awaiting approval",
-  "note": "Slides show abdomen as 8 hrs (the minimum of the 8-12 hr fast on amiweb services-data.ts); captions still say 8 to 12 hours, which is consistent."
+  "status": "scheduled",
+  "note": "Slides show abdomen as 8 hrs (the minimum of the 8-12 hr fast on amiweb services-data.ts); captions still say 8 to 12 hours, which is consistent.",
+  "approved": "Milind, 2026-10-17 (\"approved\" on v7)",
+  "scheduled_time": "2026-10-18T10:00:00 America/New_York",
+  "metricool": {
+    "instagram": 398632767,
+    "facebook": 398633058,
+    "gmb": 398633113
+  },
+  "metricool_note": "Updated the v1 scheduled posts in place (same uuids); captions unchanged; Instagram isAiGenerated true. FB slide-7 alt text omits 'link in bio'."
 }
