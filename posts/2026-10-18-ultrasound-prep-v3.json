@@ -1,0 +1,41 @@
+{
+  "slug": "2026-10-18-ultrasound-prep-v3",
+  "title": "Ultrasound prep, realistic anatomy renders",
+  "replaces": "2026-10-18-ultrasound-prep (if Milind approves)",
+  "builder": "tools/custom/ultrasound_prep_v3.py (layout) + Canva update_fill with AI renders",
+  "images": {
+    "hook_and_cta_and_google": "MAHYRxgAiBo",
+    "liver_gallbladder": "MAHYR0lXd5w",
+    "pelvis": "MAHYR8hYCEM",
+    "thyroid_neck": "MAHYR8IrL0M",
+    "legs_vessels": "MAHYR1L5vcA",
+    "probe_gel": "MAHYR1OuVMM",
+    "unused_first_hook": "MAHYRzvoDBo"
+  },
+  "ai_generated": true,
+  "captions": {
+    "instagram": "Have an ultrasound coming up? How you prepare depends on the type. Save this. 📋\n\n✔️ Abdomen: no food for 8 to 12 hours before (water is OK)\n✔️ Pelvis: drink 32 oz of water 1 hour before, and don't empty your bladder\n✔️ Thyroid, breast or vascular: no special prep\n✔️ Wear loose, comfy clothes and leave jewelry at home\n✔️ Most exams take 20 to 45 minutes. Painless, with no radiation\n\nNot sure which one you're having? Check your doctor's order or ask us.\n\n📅 Book through the link in our bio or call (727) 398-5999. Self-pay ultrasound $195, no referral needed.\n\nKnow someone with an ultrasound coming up? Send this to them.\n\nGeneral information, not medical advice. Always follow your doctor's instructions.\n\n#HealthTips #Ultrasound #MedicalImaging #SeminoleFL #PinellasCounty",
+    "facebook": "Have an ultrasound coming up? How you prepare depends on the type. Save this. 📋\n\n✔️ Abdomen: no food for 8 to 12 hours before (water is OK)\n✔️ Pelvis: drink 32 oz of water 1 hour before, and don't empty your bladder\n✔️ Thyroid, breast or vascular: no special prep\n✔️ Wear loose, comfy clothes and leave jewelry at home\n✔️ Most exams take 20 to 45 minutes. Painless, with no radiation\n\nNot sure which one you're having? Check your doctor's order or ask us.\n\nSelf-pay ultrasound $195, no referral needed. Same-day appointments often available.\n\n📅 Book online: https://www.advancedimg.com/lp/imaging-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=ultrasound-prep\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 9555 Seminole Blvd, Suite 101, Seminole\n\nKnow someone with an ultrasound coming up? Share this with them.\n\nGeneral information, not medical advice. Always follow your doctor's instructions.\n\n#Ultrasound #MedicalImaging #SeminoleFL",
+    "gbp": "Have an ultrasound coming up? How you prepare depends on the type. For an abdominal ultrasound, don't eat for 8 to 12 hours before (water is OK). For a pelvic ultrasound, drink 32 oz of water 1 hour before and don't empty your bladder, because a full bladder gives clearer pictures. Thyroid, breast and vascular ultrasounds need no special prep. Wear loose, comfortable clothes and leave jewelry at home. If you're using insurance, bring your card and your doctor's order, and plan to arrive 15 minutes early. Ultrasound is painless and uses no radiation: warm gel and a smooth probe glide over your skin, and most exams take 20 to 45 minutes. Afterward you can get right back to your day, and results go to your doctor in 48 to 72 hours. Self-pay ultrasound at our Seminole office is $195, with no referral needed and same-day appointments often available. Always follow the instructions from your doctor or our team.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "3D anatomical render of the abdomen through translucent skin, with an ultrasound probe over the liver. Ultrasound prep? Depends on the type: abdomen, pelvis, or thyroid, breast and vascular.",
+      "Which ultrasound are you having? Abdomen (liver and gallbladder render): no food for 8 to 12 hours. Pelvis (bladder and uterus render): full bladder. Thyroid (neck render): no special prep. Vascular (leg vessels render): no special prep. Breast: no special prep either.",
+      "3D render of the liver, gallbladder, stomach and pancreas. Abdomen: no food for 8 to 12 hours before. Water is OK.",
+      "3D render of the pelvis with a full bladder below the uterus. Pelvis: drink 32 oz of water 1 hour before, and don't empty your bladder. A full bladder gives a clearer view.",
+      "3D render of the thyroid gland on the trachea with the neck vessels. Thyroid, breast or vascular ultrasound: no prep, just come in. Wear loose, comfy clothes and leave jewelry at home.",
+      "An ultrasound probe next to a bottle of gel. Painless and no radiation: warm gel, 20 to 45 minutes for most exams, 0 radiation. Results to your doctor in 48 to 72 hours.",
+      "Save this for scan day. Book when you're ready. $195 self-pay, no referral needed, same-day often available. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "3D anatomical render of the abdomen with an ultrasound probe over the liver. Ultrasound prep? It varies by scan. $195 self-pay in Seminole, no referral needed."
+  },
+  "facts_checked": "Checked 2026-10-17. RadiologyInfo.org (ACR/RSNA) Abdominal Ultrasound: little to no prep, doctor says whether to stop eating or drinking, loose clothing, leave jewelry at home, may wear a gown, no radiation, painless. RadiologyInfo.org Pelvic Ultrasound: may be asked to drink water to fill the bladder (transabdominal), usually done within 30 minutes, no radiation. NIH MedlinePlus Abdominal ultrasound: likely asked not to eat or drink for several hours; little discomfort, gel may feel cold, probe pressed against abdomen. Practice facts from amiweb 712b9df: services-data.ts ultrasound prepItems (abdominal fast 8 to 12 hours, water OK; pelvic 32 oz water 1 hour before, don't empty bladder; thyroid/breast/MSK/vascular no prep; loose clothing; arrive 15 min early with card and order), duration 20 to 45 min, results 48 to 72 hours, self-pay no referral, same-day often; pricing/page.tsx Routine Ultrasound $195; constants.ts phone and hours.",
+  "canva": {
+    "carousel": "DAHYRzW7mRE",
+    "gbp": "DAHYR-xnyvM",
+    "note": "Renders placed and layout fixes saved in this new draft design (not an approved design)."
+  },
+  "flag": "Anatomy images are AI-generated (Canva) 3D renders, not licensed atlas art: Milind (radiologist) to check accuracy. If used, set Instagram isAiGenerated true. Leg-vessel render is low contrast. Pelvis render is female anatomy. Website pelvic prep gap (transvaginal) still open.",
+  "status": "awaiting approval"
+}

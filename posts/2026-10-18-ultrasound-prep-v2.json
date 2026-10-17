@@ -22,7 +22,7 @@
   },
   "facts_checked": "Checked 2026-10-17. RadiologyInfo.org (ACR/RSNA) Abdominal Ultrasound: little to no prep, doctor says whether to stop eating or drinking, loose clothing, leave jewelry at home, may wear a gown, no radiation, painless. RadiologyInfo.org Pelvic Ultrasound: may be asked to drink water to fill the bladder (transabdominal), usually done within 30 minutes, no radiation. NIH MedlinePlus Abdominal ultrasound: likely asked not to eat or drink for several hours; little discomfort, gel may feel cold, probe pressed against abdomen. Practice facts from amiweb 712b9df: services-data.ts ultrasound prepItems (abdominal fast 8 to 12 hours, water OK; pelvic 32 oz water 1 hour before, don't empty bladder; thyroid/breast/MSK/vascular no prep; loose clothing; arrive 15 min early with card and order), duration 20 to 45 min, results 48 to 72 hours, self-pay no referral, same-day often; pricing/page.tsx Routine Ultrasound $195; constants.ts phone and hours.",
   "flag": "No photos: all visuals are drawn illustrations (not AI-generated). Pelvic full-bladder prep still only covers the through-the-belly exam (website gap, flagged Oct 17).",
-  "status": "awaiting approval",
+  "status": "rejected by Milind 2026-10-17 (too cartoonish); replaced by v3",
   "canva": {
     "carousel": "DAHYRmp-DKo",
     "gbp": "DAHYRiYOsf4",
