@@ -28,26 +28,30 @@ def head(title):
             f'<title>{title}</title>{fonts}<style>html,body{{margin:0;padding:0;background:#fff}}</style></head><body>')
 
 def page(label, w, h, s):
-    """s = scale (1.0 for the 1200x1800 card)."""
+    """s = scale (1.0 for the 1200x1800 card). Body is centered in the space above the footer."""
     px = lambda v: f"{round(v * s)}px"
-    return f'''<div data-document-role="page" data-label="{label}" style="position: relative; width: {w}px; height: {h}px; overflow: hidden; background: #FFFFFF; box-sizing: border-box; padding: {px(90)} {px(96)}; display: flex; flex-direction: column; align-items: center; text-align: center; color: {INK}; {B}">
-  <img src="{IMG}logo.png" alt="Advanced Medical Imaging" style="width: {px(620)}; height: auto; margin-top: {px(10)}">
-  <div style="width: {px(140)}; height: {px(8)}; border-radius: 99px; background: {TEAL}; margin: {px(56)} 0 {px(52)}"></div>
-  <div style="{H}; font-weight: 800; font-size: {px(104)}; line-height: 1.05; letter-spacing: -0.02em">How did we do<br>today?</div>
-  <div style="font-size: {px(44)}; line-height: 1.35; color: #3F5A56; margin-top: {px(36)}; max-width: {px(900)}">Your Google review helps neighbors find imaging care they can trust.</div>
-  <div style="margin-top: {px(64)}; padding: {px(34)}; border-radius: {px(40)}; background: {SOFT}; border: {px(4)} solid {LINE}">
-    <img src="{IMG}qr.png" alt="QR code to leave a Google review" style="display: block; width: {px(470)}; height: {px(470)}; border-radius: {px(14)}">
+    foot = round(230 * s)
+    return f'''<div data-document-role="page" data-label="{label}" style="position: relative; width: {w}px; height: {h}px; overflow: hidden; background: #FFFFFF; color: {INK}; {B}">
+  <div style="position: absolute; left: 0; right: 0; top: 0; height: {h - foot}px; box-sizing: border-box; padding: {px(70)} {px(90)}; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center">
+    <img src="{IMG}logo.png" alt="Advanced Medical Imaging" style="display: block; width: {px(880)}; height: auto">
+    <div style="width: {px(120)}; height: {px(8)}; border-radius: 99px; background: {TEAL}; margin: {px(46)} 0 {px(46)}"></div>
+    <div style="{H}; font-weight: 800; font-size: {px(100)}; line-height: 1.06; letter-spacing: -0.02em">How did we do today?</div>
+    <div style="font-size: {px(42)}; line-height: 1.4; color: #3F5A56; margin-top: {px(28)}; width: {px(880)}">Your Google review helps neighbors find imaging care they can trust.</div>
+    <div style="margin-top: {px(56)}; padding: {px(30)}; border-radius: {px(36)}; background: {SOFT}; border: {px(4)} solid {LINE}">
+      <img src="{IMG}qr.png" alt="QR code to leave a Google review" style="display: block; width: {px(460)}; height: {px(460)}; border-radius: {px(12)}">
+    </div>
+    <div style="{H}; font-weight: 700; font-size: {px(48)}; color: {TEAL}; margin-top: {px(40)}">Scan to review us on Google</div>
+    <div style="font-size: {px(36)}; color: #3F5A56; margin-top: {px(12)}">Takes about a minute. Thank you!</div>
   </div>
-  <div style="{H}; font-weight: 700; font-size: {px(50)}; color: {TEAL}; margin-top: {px(44)}">Scan to review us on Google</div>
-  <div style="font-size: {px(38)}; color: #3F5A56; margin-top: {px(14)}">Takes about a minute. Thank you!</div>
-  <div style="position: absolute; left: 0; right: 0; bottom: 0; background: {INK}; color: #FFFFFF; padding: {px(40)} {px(60)}; font-size: {px(34)}; line-height: 1.45">
-    <span style="font-weight: 700">Seminole</span> 9555 Seminole Blvd &nbsp;·&nbsp; <span style="font-weight: 700">St. Pete</span> 2201 Central Ave<br>(727) 398-5999 &nbsp;·&nbsp; advancedimg.com
+  <div style="position: absolute; left: 0; right: 0; bottom: 0; height: {foot}px; background: {INK}; color: #FFFFFF; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: {px(10)}; text-align: center">
+    <div style="font-size: {px(30)}; font-weight: 500; letter-spacing: 0.14em; color: #A5F3EB">SEMINOLE  ·  ST. PETERSBURG</div>
+    <div style="{H}; font-size: {px(44)}; font-weight: 700">(727) 398-5999  ·  advancedimg.com</div>
   </div>
 </div>'''
 
 OUT.mkdir(parents=True, exist_ok=True)
 (OUT / "card.html").write_text(head("AMI review card 4x6") + page("Review card 4x6", 1200, 1800, 1.0) + "</body></html>")
-(OUT / "sign.html").write_text(head("AMI review sign 5x7") + page("Counter sign 5x7", 1500, 2100, 1.2) + "</body></html>")
+(OUT / "sign.html").write_text(head("AMI review sign 5x7") + page("Counter sign 5x7", 1500, 2100, 1.22) + "</body></html>")
 (OUT / "index.html").write_text('<!doctype html><html><head><meta charset="utf-8"><meta name="robots" content="noindex, nofollow"><title>Temporary media</title></head><body></body></html>')
 print("wrote", OUT)
 if PREVIEW:
