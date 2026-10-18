@@ -126,11 +126,17 @@
     "gbp": "A technologist beside a CT scanner. Open on both ends, done fast. CT scans in Seminole, $295 self-pay, no referral needed."
   },
   "facts_checked": "amiweb src/lib/services-data.ts (CT what to expect, prep, 48-72 h results, self-pay no referral, same day) and src/app/pricing/page.tsx ($295 / $395), 2026-10-18; NIH MedlinePlus CT scan (few minutes, breath hold, contrast sensations, fasting, metformin); RadiologyInfo.org How to Prepare for Your CT Exam (warm/flushed, metallic taste, need to urinate, pregnancy).",
-  "status": "awaiting approval",
+  "status": "scheduled",
   "planned_time": "2026-10-19T10:00:00 America/New_York",
   "canva": {
     "carousel": "DAHYWyxjxxA",
-    "gbp": "DAHYW4ODl_U",
-    "open_transaction": "2031642799449930773 (slide 1 heading resized to wrap; commit on approval)"
-  }
+    "gbp": "DAHYW4ODl_U"
+  },
+  "scheduled_time": "2026-10-19T10:00:00 America/New_York",
+  "metricool_ids": {
+    "instagram": 399089964,
+    "facebook": 399090160,
+    "gmb": 399090206
+  },
+  "approved": "Milind, 2026-10-18 (\"Approve\")"
 }
