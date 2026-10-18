@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-19-ct-what-to-expect",
+  "title": "What to expect: CT scan",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "service-ct.jpg",
+        "crop": [
+          130,
+          0,
+          540,
+          512
+        ]
+      },
+      "eyebrow": "What to expect: CT scan",
+      "title": "Open on both ends.",
+      "title_accent": "Done in minutes."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "What to expect",
+      "title": "How your visit goes.",
+      "steps": [
+        [
+          "Check in",
+          "Change if needed. For some belly scans, you drink a contrast liquid first."
+        ],
+        [
+          "The scan",
+          "Lie on a table that slides through a ring, open on both ends. You may hold your breath briefly."
+        ],
+        [
+          "After",
+          "Get right back to your day. Results go to your doctor within 48 to 72 hours."
+        ]
+      ],
+      "footnote": "Sources: NIH MedlinePlus; RadiologyInfo.org (ACR, RSNA)."
+    },
+    {
+      "type": "list",
+      "eyebrow": "If your scan uses contrast",
+      "title": "Feeling warm is normal.",
+      "items": [
+        "A small IV goes in your arm: just a quick pinch.",
+        "A warm flush or metal taste lasts only seconds.",
+        "An urge to pee is common, and it passes.",
+        "Afterward, drink extra water."
+      ],
+      "footnote": "Many CT scans need no contrast at all. Sources: NIH MedlinePlus; RadiologyInfo.org (ACR, RSNA)."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before your CT scan",
+      "items": [
+        "Contrast scan? You may skip food for a few hours. We&#39;ll tell you.",
+        "Had a reaction to contrast or iodine before? Tell us.",
+        "Tell us about kidney problems, diabetes or metformin.",
+        "Pregnant, or might be? Tell us first."
+      ],
+      "footnote": "Leave jewelry at home. Source: NIH MedlinePlus."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Booking is easy",
+      "title": "Simple to book in Seminole.",
+      "cards": [
+        [
+          "$295",
+          "self-pay CT without contrast"
+        ],
+        [
+          "$395",
+          "self-pay CT with and without contrast"
+        ],
+        [
+          "No referral",
+          "needed for self-pay"
+        ],
+        [
+          "Same day",
+          "often, for self-pay"
+        ]
+      ],
+      "footnote": "Radiologist reading included. With insurance, a doctor&#39;s order is needed. We check your benefits before your visit."
+    },
+    {
+      "type": "cta",
+      "title": "A few minutes on the table.",
+      "title_accent": "Book your CT.",
+      "share": "Send this to someone with a CT scan coming up."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "service-ct.jpg",
+      "crop": [
+        110,
+        0,
+        450,
+        510
+      ]
+    },
+    "eyebrow": "What to expect: CT scan",
+    "title": "Open on both ends.",
+    "title_accent": "Done fast.",
+    "sub": "CT scans in Seminole. $295 self-pay, no referral needed."
+  },
+  "captions": {
+    "instagram": "Have a CT scan coming up? The scan itself usually takes just a few minutes. 💙\n\nHere's what to expect:\n✔️ You lie on a table that slides through a ring, open on both ends\n✔️ You may be asked to hold your breath for a few seconds\n✔️ If you get IV contrast, a warm feeling or metallic taste is normal and passes in seconds\n✔️ Tell us about contrast allergies, kidney problems, diabetes or metformin, or if you might be pregnant\n✔️ Get right back to your day. Results go to your doctor within 48 to 72 hours\n\n📅 Book through the link in our bio or call (727) 398-5999. Self-pay CT from $295, no referral needed.\n\nKnow someone with a CT scan coming up? Send this to them.\n\nGeneral information, not medical advice.\n\n#CTScan #MedicalImaging #Radiology #SeminoleFL #PinellasCounty",
+    "facebook": "Have a CT scan coming up? The scan itself usually takes just a few minutes. 💙\n\nHere's what to expect:\n✔️ You lie on a table that slides through a ring, open on both ends\n✔️ You may be asked to hold your breath for a few seconds\n✔️ If you get IV contrast, a warm feeling or metallic taste is normal and passes in seconds\n✔️ Tell us about contrast allergies, kidney problems, diabetes or metformin, or if you might be pregnant\n✔️ Get right back to your day. Results go to your doctor within 48 to 72 hours\n\nSelf-pay CT $295 without contrast, $395 with and without contrast, radiologist reading included. No referral needed for self-pay; with insurance, a doctor's order is needed.\n\n📅 Book online: https://www.advancedimg.com/lp/ct-scan-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=ct-what-to-expect\n📞 Or call (727) 398-5999\n\nKnow someone with a CT scan coming up? Send this to them.\n\nGeneral information, not medical advice.\n\n#CTScan #SeminoleFL",
+    "gbp": "Have a CT scan coming up? Here's what to expect at Advanced Medical Imaging in Seminole. You lie on a table that slides through a ring that is open on both ends, and the scan itself usually takes just a few minutes. You may be asked to hold your breath for a few seconds. If your scan uses IV contrast, a warm feeling, a metallic taste or feeling like you need to urinate is normal and passes quickly; drink extra water afterward. Many CT scans need no contrast at all. Before your scan, tell us about any past reaction to contrast, kidney problems, diabetes or metformin, or if you are or might be pregnant. Afterward you can get right back to your day, and results go to your doctor within 48 to 72 hours. Self-pay CT is $295 without contrast and $395 with and without contrast, with no referral needed.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A technologist beside a CT scanner while a colleague reviews scan images. Open on both ends. Done in minutes.",
+      "How your visit goes: check in and change if needed, with a contrast drink first for some belly scans; lie on a table that slides through a ring open on both ends, and you may hold your breath briefly; get back to your day, with results to your doctor within 48 to 72 hours.",
+      "If your scan uses contrast, feeling warm is normal: a small IV in your arm, a warm flush or metal taste that lasts only seconds, a common urge to pee that passes, and drink extra water afterward.",
+      "Before your CT scan: for a contrast scan you may skip food for a few hours; tell us about a past reaction to contrast or iodine; tell us about kidney problems, diabetes or metformin; tell us if you are or might be pregnant.",
+      "Simple to book in Seminole: $295 self-pay CT without contrast, $395 with and without contrast, no referral needed for self-pay, same day often possible for self-pay.",
+      "A few minutes on the table. Book your CT. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A technologist beside a CT scanner. Open on both ends, done fast. CT scans in Seminole, $295 self-pay, no referral needed."
+  },
+  "facts_checked": "amiweb src/lib/services-data.ts (CT what to expect, prep, 48-72 h results, self-pay no referral, same day) and src/app/pricing/page.tsx ($295 / $395), 2026-10-18; NIH MedlinePlus CT scan (few minutes, breath hold, contrast sensations, fasting, metformin); RadiologyInfo.org How to Prepare for Your CT Exam (warm/flushed, metallic taste, need to urinate, pregnancy).",
+  "status": "awaiting approval",
+  "planned_time": "2026-10-19T10:00:00 America/New_York"
+}
