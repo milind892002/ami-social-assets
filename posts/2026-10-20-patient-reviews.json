@@ -95,7 +95,13 @@
   "canva": {
     "carousel": "DAHYdLfxnMg",
     "gbp": "DAHYdPJvL9M",
-    "open_transaction": "5174029542367798524 (hook headline resized to wrap; commit on approval)"
+    "note": "Hook headline wrap fix committed on approval (2026-10-19)."
   },
-  "status": "awaiting approval"
+  "status": "scheduled",
+  "scheduled_time": "2026-10-20T10:00:00 America/New_York",
+  "metricool": {
+    "instagram": 400452060,
+    "facebook": 400452513,
+    "gmb": 400452597
+  }
 }
