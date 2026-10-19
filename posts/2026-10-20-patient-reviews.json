@@ -91,5 +91,11 @@
   },
   "photo_note": "Do not use facility/team.jpg or any staff photo: Milind has not asked staff for permission (2026-10-13).",
   "reviews_verified": "All three quotes re-checked verbatim against the live Google Business Profile via Windsor.ai on 2026-10-19.",
-  "history": "Reuses the Oct 13 v2 spec (postponed that day for the Halloween Reel; never imported or published)."
+  "history": "Reuses the Oct 13 v2 spec (postponed that day for the Halloween Reel; never imported or published).",
+  "canva": {
+    "carousel": "DAHYdLfxnMg",
+    "gbp": "DAHYdPJvL9M",
+    "open_transaction": "5174029542367798524 (hook headline resized to wrap; commit on approval)"
+  },
+  "status": "awaiting approval"
 }
