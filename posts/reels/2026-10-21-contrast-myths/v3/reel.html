@@ -1,0 +1,97 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:700;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/inter/files/inter-latin-700-normal.woff2)}@font-face{font-family:'Inter';font-weight:800;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/inter/files/inter-latin-800-normal.woff2)}@font-face{font-family:'DM Sans';font-weight:500;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/dm-sans/files/dm-sans-latin-500-normal.woff2)}@font-face{font-family:'DM Sans';font-weight:600;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/dm-sans/files/dm-sans-latin-600-normal.woff2)}@font-face{font-family:'DM Sans';font-weight:700;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/dm-sans/files/dm-sans-latin-700-normal.woff2)}
+html,body{margin:0;padding:0;background:#111}
+#s{position:relative;width:1080px;height:1920px;overflow:hidden;background:#14202e;font-family:'DM Sans',sans-serif;color:#fff}
+.bg{position:absolute;inset:-80px;background-size:cover;background-position:center;filter:blur(46px) brightness(.55) saturate(1.1);opacity:0}
+.card{position:absolute;left:60px;top:250px;width:960px;height:1120px;border-radius:40px;overflow:hidden;box-shadow:0 30px 80px rgba(0,0,0,.45);opacity:0}
+.card .im{position:absolute;inset:0;background-size:cover;background-position:center}
+.card:after{content:'';position:absolute;inset:0;background:linear-gradient(rgba(0,0,0,0) 55%,rgba(0,0,0,.6));}
+.brand{position:absolute;top:150px;left:0;right:0;text-align:center;font:700 26px 'DM Sans';letter-spacing:.22em;color:rgba(255,255,255,.85);text-transform:uppercase;z-index:9}
+.src{position:absolute;top:200px;left:0;right:0;text-align:center;font:500 24px 'DM Sans';color:rgba(255,255,255,.7);z-index:9}
+.tag{position:absolute;left:100px;top:1060px;z-index:8;opacity:0}
+.tag b{display:block;font:800 52px 'Inter';text-shadow:0 2px 12px rgba(0,0,0,.5)}
+.tag span{display:block;font:600 32px 'DM Sans';color:#e6eef8;text-shadow:0 2px 10px rgba(0,0,0,.6)}
+.chat{position:absolute;left:70px;right:70px;z-index:8}
+.q,.a{position:absolute;max-width:800px;padding:26px 34px;border-radius:38px;font:600 46px/1.32 'DM Sans';opacity:0;box-shadow:0 10px 30px rgba(0,0,0,.3)}
+.q{left:0;background:#fff;color:#1a2433;border-bottom-left-radius:10px}
+.a{right:0;background:#1f6fd1;color:#fff;border-bottom-right-radius:10px;padding-left:110px}
+.a .av{position:absolute;left:22px;top:22px;width:68px;height:68px;border-radius:50%;background:url(p0.jpg) center 20%/cover;border:3px solid #fff}
+.small{position:absolute;left:0;right:0;text-align:center;font:600 40px 'DM Sans';opacity:0}
+.fine{position:absolute;left:80px;right:80px;bottom:380px;text-align:center;font:500 24px/1.45 'DM Sans';color:rgba(255,255,255,.7);opacity:0;z-index:9}
+#grain{position:absolute;inset:-60px;background:url(grain.png);opacity:.07;mix-blend-mode:overlay;z-index:20;pointer-events:none}
+.vig{position:absolute;inset:0;background:radial-gradient(ellipse at center,rgba(0,0,0,0) 55%,rgba(0,0,0,.35));z-index:19}
+</style></head>
+<body><div id="s">
+<div id="bgs"></div><div id="cards"></div>
+<div class="brand">Advanced Medical Imaging</div>
+<div class="src" id="src"></div>
+<div class="tag" id="tag"><b>Dr. Milind Patel</b><span>Radiologist, Advanced Medical Imaging</span></div>
+<div class="chat" id="chat"></div>
+<div class="fine" id="fine">General information, not medical advice.<br>Sources: RadiologyInfo.org (ACR, RSNA); AAAAI.</div>
+<div class="vig"></div><div id="grain"></div>
+</div>
+<script>
+const B=0.6, SC=8*B; // 100 BPM, 2 bars per scene
+const S=[
+ {p:'p0.jpg',a:"Patients ask me about contrast every week. Here's what I tell them.",src:''},
+ {p:'p1.jpg',q:"Will contrast stain my organs?",a:"No. It's temporary. Your body clears it, mostly in urine.",src:'Source: RadiologyInfo.org (ACR, RSNA)'},
+ {p:'p2.jpg',q:"I'm allergic to shellfish. Is that a problem?",a:"A seafood allergy doesn't raise your risk. Just tell us about every allergy.",src:'Source: AAAAI'},
+ {p:'p3.jpg',q:"Why did I feel warm during my CT?",a:"A warm flush or a metallic taste is normal. It fades in minutes.",src:'Source: RadiologyInfo.org (ACR, RSNA)'},
+ {p:'p4.jpg',q:"Does every scan need contrast?",a:"Many don't. Most brain, spine and knee MRIs are done without it.",src:'Source: advancedimg.com'},
+ {p:'p0.jpg',a:"Have a question about your scan? Ask me in the comments.",end:true,src:''}
+];
+const TOT=S.length*SC;
+const cl=x=>Math.min(Math.max(x,0),1), ss=x=>{x=cl(x);return x*x*(3-2*x);};
+const $=id=>document.getElementById(id);
+const BG=[],CD=[],Q=[],A=[];
+S.forEach((s,i)=>{
+  const bg=document.createElement('div');bg.className='bg';bg.style.backgroundImage=`url(${s.p})`;$('bgs').appendChild(bg);BG.push(bg);
+  const c=document.createElement('div');c.className='card';c.innerHTML=`<div class="im" style="background-image:url(${s.p})"></div>`;$('cards').appendChild(c);CD.push(c);
+  let q=null;
+  if(s.q){q=document.createElement('div');q.className='q';q.textContent=s.q;$('chat').appendChild(q);}
+  const a=document.createElement('div');a.className='a';a.innerHTML=`<div class="av"></div>${s.a}`;$('chat').appendChild(a);
+  Q.push(q);A.push(a);
+});
+// extra end line
+const cta=document.createElement('div');cta.className='small';cta.innerHTML='Book: link in bio &nbsp;·&nbsp; (727) 398-5999';$('chat').appendChild(cta);
+function layout(i){ // vertical positions for chat bubbles (relative to page)
+  const chat=$('chat'); const q=Q[i], a=A[i];
+  let y=1130;
+  if(q){q.style.top=y+'px'; y+=q.offsetHeight+22;}
+  else y=S[i].end?1130:1250;
+  a.style.top=y+'px';
+  return y+a.offsetHeight;
+}
+window.setT=function(t){
+  const X=0.55; // crossfade seconds
+  S.forEach((s,i)=>{
+    const a0=i*SC, a1=a0+SC;
+    let o = i===0? 1 : ss((t-a0+X/2)/X);
+    if(i<S.length-1) o=Math.min(o, 1-ss((t-a1+X/2)/X));
+    if(t<a0-X||t>a1+X) o=0;
+    BG[i].style.opacity=o; CD[i].style.opacity=o;
+    const p=cl((t-a0+X)/(SC+2*X));
+    const dir=i%2?1:-1;
+    CD[i].firstChild.style.transform=`scale(${1.04+0.07*p}) translate(${dir*18*(p-.5)}px,${-10*p}px)`;
+    CD[i].style.transform=`translateY(${(1-ss((t-a0+X/2)/0.8))*(i===0?40:0)}px)`;
+    const inScene=t>=a0&&t<a1;
+    const u=t-a0;
+    if(Q[i]) {const qq=inScene?ss((u-0.45)/0.35):0; Q[i].style.opacity=qq*(1-ss((u-(SC-0.35))/0.3)); Q[i].style.transform=`translateY(${(1-qq)*30}px)`;}
+    const at=s.q?1.5:0.6;
+    const aa=inScene||(s.end&&t>=a0)?ss((u-at)/0.35):0;
+    A[i].style.opacity=aa*(s.end?1:1-ss((u-(SC-0.35))/0.3)); A[i].style.transform=`translateY(${(1-aa)*30}px)`;
+    if(inScene||(s.end&&t>=a0)) {const bottom=layout(i); if(s.end){cta.style.top=(bottom+34)+'px'; const cc=ss((u-1.6)/0.4); cta.style.opacity=cc; cta.style.transform=`translateY(${(1-cc)*20}px)`;}
+      $('src').textContent=s.src; $('src').style.opacity=ss((u-at)/0.4);}
+  });
+  // name tag on intro
+  const tg=ss((t-0.25)/0.5)*(1-ss((t-(SC-0.4))/0.3)); $('tag').style.opacity=tg; $('tag').style.transform=`translateX(${(1-ss((t-0.25)/0.5))*-30}px)`;
+  $('fine').style.opacity=ss((t-(5*SC+2.0))/0.5);
+  // subtle handheld drift + grain
+  $('cards').style.transform=`translate(${Math.sin(t*0.9)*4}px,${Math.cos(t*0.7)*5}px) rotate(${Math.sin(t*0.5)*0.25}deg)`;
+  const gi=Math.floor(t*24);$('grain').style.transform=`translate(${(gi*37)%60-30}px,${(gi*53)%60-30}px)`;
+};
+window.setT(0);
+</script>
+</body></html>
