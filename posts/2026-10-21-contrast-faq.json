@@ -135,7 +135,7 @@
   },
   "facts_checked": "Contrast is not a dye that stains organs; iodine/barium for X-ray and CT, gadolinium for MRI; given by mouth or IV; warm flush and metallic taste with iodinated contrast lasting a few minutes; coolness at injection site with gadolinium; severe reactions very uncommon; eliminated in urine/stool, extra fluids help; tell staff about prior reactions, allergies, heart disease, diabetes, kidney disease, thyroid problems, pregnancy, breastfeeding: RadiologyInfo.org Contrast Materials (ACR/RSNA). Seafood allergy not a risk factor; 'iodine allergy' is a misnomer: AAAAI Radiocontrast and Seafood Allergy page. Most brain/spine/knee MRIs without contrast; prior CT-contrast reaction doesn't rule out gadolinium: amiweb services-data.ts FAQs. Checked 2026-10-20.",
   "flag": "Website CT page (services-data.ts ~lines 1084 and 1103): 'fast for 4 hours' before contrast and 'pause metformin for 48 hours' for everyone on it may be outdated; current ACR guidance does not require fasting for IV contrast and only asks to hold metformin for patients with eGFR under 30 or acute kidney injury. Not used in this post; worth checking with Milind.",
-  "status": "awaiting approval",
+  "status": "backup: replaced by 2026-10-21-contrast-myths Reel at Milind's request (2026-10-20); not scheduled",
   "canva": {
     "carousel": "DAHYjLRA7Rs",
     "gbp": "DAHYjPLfSY4"

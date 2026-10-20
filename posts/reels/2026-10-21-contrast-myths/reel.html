@@ -1,0 +1,110 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:'Inter';font-weight:700;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/inter/files/inter-latin-700-normal.woff2)}@font-face{font-family:'Inter';font-weight:800;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/inter/files/inter-latin-800-normal.woff2)}@font-face{font-family:'DM Sans';font-weight:500;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/dm-sans/files/dm-sans-latin-500-normal.woff2)}@font-face{font-family:'DM Sans';font-weight:600;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/dm-sans/files/dm-sans-latin-600-normal.woff2)}@font-face{font-family:'DM Sans';font-weight:700;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/dm-sans/files/dm-sans-latin-700-normal.woff2)}
+html,body{margin:0;padding:0;background:#0b2440}
+#s{position:relative;width:1080px;height:1920px;overflow:hidden;background:radial-gradient(ellipse at 50% 38%,#16406e 0%,#0b2440 68%);font-family:'DM Sans',sans-serif;color:#fff}
+.scene{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;opacity:0}
+.brand{position:absolute;top:150px;left:0;right:0;text-align:center;font:700 30px 'DM Sans';letter-spacing:.2em;color:#9cc6f0;text-transform:uppercase;z-index:5}
+h1{font-family:'Inter';font-weight:800;margin:0;letter-spacing:-.02em;line-height:1.04}
+.acc{color:#9cc6f0}
+/* hook */
+.hook{justify-content:flex-end;padding-bottom:470px;box-sizing:border-box}
+.hook .ph{position:absolute;left:0;right:0;top:250px;height:950px;background:url(photo.jpg) 46% center/cover}
+.hook .ph:after{content:'';position:absolute;inset:0;background:linear-gradient(rgba(11,36,64,.75) 0%,rgba(11,36,64,0) 22%,rgba(11,36,64,0) 55%,#0b2440 100%)}
+.hook .eb{position:relative;font:700 34px 'DM Sans';letter-spacing:.16em;color:#9cc6f0;text-transform:uppercase;margin-bottom:28px}
+.hook h1{position:relative;font-size:132px;width:940px}
+.pulse{position:absolute;border-radius:50%;border:6px solid #9cc6f0;width:200px;height:200px;left:440px;top:480px;opacity:0}
+/* myth/fact */
+.mf{padding:0 90px;box-sizing:border-box}
+.tag{font:800 40px 'Inter';letter-spacing:.14em;padding:14px 34px;border-radius:999px;margin-bottom:34px}
+.tag.m{background:#ff7a6b;color:#0b2440}
+.tag.f{background:#9cc6f0;color:#0b2440}
+.myth{position:relative;display:flex;flex-direction:column;align-items:center}
+.myth h1{font-size:92px;width:880px;color:#e8eef7}
+.sk{background:linear-gradient(#ff7a6b,#ff7a6b) no-repeat 0 60%/0% 12px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.fact{display:flex;flex-direction:column;align-items:center;margin-top:110px;opacity:0}
+.fact h1{font-size:76px;width:880px}
+.fact p{font:600 46px/1.35 'DM Sans';color:#cfe0f3;width:860px;margin:30px 0 0}
+.src{position:absolute;bottom:420px;left:0;right:0;font:500 28px 'DM Sans';color:#8fa8c8}
+.ct{position:absolute;top:260px;left:0;right:0;font:700 32px 'DM Sans';letter-spacing:.14em;color:#9cc6f0;text-transform:uppercase}
+/* lists */
+.lst h1{font-size:100px;width:900px;margin-bottom:60px}
+.row{display:flex;align-items:center;gap:30px;font:700 54px 'DM Sans';margin:20px 0;width:880px;text-align:left;opacity:0}
+.row b{flex:none;width:80px;height:80px;border-radius:50%;background:#9cc6f0;color:#0b2440;display:flex;align-items:center;justify-content:center;font:800 44px 'Inter'}
+.row small{display:block;font:500 38px 'DM Sans';color:#b9cde6;margin-top:4px}
+/* cta */
+.cta h1{font-size:128px;width:920px}
+.pill{margin-top:64px;background:#9cc6f0;color:#0b2440;border-radius:999px;padding:30px 56px;font:700 52px 'DM Sans'}
+.sub{margin-top:36px;font:600 44px 'DM Sans';color:#cfe0f3}
+.fine{position:absolute;bottom:400px;left:80px;right:80px;font:500 27px/1.4 'DM Sans';color:#8fa8c8;text-align:center}
+</style></head>
+<body><div id="s">
+<div class="brand">Advanced Medical Imaging</div>
+
+<div class="scene hook" id="c0"><div class="ph" id="ph"></div>
+ <div class="eb">Myth vs fact</div>
+ <h1>Told you need <span class="acc">contrast?</span></h1></div>
+
+<div class="scene mf" id="c1"><div class="ct">Myth 1 of 3</div>
+ <div class="myth"><div class="tag m">MYTH</div><h1><span class="sk" id="k1">Contrast stains your organs</span></h1></div>
+ <div class="fact" id="f1"><div class="tag f">FACT</div><h1>It&#39;s a temporary helper.</h1><p>It helps tissues show up clearly, then your body clears it, mostly in urine.</p></div>
+ <div class="src">Source: RadiologyInfo.org (ACR, RSNA)</div></div>
+
+<div class="scene mf" id="c2"><div class="ct">Myth 2 of 3</div>
+ <div class="myth"><div class="tag m">MYTH</div><h1><span class="sk" id="k2">A shellfish allergy rules it out</span></h1></div>
+ <div class="fact" id="f2"><div class="tag f">FACT</div><h1>It doesn&#39;t raise your risk.</h1><p>Still tell us about every allergy before your scan.</p></div>
+ <div class="src">Source: AAAAI</div></div>
+
+<div class="scene mf" id="c3"><div class="ct">Myth 3 of 3</div>
+ <div class="myth"><div class="tag m">MYTH</div><h1><span class="sk" id="k3">Every scan needs contrast</span></h1></div>
+ <div class="fact" id="f3"><div class="tag f">FACT</div><h1>Many don&#39;t.</h1><p>Most brain, spine and knee MRIs are done without it.</p></div>
+ <div class="src">Source: advancedimg.com</div></div>
+
+<div class="scene lst" id="c4"><h1>You <span class="acc">might feel:</span></h1>
+ <div class="row" id="r40"><b>✓</b><div>A warm flush<small>common with CT contrast</small></div></div>
+ <div class="row" id="r41"><b>✓</b><div>A metallic taste<small>brief, and normal</small></div></div>
+ <div class="row" id="r42"><b>✓</b><div>Coolness at the IV<small>common with MRI contrast</small></div></div>
+ <div class="row" id="r43"><b>✓</b><div>Gone in minutes<small>serious reactions are very uncommon</small></div></div>
+ <div class="src">Source: RadiologyInfo.org (ACR, RSNA)</div></div>
+
+<div class="scene lst" id="c5"><h1>Tell us first <span class="acc">if you:</span></h1>
+ <div class="row" id="r50"><b>✓</b>Had a contrast reaction</div>
+ <div class="row" id="r51"><b>✓</b>Have any allergies</div>
+ <div class="row" id="r52"><b>✓</b>Have diabetes, kidney or thyroid disease</div>
+ <div class="row" id="r53"><b>✓</b>Are pregnant or breastfeeding</div>
+ <div class="src">Source: RadiologyInfo.org (ACR, RSNA)</div></div>
+
+<div class="scene cta" id="c6"><h1>Questions?<br><span class="acc">Just ask us.</span></h1>
+ <div class="pill">Book: link in bio</div>
+ <div class="sub">(727) 398-5999 · Seminole &amp; St. Pete</div>
+ <div class="fine">General information, not medical advice.<br>Sources: RadiologyInfo.org (ACR, RSNA); AAAAI.</div></div>
+</div>
+<script>
+const S=[[0,2.8],[2.8,6.4],[6.4,10.0],[10.0,13.4],[13.4,17.2],[17.2,21.0],[21.0,24.0]];
+const ease=x=>1-Math.pow(1-Math.min(Math.max(x,0),1),3);
+const cl=x=>Math.min(Math.max(x,0),1);
+window.setT=function(t){
+  S.forEach(([a,b],i)=>{
+    const el=document.getElementById('c'+i), last=i===S.length-1;
+    let o=0, sc=1, y=0;
+    if(t>=a && t<b){
+      const p=t-a;
+      o=Math.min(ease(p/0.35), last?1:1-ease((t-(b-0.25))/0.25));
+      sc=0.92+0.08*ease(p/0.5); y=40*(1-ease(p/0.5));
+    }
+    el.style.opacity=o; el.style.transform=`translateY(${y}px) scale(${sc})`;
+    if(i>=1&&i<=3){
+      const p=t-a;
+      document.getElementById('k'+i).style.backgroundSize=(100*ease((p-0.9)/0.45))+'% 12px';
+      const f=document.getElementById('f'+i), q=ease((p-1.3)/0.4);
+      f.style.opacity=q; f.style.transform=`translateY(${(1-q)*50}px)`;
+    }
+    if(i===4||i===5){ for(let k=0;k<4;k++){ const r=document.getElementById('r'+i+k); const q=ease((t-a-0.5-k*0.55)/0.3); r.style.opacity=q; r.style.transform=`translateX(${(1-q)*-60}px)`; } }
+  });
+  // hook: slow zoom on photo and soft contrast "glow" pulses
+  document.getElementById('ph').style.transform=`scale(${1.04+0.04*cl(t/2.8)})`;
+};
+window.setT(0);
+</script>
+</body></html>

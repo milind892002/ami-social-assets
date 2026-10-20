@@ -1,0 +1,29 @@
+{
+  "slug": "2026-10-21-contrast-myths",
+  "format": "reel",
+  "title": "Myth vs fact: contrast for your scan (animated Reel)",
+  "replaces": "2026-10-21-contrast-faq carousel (per Milind 2026-10-20: animated post, rotate formats). Carousel kept in Canva as a backup.",
+  "video": "reel.mp4 (1080x1920, 24 s, 30 fps, original synthesized audio); built from posts/reels/2026-10-21-contrast-myths/",
+  "source": "posts/reels/2026-10-21-contrast-myths/",
+  "networks": {
+    "instagram": "REEL",
+    "facebook": "REEL",
+    "gmb": "image post, reuses Canva design DAHYjPLfSY4 (Google image from the carousel version)"
+  },
+  "captions": {
+    "instagram": "Told you need contrast for your scan? Let's bust 3 myths. 💙\n\n❌ Contrast stains your organs\n✔️ It's a temporary helper, and your body clears it, mostly in urine\n\n❌ A shellfish allergy rules it out\n✔️ A seafood allergy doesn't raise your risk (still tell us about every allergy)\n\n❌ Every scan needs contrast\n✔️ Most brain, spine and knee MRIs are done without it\n\nA brief warm feeling or metallic taste is normal and passes in minutes. Before your scan, tell us about any past reaction, allergies, diabetes, kidney or thyroid disease, or if you're pregnant or breastfeeding.\n\n📅 Questions? Call (727) 398-5999 or book through the link in our bio.\n\nKnow someone with a scan coming up? Send this their way.\n\nGeneral information, not medical advice. Sources: RadiologyInfo.org (ACR, RSNA); AAAAI.\n\n#PatientEducation #MRI #CTScan #SeminoleFL #PinellasCounty",
+    "facebook": "Told you need contrast for your scan? Let's bust 3 myths. 💙\n\n❌ Contrast stains your organs\n✔️ It's a temporary helper, and your body clears it, mostly in urine\n\n❌ A shellfish allergy rules it out\n✔️ A seafood allergy doesn't raise your risk (still tell us about every allergy)\n\n❌ Every scan needs contrast\n✔️ Most brain, spine and knee MRIs are done without it\n\nA brief warm feeling or metallic taste is normal and passes in minutes. Before your scan, tell us about any past reaction, allergies, diabetes, kidney or thyroid disease, or if you're pregnant or breastfeeding.\n\n📅 Book online: https://www.advancedimg.com/lp/imaging-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=contrast-myths-reel\n📞 Questions? Call (727) 398-5999\n\nKnow someone with a scan coming up? Share this with them.\n\nGeneral information, not medical advice. Sources: RadiologyInfo.org (ACR, RSNA); AAAAI.\n\n#PatientEducation #MRI #SeminoleFL",
+    "gbp": "Has your doctor ordered a scan with contrast? Here's what that means. Contrast is a helper, not a dye: it makes certain tissues and blood vessels show up more clearly, and it doesn't stain your organs. CT uses an iodine-based contrast and MRI uses gadolinium, usually given through a small IV; some CT scans use a drink instead. Your body clears it naturally, mostly in urine, and drinking extra water afterward helps. A brief warm feeling or metallic taste is normal and passes in minutes, and serious reactions are very uncommon. A seafood allergy doesn't raise your risk, and many scans, like most brain, spine and knee MRIs, don't need contrast at all. Before your scan, tell us about any past contrast reaction, allergies, diabetes, or kidney or thyroid disease, and whether you are pregnant, might be, or are breastfeeding.\n\nBook online at advancedimg.com. General information, not medical advice. Sources: RadiologyInfo.org (ACR, RSNA); AAAAI."
+  },
+  "alt_text": {
+    "reel": "Animated myth vs fact about contrast for medical scans. Myth: contrast stains your organs; fact: it's a temporary helper your body clears, mostly in urine. Myth: a shellfish allergy rules it out; fact: it doesn't raise your risk. Myth: every scan needs contrast; fact: most brain, spine and knee MRIs are done without it. You might feel a warm flush, a metallic taste or coolness at the IV, gone in minutes. Tell us first about past reactions, allergies, diabetes, kidney or thyroid disease, pregnancy or breastfeeding. Questions? Just ask us.",
+    "gbp": "A smiling technologist beside a patient on an open MRI table. Need contrast for a scan? Here's what to know: it helps tissues show up clearly, and your body clears it naturally."
+  },
+  "facts_checked": "Contrast is not a dye that stains organs; iodine/barium for X-ray and CT, gadolinium for MRI; given by mouth or IV; warm flush and metallic taste with iodinated contrast lasting a few minutes; coolness at injection site with gadolinium; severe reactions very uncommon; eliminated in urine/stool, extra fluids help; tell staff about prior reactions, allergies, heart disease, diabetes, kidney disease, thyroid problems, pregnancy, breastfeeding: RadiologyInfo.org Contrast Materials (ACR/RSNA). Seafood allergy not a risk factor; 'iodine allergy' is a misnomer: AAAAI Radiocontrast and Seafood Allergy page. Most brain/spine/knee MRIs without contrast; prior CT-contrast reaction doesn't rule out gadolinium: amiweb services-data.ts FAQs. Checked 2026-10-20.",
+  "flag": "Website CT page (services-data.ts ~lines 1084 and 1103): 'fast for 4 hours' before contrast and 'pause metformin for 48 hours' for everyone on it may be outdated; current ACR guidance does not require fasting for IV contrast and only asks to hold metformin for patients with eGFR under 30 or acute kidney injury. Not used in this post; worth checking with Milind.",
+  "photo_note": "Hook photo service-open-mri.jpg is website stock (not our team).",
+  "canva": {
+    "gbp": "DAHYjPLfSY4"
+  },
+  "status": "awaiting approval"
+}
