@@ -1,109 +1,192 @@
 <!doctype html>
 <html><head><meta charset="utf-8">
 <style>
-@font-face{font-family:'Inter';font-weight:700;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/inter/files/inter-latin-700-normal.woff2)}@font-face{font-family:'Inter';font-weight:800;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/inter/files/inter-latin-800-normal.woff2)}@font-face{font-family:'DM Sans';font-weight:500;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/dm-sans/files/dm-sans-latin-500-normal.woff2)}@font-face{font-family:'DM Sans';font-weight:600;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/dm-sans/files/dm-sans-latin-600-normal.woff2)}@font-face{font-family:'DM Sans';font-weight:700;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/dm-sans/files/dm-sans-latin-700-normal.woff2)}
-html,body{margin:0;padding:0;background:#0b2440}
-#s{position:relative;width:1080px;height:1920px;overflow:hidden;background:radial-gradient(ellipse at 50% 38%,#16406e 0%,#0b2440 68%);font-family:'DM Sans',sans-serif;color:#fff}
-.scene{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;opacity:0}
-.brand{position:absolute;top:150px;left:0;right:0;text-align:center;font:700 30px 'DM Sans';letter-spacing:.2em;color:#9cc6f0;text-transform:uppercase;z-index:5}
-h1{font-family:'Inter';font-weight:800;margin:0;letter-spacing:-.02em;line-height:1.04}
-.acc{color:#9cc6f0}
+@font-face{font-family:'Inter';font-weight:800;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/inter/files/inter-latin-800-normal.woff2)}@font-face{font-family:'Inter';font-weight:900;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/inter/files/inter-latin-900-normal.woff2)}@font-face{font-family:'DM Sans';font-weight:600;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/dm-sans/files/dm-sans-latin-600-normal.woff2)}@font-face{font-family:'DM Sans';font-weight:700;src:url(file:///root/.cache/ami-fonts/node_modules/@fontsource/dm-sans/files/dm-sans-latin-700-normal.woff2)}
+html,body{margin:0;padding:0;background:#0a1f3d}
+#s{position:relative;width:1080px;height:1920px;overflow:hidden;background:#0a1f3d;font-family:'DM Sans',sans-serif;color:#fff}
+#cam{position:absolute;inset:0}
+.blob{position:absolute;border-radius:50%;filter:blur(90px);opacity:.75}
+.emo{font-family:'Noto Color Emoji';line-height:1}
+.abs{position:absolute}
+.ctr{left:0;right:0;text-align:center}
+.brand{top:150px;font:700 28px 'DM Sans';letter-spacing:.22em;color:#bfe3ff;text-transform:uppercase}
 /* hook */
-.hook{justify-content:flex-end;padding-bottom:470px;box-sizing:border-box}
-.hook .ph{position:absolute;left:0;right:0;top:250px;height:950px;background:url(photo.jpg) 46% center/cover}
-.hook .ph:after{content:'';position:absolute;inset:0;background:linear-gradient(rgba(11,36,64,.75) 0%,rgba(11,36,64,0) 22%,rgba(11,36,64,0) 55%,#0b2440 100%)}
-.hook .eb{position:relative;font:700 34px 'DM Sans';letter-spacing:.16em;color:#9cc6f0;text-transform:uppercase;margin-bottom:28px}
-.hook h1{position:relative;font-size:132px;width:940px}
-.pulse{position:absolute;border-radius:50%;border:6px solid #9cc6f0;width:200px;height:200px;left:440px;top:480px;opacity:0}
-/* myth/fact */
-.mf{padding:0 90px;box-sizing:border-box}
-.tag{font:800 40px 'Inter';letter-spacing:.14em;padding:14px 34px;border-radius:999px;margin-bottom:34px}
-.tag.m{background:#ff7a6b;color:#0b2440}
-.tag.f{background:#9cc6f0;color:#0b2440}
-.myth{position:relative;display:flex;flex-direction:column;align-items:center}
-.myth h1{font-size:92px;width:880px;color:#e8eef7}
-.sk{background:linear-gradient(#ff7a6b,#ff7a6b) no-repeat 0 60%/0% 12px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
-.fact{display:flex;flex-direction:column;align-items:center;margin-top:110px;opacity:0}
-.fact h1{font-size:76px;width:880px}
-.fact p{font:600 46px/1.35 'DM Sans';color:#cfe0f3;width:860px;margin:30px 0 0}
-.src{position:absolute;bottom:420px;left:0;right:0;font:500 28px 'DM Sans';color:#8fa8c8}
-.ct{position:absolute;top:260px;left:0;right:0;font:700 32px 'DM Sans';letter-spacing:.14em;color:#9cc6f0;text-transform:uppercase}
-/* lists */
-.lst h1{font-size:100px;width:900px;margin-bottom:60px}
-.row{display:flex;align-items:center;gap:30px;font:700 54px 'DM Sans';margin:20px 0;width:880px;text-align:left;opacity:0}
-.row b{flex:none;width:80px;height:80px;border-radius:50%;background:#9cc6f0;color:#0b2440;display:flex;align-items:center;justify-content:center;font:800 44px 'Inter'}
-.row small{display:block;font:500 38px 'DM Sans';color:#b9cde6;margin-top:4px}
-/* cta */
-.cta h1{font-size:128px;width:920px}
-.pill{margin-top:64px;background:#9cc6f0;color:#0b2440;border-radius:999px;padding:30px 56px;font:700 52px 'DM Sans'}
-.sub{margin-top:36px;font:600 44px 'DM Sans';color:#cfe0f3}
-.fine{position:absolute;bottom:400px;left:80px;right:80px;font:500 27px/1.4 'DM Sans';color:#8fa8c8;text-align:center}
+.big{font:900 210px/0.95 'Inter';letter-spacing:-.03em}
+.myth{color:#ff5d73}.fact{color:#2bd67b}
+.hk1,.hk2,.hk3{position:absolute;left:0;right:0;text-align:center}
+.pill{display:inline-block;background:#ffd23f;color:#0a1f3d;border-radius:999px;padding:22px 46px;font:800 50px 'Inter'}
+/* round */
+.top{top:270px;font:800 44px 'Inter';letter-spacing:.02em}
+.dots{top:345px;left:0;right:0;display:flex;justify-content:center;gap:18px}
+.dots i{width:22px;height:22px;border-radius:50%;background:rgba(255,255,255,.25);display:block}
+.dots i.on{background:#ffd23f}
+.card{left:90px;width:900px;top:470px;background:#fff;color:#0a1f3d;border-radius:44px;padding:70px 56px;box-sizing:border-box;text-align:center;box-shadow:0 30px 0 rgba(0,0,0,.25)}
+.card .t{font:900 94px/1.06 'Inter';letter-spacing:-.02em}
+.card .w{display:inline-block}
+.stk{position:absolute;font-size:150px}
+.btns{top:1080px;left:0;right:0;display:flex;justify-content:center;gap:40px}
+.btn{width:420px;height:175px;border-radius:40px;display:flex;align-items:center;justify-content:center;gap:18px;font:900 74px 'Inter';color:#fff;box-shadow:0 14px 0 rgba(0,0,0,.28)}
+.btn.m{background:#ff5d73}.btn.f{background:#2bd67b}
+.btn .emo{font-size:58px}
+.cd{top:1290px;font:900 190px 'Inter';color:#ffd23f}
+.guess{top:1320px;font:700 52px 'DM Sans';color:#fff}
+.stamp{top:560px;font:900 250px 'Inter';letter-spacing:-.03em;-webkit-text-stroke:10px #fff;paint-order:stroke fill}
+.ans{left:70px;right:70px;top:1290px;text-align:center}
+.ans span{background:#ffd23f;color:#0a1f3d;font:800 54px/1.5 'Inter';padding:6px 22px;border-radius:14px;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.src{bottom:370px;font:600 26px 'DM Sans';color:#a9c4e4}
+.hand{font-size:130px}
+.cf{position:absolute;width:22px;height:34px;border-radius:5px}
+/* end */
+.e1{top:420px;font:900 128px/1.02 'Inter';letter-spacing:-.02em}
+.sc{top:760px;left:0;right:0;display:flex;justify-content:center;gap:26px}
+.sc div{width:190px;height:170px;border-radius:32px;background:#fff;color:#0a1f3d;font:900 64px 'Inter';display:flex;align-items:center;justify-content:center;box-shadow:0 12px 0 rgba(0,0,0,.25)}
+.sc div.g{background:#ffd23f;width:250px}
+.e2{top:1010px;font:800 60px 'Inter'}
+.e3{top:1140px}
+.e4{top:1300px;font:700 46px 'DM Sans';color:#dfeeff}
+.fine{bottom:400px;font:600 25px/1.45 'DM Sans';color:#a9c4e4}
 </style></head>
-<body><div id="s">
-<div class="brand">Advanced Medical Imaging</div>
+<body><div id="s"><div id="cam">
+<div class="blob" id="b0" style="width:900px;height:900px;background:#2f7bff"></div>
+<div class="blob" id="b1" style="width:700px;height:700px;background:#19c3ff"></div>
+<div class="blob" id="b2" style="width:600px;height:600px;background:#7a5cff"></div>
+<div class="abs ctr brand">Advanced Medical Imaging</div>
 
-<div class="scene hook" id="c0"><div class="ph" id="ph"></div>
- <div class="eb">Myth vs fact</div>
- <h1>Told you need <span class="acc">contrast?</span></h1></div>
-
-<div class="scene mf" id="c1"><div class="ct">Myth 1 of 3</div>
- <div class="myth"><div class="tag m">MYTH</div><h1><span class="sk" id="k1">Contrast stains your organs</span></h1></div>
- <div class="fact" id="f1"><div class="tag f">FACT</div><h1>It&#39;s a temporary helper.</h1><p>It helps tissues show up clearly, then your body clears it, mostly in urine.</p></div>
- <div class="src">Source: RadiologyInfo.org (ACR, RSNA)</div></div>
-
-<div class="scene mf" id="c2"><div class="ct">Myth 2 of 3</div>
- <div class="myth"><div class="tag m">MYTH</div><h1><span class="sk" id="k2">A shellfish allergy rules it out</span></h1></div>
- <div class="fact" id="f2"><div class="tag f">FACT</div><h1>It doesn&#39;t raise your risk.</h1><p>Still tell us about every allergy before your scan.</p></div>
- <div class="src">Source: AAAAI</div></div>
-
-<div class="scene mf" id="c3"><div class="ct">Myth 3 of 3</div>
- <div class="myth"><div class="tag m">MYTH</div><h1><span class="sk" id="k3">Every scan needs contrast</span></h1></div>
- <div class="fact" id="f3"><div class="tag f">FACT</div><h1>Many don&#39;t.</h1><p>Most brain, spine and knee MRIs are done without it.</p></div>
- <div class="src">Source: advancedimg.com</div></div>
-
-<div class="scene lst" id="c4"><h1>You <span class="acc">might feel:</span></h1>
- <div class="row" id="r40"><b>✓</b><div>A warm flush<small>common with CT contrast</small></div></div>
- <div class="row" id="r41"><b>✓</b><div>A metallic taste<small>brief, and normal</small></div></div>
- <div class="row" id="r42"><b>✓</b><div>Coolness at the IV<small>common with MRI contrast</small></div></div>
- <div class="row" id="r43"><b>✓</b><div>Gone in minutes<small>serious reactions are very uncommon</small></div></div>
- <div class="src">Source: RadiologyInfo.org (ACR, RSNA)</div></div>
-
-<div class="scene lst" id="c5"><h1>Tell us first <span class="acc">if you:</span></h1>
- <div class="row" id="r50"><b>✓</b>Had a contrast reaction</div>
- <div class="row" id="r51"><b>✓</b>Have any allergies</div>
- <div class="row" id="r52"><b>✓</b>Have diabetes, kidney or thyroid disease</div>
- <div class="row" id="r53"><b>✓</b>Are pregnant or breastfeeding</div>
- <div class="src">Source: RadiologyInfo.org (ACR, RSNA)</div></div>
-
-<div class="scene cta" id="c6"><h1>Questions?<br><span class="acc">Just ask us.</span></h1>
- <div class="pill">Book: link in bio</div>
- <div class="sub">(727) 398-5999 · Seminole &amp; St. Pete</div>
- <div class="fine">General information, not medical advice.<br>Sources: RadiologyInfo.org (ACR, RSNA); AAAAI.</div></div>
+<!-- HOOK -->
+<div id="hook" class="abs" style="inset:0">
+ <div class="hk1 big myth" id="h1" style="top:540px">MYTH</div>
+ <div class="hk2 big" id="h2" style="top:760px;font-size:130px">or</div>
+ <div class="hk3 big fact" id="h3" style="top:920px">FACT?</div>
+ <div class="abs ctr" id="h4" style="top:1200px;font:800 70px 'Inter'">Contrast for your scan</div>
+ <div class="abs ctr" id="h5" style="top:1320px"><span class="pill">Play along! Guess fast 👇</span></div>
+ <div class="abs emo" id="e0" style="font-size:150px">💉</div>
+ <div class="abs emo" id="e1" style="font-size:140px">🩻</div>
+ <div class="abs emo" id="e2" style="font-size:130px">🦐</div>
+ <div class="abs emo" id="e3" style="font-size:140px">🧠</div>
 </div>
+
+<!-- ROUND (reused for 3 rounds) -->
+<div id="rnd" class="abs" style="inset:0;opacity:0">
+ <div class="abs ctr top" id="rt">Round 1 of 3</div>
+ <div class="abs dots"><i id="d0"></i><i id="d1"></i><i id="d2"></i></div>
+ <div class="abs card" id="card"><div class="t" id="ct"></div><div class="stk emo" id="stk"></div></div>
+ <div class="abs btns" id="btns"><div class="btn m" id="bm"><span class="emo">❌</span>MYTH</div><div class="btn f" id="bf"><span class="emo">✅</span>FACT</div></div>
+ <div class="abs ctr guess" id="gs">Your guess? Comment below 👇</div>
+ <div class="abs ctr cd" id="cd">3</div>
+ <div class="abs ctr stamp" id="st">MYTH!</div>
+ <div class="abs ans" id="an"><span id="ant"></span></div>
+ <div class="abs ctr src" id="sr"></div>
+ <div class="abs emo hand" id="hd">👆</div>
+ <div id="conf"></div>
+</div>
+
+<!-- END -->
+<div id="end" class="abs" style="inset:0;opacity:0">
+ <div class="abs ctr e1" id="x1">How many<br>did you get?</div>
+ <div class="abs sc" id="x2"><div>0/3</div><div>1/3</div><div>2/3</div><div class="g">3/3 🏆</div></div>
+ <div class="abs ctr e2" id="x3">Drop your score in the comments!</div>
+ <div class="abs ctr e3" id="x4"><span class="pill" style="background:#fff">Questions? Just ask us 💙</span></div>
+ <div class="abs ctr e4" id="x5">Book: link in bio · (727) 398-5999</div>
+ <div class="abs ctr fine" id="x6">General information, not medical advice.<br>Sources: RadiologyInfo.org (ACR, RSNA); AAAAI.</div>
+</div>
+</div></div>
 <script>
-const S=[[0,2.8],[2.8,6.4],[6.4,10.0],[10.0,13.4],[13.4,17.2],[17.2,21.0],[21.0,24.0]];
-const ease=x=>1-Math.pow(1-Math.min(Math.max(x,0),1),3);
+const B=60/128, HOOK=8*B, RL=12*B;
+const R=[
+ {q:"Contrast dye stains your organs",e:"🎨",ans:"m",a:"Nope! It's temporary. Your body clears it, mostly in urine.",s:"Source: RadiologyInfo.org (ACR, RSNA)",c:"#ff5d73"},
+ {q:"Allergic to shellfish? No contrast for you",e:"🦐",ans:"m",a:"Myth! It doesn't raise your risk. Just tell us every allergy.",s:"Source: AAAAI",c:"#ff5d73"},
+ {q:"A warm flush with CT contrast is normal",e:"🔥",ans:"f",a:"True! It's normal, like a metallic taste, and fades in minutes.",s:"Source: RadiologyInfo.org (ACR, RSNA)",c:"#2bd67b"}
+];
+const END0=HOOK+3*RL;
 const cl=x=>Math.min(Math.max(x,0),1);
+const eo=x=>1-Math.pow(1-cl(x),3);
+const back=x=>{x=cl(x);const c1=2.2,c3=c1+1;return 1+c3*Math.pow(x-1,3)+c1*Math.pow(x-1,2);};
+const $=id=>document.getElementById(id);
+const beatPulse=t=>{const p=(t%B)/B;return Math.exp(-p*6);};
+// seeded confetti
+let seed=7;const rnd=()=>{seed=(seed*16807)%2147483647;return seed/2147483647;};
+const CF=[];const cols=['#ffd23f','#ff5d73','#2bd67b','#19c3ff','#ffffff','#7a5cff'];
+for(let i=0;i<110;i++){CF.push({vx:(rnd()-.5)*1900,vy:-600-rnd()*1500,r:rnd()*720,vr:(rnd()-.5)*1400,c:cols[i%6]});const d=document.createElement('div');d.className='cf';d.style.background=CF[i].c;$('conf').appendChild(d);CF[i].el=d;}
+let lastR=-1;
+function words(el,text,p){ // word-by-word pop
+  if(el.dataset.t!==text){el.innerHTML=text.split(' ').map(w=>`<span class="w">${w}</span>`).join(' ');el.dataset.t=text;}
+  const ws=el.children,n=ws.length;
+  for(let i=0;i<n;i++){const q=back((p-i*0.09)/0.25);ws[i].style.opacity=cl((p-i*0.09)/0.08);ws[i].style.transform=`scale(${0.3+0.7*q})`;}
+}
 window.setT=function(t){
-  S.forEach(([a,b],i)=>{
-    const el=document.getElementById('c'+i), last=i===S.length-1;
-    let o=0, sc=1, y=0;
-    if(t>=a && t<b){
-      const p=t-a;
-      o=Math.min(ease(p/0.35), last?1:1-ease((t-(b-0.25))/0.25));
-      sc=0.92+0.08*ease(p/0.5); y=40*(1-ease(p/0.5));
-    }
-    el.style.opacity=o; el.style.transform=`translateY(${y}px) scale(${sc})`;
-    if(i>=1&&i<=3){
-      const p=t-a;
-      document.getElementById('k'+i).style.backgroundSize=(100*ease((p-0.9)/0.45))+'% 12px';
-      const f=document.getElementById('f'+i), q=ease((p-1.3)/0.4);
-      f.style.opacity=q; f.style.transform=`translateY(${(1-q)*50}px)`;
-    }
-    if(i===4||i===5){ for(let k=0;k<4;k++){ const r=document.getElementById('r'+i+k); const q=ease((t-a-0.5-k*0.55)/0.3); r.style.opacity=q; r.style.transform=`translateX(${(1-q)*-60}px)`; } }
-  });
-  // hook: slow zoom on photo and soft contrast "glow" pulses
-  document.getElementById('ph').style.transform=`scale(${1.04+0.04*cl(t/2.8)})`;
+  // background blobs drift + beat breathe
+  const bp=beatPulse(t);
+  $('b0').style.transform=`translate(${-200+Math.sin(t*.7)*220}px,${200+Math.cos(t*.5)*200}px) scale(${1+bp*.06})`;
+  $('b1').style.transform=`translate(${500+Math.cos(t*.6)*220}px,${900+Math.sin(t*.8)*260}px)`;
+  $('b2').style.transform=`translate(${100+Math.sin(t*.9+1)*260}px,${1300+Math.cos(t*.7)*200}px)`;
+  let shake=0;
+  // HOOK
+  const hk=$('hook');
+  if(t<HOOK){
+    hk.style.opacity=1-eo((t-(HOOK-0.15))/0.15);
+    [[ 'h1',0],['h2',B],['h3',2*B],['h4',4*B],['h5',5*B]].forEach(([id,a])=>{const q=back((t-a)/0.28);$(id).style.opacity=cl((t-a)/0.06);$(id).style.transform=`scale(${(0.2+0.8*q)*(1+bp*0.04)}) rotate(${id==='h1'?-4:id==='h3'?3:0}deg)`;});
+    if(t<2.2*B) shake=Math.max(shake,Math.exp(-((t%B))*14)*14);
+    const pos=[[80,380],[830,440],[90,1470],[820,1450]];
+    pos.forEach(([x,y],k)=>{const a=3*B+k*0.12;const q=back((t-a)/0.35);const e=$('e'+k);e.style.opacity=cl((t-a)/0.08);e.style.left=x+'px';e.style.top=(y+Math.sin(t*4+k)*18)+'px';e.style.transform=`scale(${q}) rotate(${Math.sin(t*3+k)*14}deg)`;});
+  } else hk.style.opacity=0;
+  // ROUNDS
+  const rn=$('rnd');
+  if(t>=HOOK && t<END0){
+    const k=Math.floor((t-HOOK)/RL), r=R[k], u=t-HOOK-k*RL, ub=u/B;
+    rn.style.opacity=1;
+    $('rt').textContent=`Round ${k+1} of 3`;
+    for(let i=0;i<3;i++) $('d'+i).className=i<=k?'on':'';
+    // card slam in
+    const ci=back(u/0.35), co=eo((u-(RL-0.22))/0.22);
+    $('card').style.transform=`translateY(${(1-ci)*-500 - co*1400}px) rotate(${-3+(k%2)*5}deg) scale(${1+bp*0.02})`;
+    words($('ct'),r.q,u/1.0);
+    $('stk').textContent=r.e;
+    const sq=back((u-0.5)/0.3);
+    $('stk').style.cssText+=`;right:-50px;top:-80px;transform:scale(${sq}) rotate(${12+Math.sin(t*5)*10}deg)`;
+    // buttons
+    const bq=back((ub-2)/0.6);
+    $('btns').style.opacity=cl((ub-2)/0.2)*(1-co);
+    const rev=ub>=8;
+    ['bm','bf'].forEach(id=>{const win=(id==='bm')===(r.ans==='m');let s=0.4+0.6*bq;
+      if(!rev) s*=1+0.06*bp*((ub>=4)?1:0);
+      else s*= win? 1+0.12*back((ub-8)/0.5): 0.88;
+      $(id).style.transform=`scale(${s})`; $(id).style.opacity=rev&&!win?0.3:1;});
+    // guess line beats 2-4, countdown beats 4-7
+    $('gs').style.opacity=(ub>=2.5&&ub<4)?cl((ub-2.5)/0.2):0;
+    const cdn=ub>=4&&ub<7?3-Math.floor(ub-4):0;
+    $('cd').style.opacity=cdn?1:0; if(cdn){$('cd').textContent=cdn;const p=(ub-4)%1;$('cd').style.transform=`scale(${1.5-0.5*eo(p/0.4)})`;}
+    // hand taps winner on beat 7.4
+    const hq=eo((ub-7)/0.5);
+    const tx=r.ans==='m'?270:720;
+    $('hd').style.opacity=(ub>=7&&ub<9.5)?1:0;
+    $('hd').style.left=(tx+ (1-hq)*200)+'px'; $('hd').style.top=(1200+(1-hq)*300 + (ub>7.6&&ub<7.9?20:0))+'px';
+    // stamp
+    const sp=ub-8;
+    $('st').textContent=r.ans==='m'?'MYTH!':'FACT!'; $('st').style.color=r.c;
+    $('st').style.opacity=sp>=0?cl(sp/0.05)*(1-co):0;
+    const mv=eo((sp-0.9)/0.35);
+    $('st').style.transform=`translate(${-250*mv}px,${-230*mv}px) scale(${(sp>=0?3-2*eo(sp/0.12):3)*(1-0.55*mv)}) rotate(${-10-4*mv}deg)`;
+    if(sp>=0&&sp<1) shake=Math.max(shake,Math.exp(-sp*5)*30);
+    // answer text
+    $('ant').textContent=r.a; $('an').style.opacity=cl((ub-9)/0.3)*(1-co); $('an').style.transform=`translateY(${(1-eo((ub-9)/0.4))*40}px)`;
+    $('sr').textContent=r.s; $('sr').style.opacity=cl((ub-9)/0.3)*(1-co);
+    // confetti
+    const ct=(sp)*B*2.1;
+    if(lastR!==k){lastR=k;}
+    CF.forEach((c,i)=>{ if(sp<0||ct>2.4){c.el.style.opacity=0;return;}
+      const x=540+c.vx*ct*0.55, y=700+c.vy*ct+1500*ct*ct;
+      c.el.style.opacity=1-cl((ct-1.6)/0.8); c.el.style.transform=`translate(${x}px,${y}px) rotate(${c.r+c.vr*ct}deg)`;});
+  } else rn.style.opacity=0;
+  // END
+  const en=$('end');
+  if(t>=END0){
+    const u=t-END0, ub=u/B; en.style.opacity=cl(u/0.15);
+    [['x1',0],['x2',1],['x3',2.5],['x4',4],['x5',5],['x6',5.5]].forEach(([id,a])=>{const q=back((ub-a)/0.6);$(id).style.opacity=cl((ub-a)/0.15);$(id).style.transform=`scale(${0.3+0.7*q})`;});
+    [...$('x2').children].forEach((d,i)=>{const q=back((ub-1-i*0.35)/0.5);d.style.transform=`scale(${q}) translateY(${-Math.abs(Math.sin((t+i*.2)*Math.PI*128/60))*10*(ub>3?1:0)}px)`;});
+    if(ub>=4&&ub<5) shake=Math.max(shake,Math.exp(-(ub-4)*B*12)*12);
+  } else en.style.opacity=0;
+  const sx=Math.sin(t*90)*shake, sy=Math.cos(t*77)*shake;
+  $('cam').style.transform=`translate(${sx}px,${sy}px)`;
 };
 window.setT(0);
 </script>
