@@ -1,0 +1,129 @@
+{
+  "slug": "2026-10-22-open-mri",
+  "title": "Technology: Open MRI",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "service-open-mri.jpg",
+        "crop": [
+          520,
+          0,
+          1330,
+          1012
+        ]
+      },
+      "eyebrow": "Our technology: Open MRI",
+      "title": "Dreading the MRI tube?",
+      "title_accent": "Ours is open."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Why patients choose it",
+      "title": "How open MRI is different.",
+      "steps": [
+        [
+          "Open sides",
+          "You lie on a padded table with open space around you, not inside a tube."
+        ],
+        [
+          "Company welcome",
+          "A friend or family member can sit in the room with you."
+        ],
+        [
+          "More room",
+          "Comfortable for larger bodies, and for kids who want a parent close."
+        ]
+      ],
+      "footnote": "Your companion must have no metal implants or devices. Open MRI in Seminole (Hitachi Airis 2)."
+    },
+    {
+      "type": "list",
+      "eyebrow": "What to expect",
+      "title": "What it feels like.",
+      "items": [
+        "Loud tapping and humming is normal. Earplugs or music help.",
+        "Most scans take 30 to 60 minutes.",
+        "No radiation, just magnets and radio waves.",
+        "Get right back to your day afterward."
+      ],
+      "footnote": "Source: NIH MedlinePlus, MRI scan."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before your open MRI",
+      "items": [
+        "Leave jewelry and watches at home.",
+        "Tell us about a pacemaker, implant, stent or any metal in your body.",
+        "Wear comfy clothes with no metal, or change into a gown.",
+        "Very anxious? Ask your doctor about medicine to help you relax."
+      ],
+      "footnote": "Arrive 15 minutes early. Source: NIH MedlinePlus, MRI scan."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Booking is easy",
+      "title": "Simple to book in Seminole.",
+      "cards": [
+        [
+          "$295",
+          "self-pay open MRI without contrast"
+        ],
+        [
+          "$395",
+          "self-pay with and without contrast"
+        ],
+        [
+          "No referral",
+          "needed for self-pay"
+        ],
+        [
+          "Same day",
+          "often available"
+        ]
+      ],
+      "footnote": "Same price as our other MRIs, radiologist reading included. With insurance, a doctor&#39;s order is needed."
+    },
+    {
+      "type": "cta",
+      "title": "Open sides. Calmer mind.",
+      "title_accent": "Book your open MRI.",
+      "share": "Send this to someone who&#39;s been putting off an MRI."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "service-open-mri.jpg",
+      "crop": [
+        540,
+        0,
+        1220,
+        1020
+      ]
+    },
+    "eyebrow": "Our technology: Open MRI",
+    "title": "Dreading the MRI tube?",
+    "title_accent": "Ours is open.",
+    "sub": "Open MRI in Seminole. $295 self-pay, no referral needed."
+  },
+  "captions": {
+    "instagram": "Dreading the MRI tube? You're not alone, and you have another option. 💙\n\nOur open MRI in Seminole is open on the sides:\n✔️ You lie on a padded table with open space around you, not inside a tube\n✔️ A friend or family member can sit in the room with you\n✔️ More room for larger bodies, and for kids who want a parent close\n✔️ No radiation. Most scans take 30 to 60 minutes\n✔️ Same price as our other MRIs: $295 self-pay, no referral needed\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone who's been putting off an MRI? Send this to them.\n\nGeneral information, not medical advice.\n\n#Claustrophobia #OpenMRI #MRI #SeminoleFL #PinellasCounty",
+    "facebook": "Dreading the MRI tube? You're not alone, and you have another option. 💙\n\nOur open MRI in Seminole is open on the sides:\n✔️ You lie on a padded table with open space around you, not inside a tube\n✔️ A friend or family member can sit in the room with you\n✔️ More room for larger bodies, and for kids who want a parent close\n✔️ No radiation. Most scans take 30 to 60 minutes\n✔️ Loud tapping and humming is normal; earplugs or music help\n\nSelf-pay open MRI is $295 without contrast and $395 with and without contrast, the same price as our other MRIs, radiologist reading included. No referral needed for self-pay; with insurance, a doctor's order is needed.\n\n📅 Book online: https://www.advancedimg.com/lp/mri-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=open-mri\n📞 Or call (727) 398-5999\n\nKnow someone who's been putting off an MRI? Send this to them.\n\nGeneral information, not medical advice.\n\n#OpenMRI #SeminoleFL",
+    "gbp": "Dreading the MRI tube? Advanced Medical Imaging in Seminole has an open MRI that is open on the sides. You lie on a padded table with open space around you instead of inside a tube, and a friend or family member can sit in the room with you. It also gives more room for larger bodies and for children who want a parent close. MRI uses magnets and radio waves, not radiation, and most scans take 30 to 60 minutes. Loud tapping and humming is normal, and earplugs or music help. Before your scan, leave jewelry and watches at home and tell us about a pacemaker, implant, stent or any metal in your body. Self-pay open MRI is $295 without contrast and $395 with and without contrast, the same price as our other MRIs, with no referral needed for self-pay.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A smiling technologist stands beside a woman lying on the table of an open MRI scanner that is open on the sides. Dreading the MRI tube? Ours is open.",
+      "How open MRI is different: open sides, so you lie on a padded table with open space around you; company welcome, as a friend or family member can sit in the room; more room for larger bodies and for kids who want a parent close.",
+      "What it feels like: loud tapping and humming is normal and earplugs or music help; most scans take 30 to 60 minutes; no radiation, just magnets and radio waves; get right back to your day afterward.",
+      "Before your open MRI: leave jewelry and watches at home; tell us about a pacemaker, implant, stent or any metal in your body; wear comfy clothes with no metal or change into a gown; if very anxious, ask your doctor about medicine to help you relax.",
+      "Simple to book in Seminole: $295 self-pay open MRI without contrast, $395 with and without contrast, no referral needed for self-pay, same day often available.",
+      "Open sides. Calmer mind. Book your open MRI. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A technologist beside a woman lying on an open MRI table. Dreading the MRI tube? Ours is open. Open MRI in Seminole, $295 self-pay, no referral needed."
+  },
+  "facts_checked": "amiweb src/lib/services-data.ts open-mri (Hitachi Airis 2 at Seminole, open sides, companion can stay in room, larger patients and children, 30-60 min, earplugs or music, arrive 15 min early, self-pay no referral, same-day often available) and src/app/pricing/page.tsx + MRI cost FAQ ($295 / $395, open MRI same price), 2026-10-21; NIH MedlinePlus MRI scan (no ionizing radiation, open MRI option for fear of close spaces, relaxing medicine, loud noises and earplugs, implants to report, jewelry/watches, 30-60 min, resume normal activity), 2026-10-21."
+}
