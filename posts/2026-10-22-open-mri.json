@@ -125,5 +125,12 @@
     ],
     "gbp": "A technologist beside a woman lying on an open MRI table. Dreading the MRI tube? Ours is open. Open MRI in Seminole, $295 self-pay, no referral needed."
   },
-  "facts_checked": "amiweb src/lib/services-data.ts open-mri (Hitachi Airis 2 at Seminole, open sides, companion can stay in room, larger patients and children, 30-60 min, earplugs or music, arrive 15 min early, self-pay no referral, same-day often available) and src/app/pricing/page.tsx + MRI cost FAQ ($295 / $395, open MRI same price), 2026-10-21; NIH MedlinePlus MRI scan (no ionizing radiation, open MRI option for fear of close spaces, relaxing medicine, loud noises and earplugs, implants to report, jewelry/watches, 30-60 min, resume normal activity), 2026-10-21."
+  "facts_checked": "amiweb src/lib/services-data.ts open-mri (Hitachi Airis 2 at Seminole, open sides, companion can stay in room, larger patients and children, 30-60 min, earplugs or music, arrive 15 min early, self-pay no referral, same-day often available) and src/app/pricing/page.tsx + MRI cost FAQ ($295 / $395, open MRI same price), 2026-10-21; NIH MedlinePlus MRI scan (no ionizing radiation, open MRI option for fear of close spaces, relaxing medicine, loud noises and earplugs, implants to report, jewelry/watches, 30-60 min, resume normal activity), 2026-10-21.",
+  "status": "awaiting approval",
+  "planned_time": "2026-10-22T10:00:00 America/New_York (or best time from Metricool on approval)",
+  "canva": {
+    "carousel": "DAHYpFV3-Bs",
+    "gbp": "DAHYpJMuz8E",
+    "open_transaction": "1574527745298705380 (page 1 heading wrap fix, uncommitted until approval)"
+  }
 }
