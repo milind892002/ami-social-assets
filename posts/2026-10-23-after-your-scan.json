@@ -1,0 +1,120 @@
+{
+  "slug": "2026-10-23-after-your-scan",
+  "title": "Booking made easy: after your scan, how results work",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "hero-doctor.jpg",
+        "crop": [
+          560,
+          0,
+          1200,
+          800
+        ]
+      },
+      "eyebrow": "After your scan",
+      "title": "Had a scan?",
+      "title_accent": "Here&#39;s how results work."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "From scan to answers",
+      "title": "What happens after your scan.",
+      "steps": [
+        [
+          "A radiologist reads it",
+          "A board-certified radiologist reviews every image."
+        ],
+        [
+          "Your doctor gets the report",
+          "Usually within 48 to 72 hours. Same-day reads for urgent cases."
+        ],
+        [
+          "You talk it through",
+          "Your doctor explains what it means and what comes next."
+        ]
+      ],
+      "footnote": "Most people can drive and get right back to their day after a scan."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Your results, your way",
+      "title": "See your own report and images.",
+      "cards": [
+        [
+          "Portal",
+          "View your report online, any time."
+        ],
+        [
+          "Images",
+          "View and download them in the portal."
+        ],
+        [
+          "CD",
+          "Ask at the front desk after your exam."
+        ],
+        [
+          "Share",
+          "Send them to a specialist or another doctor."
+        ]
+      ],
+      "footnote": "It&#39;s your right: HIPAA lets you get copies of your records, including images. Source: HHS.gov."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Questions to ask about your results",
+      "items": [
+        "What did the scan show, in plain words?",
+        "Do I need another test or a follow-up?",
+        "Was it compared with my older scans?",
+        "Who do I call if I have questions later?"
+      ],
+      "footnote": "Tip: bring CDs or reports from scans done elsewhere so we can compare. Source: AHRQ, Questions Are the Answer."
+    },
+    {
+      "type": "cta",
+      "title": "Clear answers, close to home.",
+      "title_accent": "Book your scan with us.",
+      "share": "Send this to someone waiting on a scan.",
+      "disclaimer": "General information, not medical advice."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "hero-doctor.jpg",
+      "crop": [
+        330,
+        0,
+        1200,
+        652
+      ]
+    },
+    "eyebrow": "After your scan",
+    "title": "Had a scan?",
+    "title_accent": "Here&#39;s how results work.",
+    "sub": "A board-certified radiologist reads it, and your doctor gets the report in 48 to 72 hours. See your report and images in our patient portal.",
+    "button": "Book at advancedimg.com"
+  },
+  "captions": {
+    "instagram": "Had a scan? Here's what happens next, and how to see your results yourself. 💙\n\n✔️ A board-certified radiologist reads every image\n✔️ Your doctor usually gets the report within 48 to 72 hours (same-day reads for urgent cases)\n✔️ You can view your report and images in our patient portal\n✔️ Need a CD? Ask at the front desk after your exam\n✔️ HIPAA gives you the right to copies of your records, including images (HHS.gov)\n\n📌 Save this list of questions for your doctor: What did the scan show, in plain words? Do I need another test or a follow-up? Was it compared with my older scans? Who do I call if I have questions later?\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone waiting on a scan? Send this to them.\n\nGeneral information, not medical advice.\n\n#KnowYourHealth #MedicalImaging #Radiology #SeminoleFL #PinellasCounty",
+    "facebook": "Had a scan? Here's what happens next, and how to see your results yourself. 💙\n\n✔️ A board-certified radiologist reads every image\n✔️ Your doctor usually gets the report within 48 to 72 hours (same-day reads for urgent cases)\n✔️ You can view your report and images in our patient portal\n✔️ Need a CD? Ask at the front desk after your exam\n✔️ HIPAA gives you the right to copies of your records, including images (HHS.gov)\n\n📌 Save this list of questions for your doctor: What did the scan show, in plain words? Do I need another test or a follow-up? Was it compared with my older scans? Who do I call if I have questions later?\n\n📅 Request an appointment: https://www.advancedimg.com/schedule?utm_source=facebook&utm_medium=social&utm_campaign=after-your-scan\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 Seminole: 9555 Seminole Blvd · St. Pete 3T MRI: 2201 Central Ave\n\nKnow someone waiting on a scan? Send this to them.\n\nGeneral information, not medical advice.\n\n#MedicalImaging #SeminoleFL",
+    "gbp": "Had a scan at Advanced Medical Imaging? Here's what happens next. A board-certified radiologist reads every image, and your doctor usually gets the report within 48 to 72 hours, with same-day reads available for urgent cases. Your doctor then explains what it means and what comes next. You can also view your report and images yourself in our patient portal, or ask for a CD of your images at the front desk after your exam, so it's easy to share them with a specialist or another doctor. Under HIPAA you have the right to copies of your health records, including images (HHS.gov). Good questions to ask your doctor: What did the scan show, in plain words? Do I need another test or a follow-up? Was it compared with my older scans? Tip: bring CDs or reports from scans done elsewhere so we can compare.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A doctor in a white coat studies spine MRI images on a monitor. After your scan: had a scan? Here's how results work.",
+      "What happens after your scan, in 3 steps: a board-certified radiologist reads every image; your doctor usually gets the report within 48 to 72 hours, with same-day reads for urgent cases; your doctor explains what it means and what comes next.",
+      "See your own report and images. Portal: view your report online any time. Images: view and download them in the portal. CD: ask at the front desk after your exam. Share: send them to a specialist or another doctor. HIPAA lets you get copies of your records, including images.",
+      "Save this: questions to ask about your results. What did the scan show, in plain words? Do I need another test or a follow-up? Was it compared with my older scans? Who do I call if I have questions later?",
+      "Clear answers, close to home. Book your scan with us. Call (727) 398-5999 or book through the link in bio."
+    ],
+    "gbp": "A doctor studies MRI images on a monitor. Had a scan? Here's how results work: radiologist read, report to your doctor in 48 to 72 hours, report and images in the patient portal."
+  },
+  "facts_checked": "amiweb main 96c189b, 2026-10-22: services-data.ts (board-certified radiologist reads images; results to physician in 48-72 hours; stat reads for urgent cases; resume normal activities immediately); patient-resources/page.tsx (results 48-72 h, stat same-day; CD of images at front desk; bring prior imaging CDs); patient-portal/page.tsx (view results and images, download, share with specialists, 24/7). HHS.gov HIPAA FAQ 'Do individuals have a right under HIPAA to get copies of their x-rays or other diagnostic images' and 'Get it. Check it. Use it.' (right to copies incl. images; up to 30 days; portal), 2026-10-22. AHRQ Questions Are the Answer (ask questions about tests and results), 2026-10-22.",
+  "flag": "Hook and Google photo hero-doctor.jpg is website stock; copy does not call him our radiologist. Portal page says images are in the 'secure AdvancedMD portal' but the portal link goes to advancedimg-patient.mycivie.com: confirm patients can see reports and images there today. Friday 'booking' slot used for results (how-to-book was Oct 16, price poster Oct 15 still pending).",
+  "status": "awaiting approval"
+}
