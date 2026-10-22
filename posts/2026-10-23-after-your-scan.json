@@ -116,5 +116,10 @@
   },
   "facts_checked": "amiweb main 96c189b, 2026-10-22: services-data.ts (board-certified radiologist reads images; results to physician in 48-72 hours; stat reads for urgent cases; resume normal activities immediately); patient-resources/page.tsx (results 48-72 h, stat same-day; CD of images at front desk; bring prior imaging CDs); patient-portal/page.tsx (view results and images, download, share with specialists, 24/7). HHS.gov HIPAA FAQ 'Do individuals have a right under HIPAA to get copies of their x-rays or other diagnostic images' and 'Get it. Check it. Use it.' (right to copies incl. images; up to 30 days; portal), 2026-10-22. AHRQ Questions Are the Answer (ask questions about tests and results), 2026-10-22.",
   "flag": "Hook and Google photo hero-doctor.jpg is website stock; copy does not call him our radiologist. Portal page says images are in the 'secure AdvancedMD portal' but the portal link goes to advancedimg-patient.mycivie.com: confirm patients can see reports and images there today. Friday 'booking' slot used for results (how-to-book was Oct 16, price poster Oct 15 still pending).",
-  "status": "awaiting approval"
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHYu5tZWoI",
+    "gbp": "DAHYu4EnSSY",
+    "note": "Hook heading resized to 904px so it wraps; transaction 7366156969549416915 open, commit after approval"
+  }
 }
