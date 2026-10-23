@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-24-know-the-signs",
+  "title": "Breast Cancer Awareness Month: know your normal, know the signs",
+  "palette": "pink",
+  "ribbon": true,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "service-mammography.jpg",
+        "crop": [
+          154,
+          0,
+          768,
+          512
+        ]
+      },
+      "eyebrow": "Breast Cancer Awareness Month",
+      "title": "Know your normal.",
+      "title_accent": "Then you&#39;ll notice what&#39;s new."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Get these changes checked",
+      "items": [
+        "A new lump in the breast or underarm.",
+        "Swelling or thickening, even without a lump.",
+        "Skin dimpling, redness or flaky skin.",
+        "A nipple that turns inward, or discharge that isn&#39;t milk."
+      ],
+      "footnote": "Also: a change in size or shape, or new pain in one area. Sources: CDC, Symptoms of Breast Cancer; American Cancer Society."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Good to know",
+      "title": "A change isn&#39;t a diagnosis.",
+      "cards": [
+        [
+          "Most",
+          "breast lumps are not cancer. Get every new one checked."
+        ],
+        [
+          "Normal",
+          "changes happen with periods, pregnancy and menopause."
+        ],
+        [
+          "Underarm",
+          "lumps and swollen glands count, too."
+        ],
+        [
+          "Silent",
+          "Some breast cancers cause no signs at all."
+        ]
+      ],
+      "footnote": "Sources: American Cancer Society; CDC."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Noticed something?",
+      "title": "What to do next.",
+      "steps": [
+        [
+          "Call your doctor",
+          "Don&#39;t wait for your next screening."
+        ],
+        [
+          "Get a diagnostic exam",
+          "A 3D mammogram, often with an ultrasound."
+        ],
+        [
+          "Get answers",
+          "Results go to your doctor in 48 to 72 hours."
+        ]
+      ],
+      "footnote": "A diagnostic mammogram usually needs your doctor&#39;s order."
+    },
+    {
+      "type": "photo_list",
+      "photo": {
+        "src": "facility/mammography.jpg",
+        "crop": [
+          0,
+          360,
+          1200,
+          985
+        ]
+      },
+      "eyebrow": "Feel fine? Keep screening",
+      "title": "Screening finds what you can&#39;t feel.",
+      "items": [
+        "3D mammograms at our Seminole office.",
+        "Performed by a female technologist.",
+        "$0 with most plans, or $295 self-pay."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Book your 3D mammogram.",
+      "title_accent": "Questions? Call us.",
+      "share": "Send this to a friend. It could be her reminder.",
+      "disclaimer": "General information, not medical advice. Screening guidelines differ (USPSTF: every 2 years from 40; ACS: yearly from 45, optional from 40). Coverage varies by plan.",
+      "title_size": 72
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "facility/mammography.jpg",
+      "crop": [
+        0,
+        100,
+        1000,
+        1600
+      ]
+    },
+    "eyebrow": "Breast Cancer Awareness Month",
+    "title": "Know your normal.",
+    "title_accent": "Get new changes checked.",
+    "sub": "3D mammograms and breast ultrasound in Seminole, with a female technologist.",
+    "button": "Book at advancedimg.com"
+  },
+  "captions": {
+    "instagram": "Know your normal, so you'll notice what's new. 🎀\n\nThe last week of Breast Cancer Awareness Month is a good time to learn the signs worth a call to your doctor:\n✔️ A new lump in the breast or underarm\n✔️ Swelling or thickening, even without a lump\n✔️ Skin dimpling, redness or flaky skin\n✔️ A nipple that turns inward, or discharge that isn't milk\n✔️ A change in size or shape, or new pain in one area\n\nMost breast lumps are not cancer, but every new change deserves a check. And because some breast cancers cause no signs at all, keep up your screening mammograms even when you feel fine.\n\n📌 Save this list so it's there when you need it.\n\n📅 3D mammograms in Seminole with a female technologist. Book through the link in our bio or call (727) 398-5999.\n\nSend this to a friend. It could be her reminder.\n\nGeneral information, not medical advice. Coverage varies by plan.\n\n#BreastCancerAwareness #Mammogram #3DMammography #SeminoleFL #PinellasCounty",
+    "facebook": "Know your normal, so you'll notice what's new. 🎀\n\nThe last week of Breast Cancer Awareness Month is a good time to learn the signs worth a call to your doctor:\n✔️ A new lump in the breast or underarm\n✔️ Swelling or thickening, even without a lump\n✔️ Skin dimpling, redness or flaky skin\n✔️ A nipple that turns inward, or discharge that isn't milk\n✔️ A change in size or shape, or new pain in one area\n\nMost breast lumps are not cancer, but every new change deserves a check. Noticed something? Call your doctor rather than waiting for your next screening; a diagnostic mammogram usually needs their order. Feel fine? Keep up your screening, because some breast cancers cause no signs at all. (Guidelines differ: the USPSTF advises every 2 years from 40; the American Cancer Society advises yearly from 45, with the option to start at 40. Ask your doctor what's right for you.)\n\n📅 Book a 3D mammogram: https://www.advancedimg.com/lp/mammogram-ultrasound-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=know-the-signs\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 9555 Seminole Blvd, Suite 101, Seminole\n\nSend this to a friend. It could be her reminder.\n\nGeneral information, not medical advice. Coverage varies by plan. Sources: CDC; American Cancer Society.\n\n#BreastCancerAwareness #Mammogram #SeminoleFL",
+    "gbp": "Know your normal, so you'll notice what's new. During Breast Cancer Awareness Month, here are the breast changes worth a call to your doctor, according to the CDC and the American Cancer Society: a new lump in the breast or underarm; swelling or thickening, even without a lump; skin dimpling, redness or flaky skin; a nipple that turns inward, or discharge that isn't breast milk; a change in size or shape; or new pain in one area. Most breast lumps are not cancer, but every new change deserves a check, and a diagnostic mammogram usually needs your doctor's order. Some breast cancers cause no signs at all, so keep up your screening mammograms even when you feel fine. Advanced Medical Imaging offers 3D mammograms with a female technologist and breast ultrasound in Seminole. Coverage varies by plan.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A mammography technologist talks with a smiling woman beside a 3D mammography machine. Breast Cancer Awareness Month: Know your normal. Then you'll notice what's new.",
+      "Save this: get these changes checked. A new lump in the breast or underarm; swelling or thickening, even without a lump; skin dimpling, redness or flaky skin; a nipple that turns inward, or discharge that isn't milk. Also a change in size or shape, or new pain in one area.",
+      "Good to know: a change isn't a diagnosis. Most breast lumps are not cancer, but get every new one checked. Normal changes happen with periods, pregnancy and menopause. Underarm lumps and swollen glands count, too. Some breast cancers cause no signs at all.",
+      "Noticed something? What to do next: 1, call your doctor; don't wait for your next screening. 2, get a diagnostic exam, a 3D mammogram, often with an ultrasound. 3, get answers: results go to your doctor in 48 to 72 hours.",
+      "The 3D mammography room at Advanced Medical Imaging in Seminole. Feel fine? Keep screening. Screening finds what you can't feel. 3D mammograms performed by a female technologist, $0 with most plans or $295 self-pay.",
+      "Book your 3D mammogram. Questions? Call us. Call (727) 398-5999 or book through the link in our bio."
+    ],
+    "gbp": "The 3D mammography room at Advanced Medical Imaging in Seminole. Know your normal. Get new changes checked."
+  },
+  "facts_checked": "Checked 2026-10-23. CDC 'Symptoms of Breast Cancer' (new lump in breast or underarm; thickening or swelling; irritation or dimpling; redness or flaky skin; pulling in of nipple or nipple pain; discharge other than milk; change in size or shape; pain in any area; some people have no symptoms; symptoms can come from non-cancer conditions; see your doctor right away). ACS 'Breast Cancer Signs and Symptoms' (new lump most common symptom, most lumps not cancer; swelling without a lump; dimpling; nipple turning inward; swollen lymph nodes under arm or near collarbone; menstrual cycle, pregnancy, menopause can change breast tissue; have any new change checked; keep up screening). ACS screening guideline summary (40-44 choice of yearly; 45-54 yearly; 55+ every 2 years or yearly). USPSTF 2024 final (every 2 years, 40-74). Practice facts from amiweb main 1c25a34: services-data.ts mammography (Hologic 3D, female technologist, diagnostic for lump/pain/call-back needs physician's order, results to physician 48-72 h, breast ultrasound often added for a specific area of concern $195, screening covered in full by most plans from 40); prices.ts mammo $295 (one self-pay 3D mammogram, screening or diagnostic, since Oct 20 2026); constants.ts phone and hours.",
+  "flag": "Third Breast Cancer Awareness post this month (Oct 10 get-your-mammogram, Oct 17 dense breasts); this one is a different topic (signs to get checked). Hook photo service-mammography.jpg is website stock (not called our team or patient). Mammography room photo is the real Seminole office. Website services-data.ts mammography FAQ says 'The American Cancer Society recommends annual mammograms starting at age 40'; ACS actually says yearly from 45 with the option from 40. Dense-breast FAQ still says ~40% (FDA/CDC: about half), flagged Oct 17.",
+  "status": "awaiting approval",
+  "planned_time": "2026-10-24 (Metricool best time 8:00 to 20:00, else 10:00 America/New_York)"
+}
