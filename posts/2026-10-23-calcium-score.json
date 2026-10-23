@@ -153,5 +153,11 @@
   "facts_checked": "amiweb main 5f10d04, 2026-10-23: prices.ts calcium $99; services-data.ts calcium-score (about 5 minutes, no contrast, ~1 mSv, Agatston bands 0/1-99/100-399/400+, electrodes + breath-hold, results 48-72 h to you and your doctor, no caffeine 4 h, no fasting, no referral self-pay, order needed with insurance, most plans don't cover, who should get one 40-75 with risk factors / statin decision, chest pain call 911). NIH NHLBI Coronary calcium scan page (CT measuring coronary calcium, no contrast, Agatston score, 0 is normal, higher = more likely CHD), 2026-10-23. USPSTF 2018 Grade I for adding CAC to risk assessment (update in progress), 2026-10-23. ACC/AHA support named without a direct fetch (2018/2019 guidelines: CAC reasonable for intermediate-risk adults when statin decision uncertain).",
   "flag": "Hook photo service-coronary-cta.jpg is website stock (possibly AI-generated); not called our radiologist. Radiation wording: website says ~1 mSv 'similar to a few months of natural background'; NHLBI says about one year of natural exposure. Slides say only 'about 1 mSv'. St. Pete GBP gets a variant saying calcium scores are done in Seminole.",
   "status": "awaiting approval",
-  "publish_via": "Windsor.ai (Metricool account limit hit 2026-10-22): Instagram carousel, Facebook single image, GBP Seminole + St. Pete"
+  "publish_via": "Windsor.ai (Metricool account limit hit 2026-10-22): Instagram carousel, Facebook single image, GBP Seminole + St. Pete",
+  "canva": {
+    "carousel": "DAHY0mIiqnk",
+    "single": "DAHY0oPlfjQ",
+    "gbp": "DAHY0oYWMmQ",
+    "note": "Hook heading resized to 904px so it wraps; transaction 6340462251101489750 open, commit after approval"
+  }
 }
