@@ -138,5 +138,10 @@
   "facts_checked": "Checked 2026-10-23. CDC 'Symptoms of Breast Cancer' (new lump in breast or underarm; thickening or swelling; irritation or dimpling; redness or flaky skin; pulling in of nipple or nipple pain; discharge other than milk; change in size or shape; pain in any area; some people have no symptoms; symptoms can come from non-cancer conditions; see your doctor right away). ACS 'Breast Cancer Signs and Symptoms' (new lump most common symptom, most lumps not cancer; swelling without a lump; dimpling; nipple turning inward; swollen lymph nodes under arm or near collarbone; menstrual cycle, pregnancy, menopause can change breast tissue; have any new change checked; keep up screening). ACS screening guideline summary (40-44 choice of yearly; 45-54 yearly; 55+ every 2 years or yearly). USPSTF 2024 final (every 2 years, 40-74). Practice facts from amiweb main 1c25a34: services-data.ts mammography (Hologic 3D, female technologist, diagnostic for lump/pain/call-back needs physician's order, results to physician 48-72 h, breast ultrasound often added for a specific area of concern $195, screening covered in full by most plans from 40); prices.ts mammo $295 (one self-pay 3D mammogram, screening or diagnostic, since Oct 20 2026); constants.ts phone and hours.",
   "flag": "Third Breast Cancer Awareness post this month (Oct 10 get-your-mammogram, Oct 17 dense breasts); this one is a different topic (signs to get checked). Hook photo service-mammography.jpg is website stock (not called our team or patient). Mammography room photo is the real Seminole office. Website services-data.ts mammography FAQ says 'The American Cancer Society recommends annual mammograms starting at age 40'; ACS actually says yearly from 45 with the option from 40. Dense-breast FAQ still says ~40% (FDA/CDC: about half), flagged Oct 17.",
   "status": "awaiting approval",
-  "planned_time": "2026-10-24 (Metricool best time 8:00 to 20:00, else 10:00 America/New_York)"
+  "planned_time": "2026-10-24 (Metricool best time 8:00 to 20:00, else 10:00 America/New_York)",
+  "canva": {
+    "carousel": "DAHY1PCi7rc",
+    "gbp": "DAHY1BLhBXc",
+    "note": "Hook heading resized to 904px so it wraps, in open Canva transaction 6618559533348986655 (commit on approval)"
+  }
 }
