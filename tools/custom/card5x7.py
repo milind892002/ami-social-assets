@@ -3,7 +3,7 @@
 Usage: python3 tools/custom/card5x7.py [--preview]
 Pages are 1500x2100 px (5x7 in at 300 dpi). Fonts: Inter + DM Sans only.
 Review QR = Seminole Google profile (place id ChIJ9T1Dg6T7wogRn7zymMqhyzU). No incentives, ask everyone.
-Prices copied from amiweb src/app/pricing/page.tsx (origin/main 12ebf58, Oct 17 2026). Re-check before reprinting.
+Prices copied from amiweb src/app/pricing/page.tsx (Oct 17 2026), with Milind's Oct 23 changes: mammo $199/$249/$349, prostate $495. Re-check before reprinting.
 """
 import pathlib, sys
 ROOT = pathlib.Path(__file__).resolve().parents[2]
@@ -21,7 +21,7 @@ BOOK = "https://www.advancedimg.com/schedule?utm_source=print&utm_medium=card&ut
 
 LEFT = [
     ("MRI", [("MRI, no contrast", "$295", 0), ("MRI with/without contrast", "$395", 0),
-             ("Prostate MRI (PI-RADS)", "$499", 1), ("NeuroQuant brain MRI", "$999", 0),
+             ("Prostate MRI (PI-RADS)", "$495", 1), ("NeuroQuant brain MRI", "$999", 0),
              ("Whole-body MRI", "$1,499", 1)]),
     ("CT", [("CT, no contrast", "$295", 0), ("CT with/without contrast", "$395", 0),
             ("Heart calcium score", "$99", 1), ("Lung screening CT", "$150", 1),
@@ -29,8 +29,8 @@ LEFT = [
 ]
 RIGHT = [
     ("Ultrasound", [("Ultrasound, routine", "$195", 0), ("Echocardiogram", "$250", 0),
-                    ("Vascular, one side", "$150", 0), ("Vascular, both sides", "$250", 0)]),
-    ("Mammogram", [("Screening 2D", "$195", 1), ("3D mammogram", "$249", 1)]),
+                    ("Vascular, 1 or 2 sides", "$150/$250", 0)]),
+    ("Mammogram", [("2D + 3D screening", "$199", 1), ("2D + 3D diagnostic", "$249", 0), ("Diagnostic + ultrasound", "$349", 0)]),
     ("DEXA", [("Bone density", "$75", 1), ("Body composition", "$100", 1)]),
     ("X-ray", [("Per body part", "$50", 0)]),
 ]
