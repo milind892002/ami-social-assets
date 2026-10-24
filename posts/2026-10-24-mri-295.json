@@ -136,16 +136,17 @@
       "Crossed out: waiting weeks for approval, guessing the final bill. MRI for $295. No referral needed. MRI $295, with contrast $395, Open and 3T also $295. Radiologist reading included, no facility fees added later, same-day often available.",
       "How it works, self-pay: 1, book: call us or book online. 2, same-day review: our physician reviews your request the same day, no referral needed. 3, get scanned: often the same day, results in 48 to 72 hours.",
       "What $295 gets you: one price, everything included. Reading by a board-certified radiologist; no fees added later for the facility or the reading; three scanners, 1.5T, Open MRI and 3T, all the same price; HSA and FSA cards accepted.",
-      "The Advanced Medical Imaging team in their black scrubs at the Seminole office. Two locations, one number: Seminole has 1.5T and Open MRI, St. Pete has 3T MRI on Central Ave. Call (727) 398-5999 for today's openings.",
+      "A radiologist reviews MRI images at a workstation, with an MRI scanner behind the window. Two locations, one number: Seminole has 1.5T and Open MRI, St. Pete has 3T MRI on Central Ave. Call (727) 398-5999 for today's openings.",
       "Book your MRI for $295. Questions? Call us. Call (727) 398-5999 or book through the link in our bio."
     ],
     "gbp": "MRI for $295. No referral needed. MRI $295, with contrast $395, Open and 3T also $295."
   },
   "facts_checked": "Checked 2026-10-24. FDA 'MRI Benefits and Risks' (no ionizing radiation; not used in copy beyond implied). Practice facts from amiweb main: prices.ts mri $295 (same price on every scanner, 1.5T, open, 3T), mriContrast $395, both centers; services-data.ts MRI FAQ (self-pay no referral, physician reviews request same day, no facility or reading fees added later, same-day often for self-pay, insurance usually needs an order, we verify benefits and handle authorization), costSection footnote (HSA/FSA accepted), results to physician 48-72 h; lp/mri-seminole-fl (results/portal 48-72 h, board-certified radiologists); lp/mri-st-pete-fl ($295 single region); constants.ts phone, hours, addresses.",
-  "flag": "Same-day extra post (Oct 24 already had know-the-signs at 10:00), requested by Milind. Team photo facility/team.jpg assumed to be the real AMI team (alt text says so). Topic overlaps the unpublished Oct 15 'One clear price' post.",
+  "flag": "Same-day extra post (Oct 24 already had know-the-signs at 10:00), requested by Milind. Slide 4 photo is Canva stock (not called our team). Topic overlaps the unpublished Oct 15 'One clear price' post.",
   "status": "awaiting approval",
   "canva": {
     "carousel": "DAHY9QmTEww",
-    "gbp": "DAHY9co9_Ms"
+    "gbp": "DAHY9co9_Ms",
+    "note": "Slide 4 team photo replaced in Canva with Canva stock MAEYV-jMbG8 ('MRI Scan Analysis by Healthcare Professional') at Milind's request; transaction 8100243954440046631 open until approval."
   }
 }
