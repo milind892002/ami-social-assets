@@ -143,10 +143,17 @@
   },
   "facts_checked": "Checked 2026-10-24. FDA 'MRI Benefits and Risks' (no ionizing radiation; not used in copy beyond implied). Practice facts from amiweb main: prices.ts mri $295 (same price on every scanner, 1.5T, open, 3T), mriContrast $395, both centers; services-data.ts MRI FAQ (self-pay no referral, physician reviews request same day, no facility or reading fees added later, same-day often for self-pay, insurance usually needs an order, we verify benefits and handle authorization), costSection footnote (HSA/FSA accepted), results to physician 48-72 h; lp/mri-seminole-fl (results/portal 48-72 h, board-certified radiologists); lp/mri-st-pete-fl ($295 single region); constants.ts phone, hours, addresses.",
   "flag": "Same-day extra post (Oct 24 already had know-the-signs at 10:00), requested by Milind. Slide 4 photo is Canva stock (not called our team). Topic overlaps the unpublished Oct 15 'One clear price' post.",
-  "status": "awaiting approval",
+  "status": "scheduled",
   "canva": {
     "carousel": "DAHY9QmTEww",
     "gbp": "DAHY9co9_Ms",
-    "note": "Slide 4 team photo replaced in Canva with Canva stock MAEYV-jMbG8 ('MRI Scan Analysis by Healthcare Professional') at Milind's request; transaction 8100243954440046631 open until approval."
+    "note": "Slide 4 team photo replaced in Canva with Canva stock MAEYV-jMbG8 ('MRI Scan Analysis by Healthcare Professional') at Milind's request; committed after approval."
+  },
+  "approved": "Milind, 2026-10-24 (\"Approve\")",
+  "scheduled_time": "2026-10-24T18:00:00 America/New_York (best remaining hour today in Metricool Facebook data)",
+  "metricool": {
+    "instagram": 405286047,
+    "facebook": 405286149,
+    "gmb": 405286192
   }
 }
