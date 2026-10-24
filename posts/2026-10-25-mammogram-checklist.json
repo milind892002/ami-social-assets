@@ -130,10 +130,17 @@
   },
   "facts_checked": "Checked 2026-10-24. ACS 'Tips for Getting a Mammogram' (rev. 2026-07-23): time of month when breasts less tender, avoid week before period; bring prior mammograms and reports if new facility; top and bottom; no deodorant, antiperspirant, powders, lotions or perfumes under arms or on breasts (white spots); no necklaces; tell technologist about implants, symptoms, pregnancy/breastfeeding, trouble standing; compression 10-15 s per view; tell technologist if it hurts. FDA Office of Women's Health mammogram fact sheet: no deodorant/perfume/lotion/powder; tell clinic about implants when booking. USPSTF 2024 (every 2 years, 40-74); ACS (yearly 45-54, option 40-44). Practice facts from amiweb main 4b71184: services-data.ts mammography (prep items, 15-20 min, female technologist, breast health questionnaire and gown from waist up, results to physician 48-72 h plus letter, screening self-referral for most, diagnostic needs order, covered in full by most plans from 40); prices.ts mammoScreening $199 (since Oct 23 2026); constants.ts phone and hours.",
   "flag": "Back-to-back breast health post (Oct 24 know-the-signs); fourth this month but a new topic (prep checklist), and the last weekend of October. Hook photo is Canva stock (new to our feed; not called our team or patient). GBP photo is the real Seminole mammography room. Website mammography FAQ still says ACS recommends annual mammograms from 40 (ACS: yearly from 45, option from 40) and dense breasts ~40% (FDA/CDC: about half).",
-  "status": "awaiting approval",
+  "status": "scheduled",
   "canva": {
     "carousel": "DAHY7OtrJPs",
     "gbp": "DAHY7MZOhs8",
-    "note": "Hook photo swapped in Canva to Canva stock MAFZ-ovhDVQ ('Nurse and patient during Mammography test', from old services flyer DAGpn4Vz2_I) at Milind's request 2026-10-24; photo box shortened to 830px so the eyebrow sits on solid colour; headline resized to 904px. Open Canva transaction 3187942661855247086, commit on approval."
+    "note": "Hook photo swapped in Canva to Canva stock MAFZ-ovhDVQ ('Nurse and patient during Mammography test', from old services flyer DAGpn4Vz2_I) at Milind's request 2026-10-24; photo box shortened to 830px so the eyebrow sits on solid colour; headline resized to 904px. Canva edits committed after approval."
+  },
+  "approved": "Milind, 2026-10-24 (\"Approve\")",
+  "scheduled_time": "2026-10-25T10:00:00 America/New_York (Metricool best time: Facebook peak 10:00, Instagram all zero)",
+  "metricool": {
+    "instagram": 405275528,
+    "facebook": 405275533,
+    "gmb": 405275542
   }
 }
