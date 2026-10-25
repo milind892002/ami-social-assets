@@ -6,7 +6,9 @@
   "slides": [
     {
       "type": "hook",
-      "photo": {"src": "service-xray.jpg"},
+      "photo": {
+        "src": "service-xray.jpg"
+      },
       "eyebrow": "What to expect: X-ray",
       "title": "Painless.",
       "title_accent": "Done in minutes."
@@ -16,9 +18,18 @@
       "eyebrow": "What to expect",
       "title": "How your visit goes.",
       "steps": [
-        ["Check in", "Remove jewelry and metal. You may wear a gown."],
-        ["The X-ray", "Stand, sit or lie still for a few seconds. You may hold your breath briefly."],
-        ["After", "Get right back to your day. Results go to your doctor in 48 to 72 hours."]
+        [
+          "Check in",
+          "Remove jewelry and metal. You may wear a gown."
+        ],
+        [
+          "The X-ray",
+          "Stand, sit or lie still for a few seconds. You may hold your breath briefly."
+        ],
+        [
+          "After",
+          "Get right back to your day. Results go to your doctor in 48 to 72 hours."
+        ]
       ],
       "footnote": "Several angles may be taken. Sources: NIH MedlinePlus; RadiologyInfo.org (ACR, RSNA)."
     },
@@ -51,10 +62,22 @@
       "eyebrow": "Booking is easy",
       "title": "Simple to book in Seminole.",
       "cards": [
-        ["$50", "self-pay, per body part"],
-        ["No referral", "needed for self-pay"],
-        ["Same day", "often, for self-pay"],
-        ["48&ndash;72 hrs", "results to your doctor"]
+        [
+          "$50",
+          "self-pay, per body part"
+        ],
+        [
+          "No referral",
+          "needed for self-pay"
+        ],
+        [
+          "Same day",
+          "often, for self-pay"
+        ],
+        [
+          "48&ndash;72 hrs",
+          "results to your doctor"
+        ]
       ],
       "footnote": "Radiologist reading included. With insurance, a doctor&#39;s order is needed. We check your benefits before your visit."
     },
@@ -66,7 +89,9 @@
     }
   ],
   "gbp": {
-    "photo": {"src": "service-xray.jpg"},
+    "photo": {
+      "src": "service-xray.jpg"
+    },
     "eyebrow": "What to expect: X-ray",
     "title": "Painless.",
     "title_accent": "Done in minutes.",
@@ -90,5 +115,10 @@
   },
   "facts_checked": "amiweb src/lib/services-data.ts (X-ray prep, what to expect, 48-72 h results, under 30 min visit, self-pay no referral, same day) and src/lib/prices.ts ($50 per body part, Seminole), 2026-10-25; NIH MedlinePlus X-ray (stay still, hold breath a second or two, painless, positions may be uncomfortable, remove jewelry, gown, pregnancy); RadiologyInfo.org Radiation Dose (chest X-ray 0.1 mSv = 10 days natural background).",
   "status": "awaiting approval",
-  "planned_time": "2026-10-26T10:00:00 America/New_York"
+  "planned_time": "2026-10-26T10:00:00 America/New_York",
+  "canva": {
+    "carousel": "DAHZBIpWJhc",
+    "gbp": "DAHZBIApZOE",
+    "open_transaction": "2207283906080883771 (slide 1 heading wrapped and moved up 30px; commit on approval)"
+  }
 }
