@@ -114,11 +114,17 @@
     "gbp": "A clinician holds up a chest X-ray. Painless, done in minutes. X-rays in Seminole, $50 self-pay per body part, no referral needed."
   },
   "facts_checked": "amiweb src/lib/services-data.ts (X-ray prep, what to expect, 48-72 h results, under 30 min visit, self-pay no referral, same day) and src/lib/prices.ts ($50 per body part, Seminole), 2026-10-25; NIH MedlinePlus X-ray (stay still, hold breath a second or two, painless, positions may be uncomfortable, remove jewelry, gown, pregnancy); RadiologyInfo.org Radiation Dose (chest X-ray 0.1 mSv = 10 days natural background).",
-  "status": "awaiting approval",
+  "status": "scheduled",
   "planned_time": "2026-10-26T10:00:00 America/New_York",
   "canva": {
     "carousel": "DAHZBIpWJhc",
-    "gbp": "DAHZBIApZOE",
-    "open_transaction": "2207283906080883771 (slide 1 heading wrapped and moved up 30px; commit on approval)"
-  }
+    "gbp": "DAHZBIApZOE"
+  },
+  "scheduled_time": "2026-10-26T10:00:00 America/New_York",
+  "metricool_ids": {
+    "instagram": 405869623,
+    "facebook": 405869785,
+    "gmb": 405869896
+  },
+  "approved": "Milind, 2026-10-25 (\"approve\")"
 }
