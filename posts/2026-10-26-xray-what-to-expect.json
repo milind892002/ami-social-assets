@@ -1,0 +1,94 @@
+{
+  "slug": "2026-10-26-xray-what-to-expect",
+  "title": "What to expect: X-ray",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {"src": "service-xray.jpg"},
+      "eyebrow": "What to expect: X-ray",
+      "title": "Painless.",
+      "title_accent": "Done in minutes."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "What to expect",
+      "title": "How your visit goes.",
+      "steps": [
+        ["Check in", "Remove jewelry and metal. You may wear a gown."],
+        ["The X-ray", "Stand, sit or lie still for a few seconds. You may hold your breath briefly."],
+        ["After", "Get right back to your day. Results go to your doctor in 48 to 72 hours."]
+      ],
+      "footnote": "Several angles may be taken. Sources: NIH MedlinePlus; RadiologyInfo.org (ACR, RSNA)."
+    },
+    {
+      "type": "list",
+      "eyebrow": "What it feels like",
+      "title": "Nothing at all.",
+      "items": [
+        "X-rays are painless.",
+        "Some positions may feel awkward.",
+        "Most visits are under 30 minutes.",
+        "Low dose: a chest X-ray is about 10 days of everyday background radiation."
+      ],
+      "footnote": "Sources: NIH MedlinePlus; RadiologyInfo.org (ACR, RSNA)."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before your X-ray",
+      "items": [
+        "Most X-rays need no special prep.",
+        "Leave jewelry at home. Wear comfy clothes.",
+        "Pregnant, or might be? Tell us first.",
+        "Using insurance? Bring your card and your doctor&#39;s order."
+      ],
+      "footnote": "Source: NIH MedlinePlus."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Booking is easy",
+      "title": "Simple to book in Seminole.",
+      "cards": [
+        ["$50", "self-pay, per body part"],
+        ["No referral", "needed for self-pay"],
+        ["Same day", "often, for self-pay"],
+        ["48&ndash;72 hrs", "results to your doctor"]
+      ],
+      "footnote": "Radiologist reading included. With insurance, a doctor&#39;s order is needed. We check your benefits before your visit."
+    },
+    {
+      "type": "cta",
+      "title": "A few seconds of holding still.",
+      "title_accent": "Book your X-ray.",
+      "share": "Send this to someone with an X-ray coming up."
+    }
+  ],
+  "gbp": {
+    "photo": {"src": "service-xray.jpg"},
+    "eyebrow": "What to expect: X-ray",
+    "title": "Painless.",
+    "title_accent": "Done in minutes.",
+    "sub": "X-rays in Seminole. $50 self-pay per body part, no referral needed."
+  },
+  "captions": {
+    "instagram": "Have an X-ray coming up? It's one of the quickest, easiest exams there is. 💙\n\nHere's what to expect:\n✔️ No special prep for most X-rays. Just leave jewelry at home\n✔️ You stand, sit or lie still for a few seconds, and may hold your breath briefly\n✔️ It's painless, and most visits take under 30 minutes\n✔️ Low dose: a chest X-ray is about 10 days of everyday background radiation\n✔️ Pregnant, or might be? Tell us first\n\n📅 Book through the link in our bio or call (727) 398-5999. Self-pay X-ray $50 per body part, no referral needed.\n\nKnow someone with an X-ray coming up? Send this to them.\n\nGeneral information, not medical advice.\n\n#XRay #MedicalImaging #Radiology #SeminoleFL #PinellasCounty",
+    "facebook": "Have an X-ray coming up? It's one of the quickest, easiest exams there is. 💙\n\nHere's what to expect:\n✔️ No special prep for most X-rays. Just leave jewelry at home\n✔️ You stand, sit or lie still for a few seconds, and may hold your breath briefly\n✔️ It's painless, and most visits take under 30 minutes\n✔️ Low dose: a chest X-ray is about 10 days of everyday background radiation\n✔️ Pregnant, or might be? Tell us first\n\nSelf-pay X-ray is $50 per body part, radiologist reading included. No referral needed for self-pay, and same-day visits are often available. With insurance, a doctor's order is needed.\n\n📅 Book online: https://www.advancedimg.com/lp/x-ray-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=xray-what-to-expect\n📞 Or call (727) 398-5999\n\nKnow someone with an X-ray coming up? Send this to them.\n\nGeneral information, not medical advice.\n\n#XRay #SeminoleFL",
+    "gbp": "Have an X-ray coming up? Here's what to expect at Advanced Medical Imaging in Seminole. Most X-rays need no special preparation: just leave jewelry and metal at home, and you may change into a gown. You stand, sit or lie still for a few seconds while the image is taken, and you may be asked to hold your breath briefly. Several angles may be taken. X-rays are painless, and most visits take under 30 minutes. The dose is low: one chest X-ray is about the same as 10 days of everyday background radiation. If you are or might be pregnant, tell us first. Results go to your doctor in 48 to 72 hours. Self-pay X-ray is $50 per body part, radiologist reading included, with no referral needed and same-day visits often available.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A clinician in a mask and safety glasses holds up a chest X-ray. Painless. Done in minutes.",
+      "How your visit goes: check in, remove jewelry and metal, and you may wear a gown; stand, sit or lie still for a few seconds and maybe hold your breath briefly; get back to your day, with results to your doctor in 48 to 72 hours.",
+      "What it feels like: nothing at all. X-rays are painless, some positions may feel awkward, most visits are under 30 minutes, and a chest X-ray is about 10 days of everyday background radiation.",
+      "Before your X-ray: most need no special prep; leave jewelry at home and wear comfy clothes; tell us first if you are or might be pregnant; if using insurance, bring your card and your doctor's order.",
+      "Simple to book in Seminole: $50 self-pay per body part, no referral needed for self-pay, same day often for self-pay, results to your doctor in 48 to 72 hours.",
+      "A few seconds of holding still. Book your X-ray. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A clinician holds up a chest X-ray. Painless, done in minutes. X-rays in Seminole, $50 self-pay per body part, no referral needed."
+  },
+  "facts_checked": "amiweb src/lib/services-data.ts (X-ray prep, what to expect, 48-72 h results, under 30 min visit, self-pay no referral, same day) and src/lib/prices.ts ($50 per body part, Seminole), 2026-10-25; NIH MedlinePlus X-ray (stay still, hold breath a second or two, painless, positions may be uncomfortable, remove jewelry, gown, pregnancy); RadiologyInfo.org Radiation Dose (chest X-ray 0.1 mSv = 10 days natural background).",
+  "status": "awaiting approval",
+  "planned_time": "2026-10-26T10:00:00 America/New_York"
+}
