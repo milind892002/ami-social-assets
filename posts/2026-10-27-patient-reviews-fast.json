@@ -93,5 +93,10 @@
   },
   "photo_note": "Hook and Google image use the website stock photo hero-radiologist-patient.jpg; not described as our team or patient.",
   "reviews_verified": "All three quotes checked verbatim against the live Google Business Profile via Windsor.ai on 2026-10-26. Typo fix: 'recieved' to 'received' (John J.). Trimmed: John J.'s injury, Amanda C.'s pain detail, Lucia G.'s exam urgency.",
-  "facts_checked": "Checked 2026-10-26 on amiweb main: prices.ts mri $295 both centers; services-data.ts (self-pay no referral, insurance: we verify benefits and handle the authorization, same-day often for self-pay, same week with insurance); services/no-referral-mri (physician reviews self-pay requests the same day, price includes radiologist read). No clinical claims in this post."
+  "facts_checked": "Checked 2026-10-26 on amiweb main: prices.ts mri $295 both centers; services-data.ts (self-pay no referral, insurance: we verify benefits and handle the authorization, same-day often for self-pay, same week with insurance); services/no-referral-mri (physician reviews self-pay requests the same day, price includes radiologist read). No clinical claims in this post.",
+  "canva": {
+    "carousel": "DAHZHNjk7Io",
+    "gbp": "DAHZHB1hBrQ"
+  },
+  "status": "awaiting approval"
 }
