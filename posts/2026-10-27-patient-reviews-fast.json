@@ -1,0 +1,97 @@
+{
+  "slug": "2026-10-27-patient-reviews-fast",
+  "title": "Patient review spotlight: getting in fast",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "hero-radiologist-patient.jpg",
+        "crop": [
+          500,
+          0,
+          1300,
+          1000
+        ]
+      },
+      "eyebrow": "What patients say",
+      "title": "Waiting weeks for a scan?",
+      "title_accent": "These patients didn&#39;t.",
+      "title_size": 72
+    },
+    {
+      "type": "quote",
+      "eyebrow": "On getting in the same day",
+      "quote": "&hellip;I got in the same day I called and at the end of the exam was given a CD of the MRI. I received written results the next day. The cost was more than reasonable&hellip;",
+      "quote_size": 50,
+      "name": "John J."
+    },
+    {
+      "type": "quote",
+      "eyebrow": "On getting in sooner",
+      "quote": "Patty went above and beyond to get me in much sooner than I was originally scheduled&hellip; Everyone was so sweet, accommodating, and made the entire experience so pleasant.",
+      "quote_size": 50,
+      "name": "Amanda C."
+    },
+    {
+      "type": "quote",
+      "eyebrow": "On insurance worries",
+      "quote": "&hellip;I was worried my insurance would deny it. Lissette was amazing took care of everything and got my scan authorized in time&hellip;",
+      "name": "Lucia G."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Need a scan soon? Ask these 4 things",
+      "items": [
+        "Can I pay self-pay and skip the referral?",
+        "What&#39;s the full price, reading included?",
+        "Using insurance: will you handle the authorization?",
+        "Is there an opening today or this week?"
+      ],
+      "footnote": "At AMI: self-pay MRI $295, physician review the same day, and we handle insurance authorizations."
+    },
+    {
+      "type": "cta",
+      "title": "Skip the long wait.",
+      "title_accent": "Book your scan.",
+      "share": "Know someone waiting on a scan? Send this.",
+      "disclaimer": "Verbatim public Google reviews; trims marked &hellip;. Experiences vary. Self-pay prices as of October 2026. General information, not medical advice."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "hero-radiologist-patient.jpg",
+      "crop": [
+        420,
+        0,
+        1536,
+        1000
+      ]
+    },
+    "eyebrow": "What patients say",
+    "title": "Waiting weeks for a scan?",
+    "title_accent": "These patients didn&#39;t.",
+    "sub": "Real Google reviews from patients at our Seminole and St.&nbsp;Pete offices."
+  },
+  "captions": {
+    "instagram": "Waiting weeks for a scan? These patients didn't have to. 💙\n\nWhat they mention:\n✔️ Getting in the same day they called\n✔️ Written results the next day\n✔️ A cost that was \"more than reasonable\"\n✔️ A team that moved their appointment up\n✔️ Help getting insurance authorization in time\n\nSwipe to read their words, and save the 4 questions to ask before your next scan.\n\n📅 Book through the link in our bio or call (727) 398-5999. Self-pay MRI $295, no referral needed. Using insurance? We handle the authorization.\n\nKnow someone waiting on a scan? Send this.\n\nVerbatim public Google reviews; individual experiences vary. General information, not medical advice.\n\n#PatientReviews #MRI #MedicalImaging #SeminoleFL #PinellasCounty",
+    "facebook": "Waiting weeks for a scan? These patients didn't have to. 💙\n\nWhat they mention:\n✔️ Getting in the same day they called\n✔️ Written results the next day\n✔️ A cost that was \"more than reasonable\"\n✔️ A team that moved their appointment up\n✔️ Help getting insurance authorization in time\n\nSwipe to read their words, and save the 4 questions to ask before your next scan.\n\n📅 Book online: https://www.advancedimg.com/schedule?utm_source=facebook&utm_medium=social&utm_campaign=patient-reviews-2026-10-27\n📞 Or call (727) 398-5999\n\nSelf-pay MRI $295, no referral needed. Using insurance? We handle the authorization.\n\nKnow someone waiting on a scan? Share this with them.\n\nVerbatim public Google reviews; individual experiences vary. General information, not medical advice.\n\n#PatientReviews #MedicalImaging #SeminoleFL",
+    "gbp": "Waiting weeks for a scan? Here's what recent patients shared in their Google reviews.\n\n\"…I got in the same day I called and at the end of the exam was given a CD of the MRI. I received written results the next day. The cost was more than reasonable…\" (John J.)\n\n\"Patty went above and beyond to get me in much sooner than I was originally scheduled… Everyone was so sweet, accommodating, and made the entire experience so pleasant.\" (Amanda C.)\n\n\"…I was worried my insurance would deny it. Lissette was amazing took care of everything and got my scan authorized in time…\" (Lucia G.)\n\nNeed a scan soon? Ask: can I pay self-pay and skip the referral, what's the full price with the reading included, will you handle my insurance authorization, and is there an opening today or this week? At AMI, self-pay MRI is $295 with the radiologist reading included, our physician reviews self-pay requests the same day, and we handle insurance authorizations for you. Seminole and St. Pete.\n\nBook online at advancedimg.com. Individual experiences vary. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A clinician in teal scrubs shows a woman an MRI image on a tablet. Waiting weeks for a scan? These patients didn't.",
+      "Five-star Google review from John J.: I got in the same day I called and at the end of the exam was given a CD of the MRI. I received written results the next day. The cost was more than reasonable.",
+      "Five-star Google review from Amanda C.: Patty went above and beyond to get me in much sooner than I was originally scheduled. Everyone was so sweet, accommodating, and made the entire experience so pleasant.",
+      "Five-star Google review from Lucia G.: I was worried my insurance would deny it. Lissette was amazing, took care of everything and got my scan authorized in time.",
+      "Need a scan soon? Ask these 4 things: Can I pay self-pay and skip the referral? What's the full price, reading included? Using insurance, will you handle the authorization? Is there an opening today or this week? At AMI: self-pay MRI $295, physician review the same day, and we handle insurance authorizations.",
+      "Skip the long wait. Book your scan. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A clinician shows a woman an MRI image on a tablet. Waiting weeks for a scan? These patients didn't. Book at advancedimg.com."
+  },
+  "photo_note": "Hook and Google image use the website stock photo hero-radiologist-patient.jpg; not described as our team or patient.",
+  "reviews_verified": "All three quotes checked verbatim against the live Google Business Profile via Windsor.ai on 2026-10-26. Typo fix: 'recieved' to 'received' (John J.). Trimmed: John J.'s injury, Amanda C.'s pain detail, Lucia G.'s exam urgency.",
+  "facts_checked": "Checked 2026-10-26 on amiweb main: prices.ts mri $295 both centers; services-data.ts (self-pay no referral, insurance: we verify benefits and handle the authorization, same-day often for self-pay, same week with insurance); services/no-referral-mri (physician reviews self-pay requests the same day, price includes radiologist read). No clinical claims in this post."
+}
