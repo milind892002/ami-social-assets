@@ -6,7 +6,15 @@
   "slides": [
     {
       "type": "hook",
-      "photo": {"src": "service-mri.jpg", "crop": [0, 0, 420, 512]},
+      "photo": {
+        "src": "service-mri.jpg",
+        "crop": [
+          0,
+          0,
+          420,
+          512
+        ]
+      },
       "eyebrow": "FAQ: prior authorization",
       "title": "Waiting on insurance to OK your scan?",
       "title_accent": "Here&#39;s what that means.",
@@ -17,9 +25,18 @@
       "eyebrow": "The basics",
       "title": "What prior authorization is.",
       "steps": [
-        ["An approval step", "Some health plans need to approve a scan before they&#39;ll cover it."],
-        ["Your doctor sends the details", "Your doctor&#39;s office sends the order and notes. Your plan reviews them."],
-        ["Then the scan is booked", "Once it&#39;s approved, your plan covers the scan under your benefits."]
+        [
+          "An approval step",
+          "Some health plans need to approve a scan before they&#39;ll cover it."
+        ],
+        [
+          "Your doctor sends the details",
+          "Your doctor&#39;s office sends the order and notes. Your plan reviews them."
+        ],
+        [
+          "Then the scan is booked",
+          "Once it&#39;s approved, your plan covers the scan under your benefits."
+        ]
       ],
       "footnote": "Source: HealthCare.gov glossary. Rules and timing vary by plan."
     },
@@ -29,7 +46,11 @@
       "title": "Doctors feel the wait too.",
       "stat": "95%",
       "stat_caption": "of physicians say prior authorization delays patients&#39; access to care.",
-      "card": {"label": "Using insurance with us?", "title": "We handle the authorization.", "body": "We verify your benefits and tell you your estimated cost before your visit."},
+      "card": {
+        "label": "Using insurance with us?",
+        "title": "We handle the authorization.",
+        "body": "We verify your benefits and tell you your estimated cost before your visit."
+      },
       "source": "Source: 2025 AMA Prior Authorization Physician Survey of 1,000 physicians (AMA, May 2026)."
     },
     {
@@ -37,10 +58,22 @@
       "eyebrow": "The other option",
       "title": "Self-pay: no prior authorization.",
       "cards": [
-        ["No referral", "needed. Our physician reviews your request the same day."],
-        ["Same day", "scans are often available for self-pay."],
-        ["$295", "MRI, radiologist&#39;s reading included."],
-        ["HSA/FSA", "cards accepted."]
+        [
+          "No referral",
+          "needed. Our physician reviews your request the same day."
+        ],
+        [
+          "Same day",
+          "scans are often available for self-pay."
+        ],
+        [
+          "$295",
+          "MRI, radiologist&#39;s reading included."
+        ],
+        [
+          "HSA/FSA",
+          "cards accepted."
+        ]
       ],
       "footnote": "MRI without contrast, one body area; $395 with and without contrast. Self-pay prices as of October 2026."
     },
@@ -65,7 +98,15 @@
     }
   ],
   "gbp": {
-    "photo": {"src": "service-mri.jpg", "crop": [0, 0, 683, 512]},
+    "photo": {
+      "src": "service-mri.jpg",
+      "crop": [
+        0,
+        0,
+        683,
+        512
+      ]
+    },
     "eyebrow": "FAQ: prior authorization",
     "title": "Waiting on insurance approval?",
     "title_accent": "Here&#39;s what to know.",
@@ -90,5 +131,11 @@
   "facts_checked": "Prior authorization = approval from a health plan that may be required before you get a service: HealthCare.gov glossary (checked 2026-10-27). 95% of physicians say PA delays access to necessary care; 1,000 practicing physicians: AMA press release on 2025 AMA Prior Authorization Physician Survey, May 13, 2026. Self-pay no referral, same-day physician review, same-day often available; insurance needs a doctor's order and AMI handles authorization/verifies benefits/estimates cost: amiweb no-referral-mri page, insurance page, pricing page, services-data.ts. MRI $295 / $395, radiologist reading included, HSA/FSA: prices.ts, mri-cost-florida page. Checked 2026-10-27.",
   "flag": "Hook photo service-mri.jpg is a stock image (not called staff or patient). Medicare/Medicaid: post doesn't target them or say anyone can pay cash, but the self-pay slide has no Medicare caveat; awaiting Milind's written confirmation on how cash pay works for them. AMA is the source for the stat (not on the clinical-source list; not a clinical claim).",
   "photo_note": "Do not use facility/team.jpg or any staff photo: Milind has not asked staff for permission (2026-10-13).",
-  "status": "awaiting approval"
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHZNH8mL6w",
+    "gbp": "DAHZNLBPcGE"
+  },
+  "canva_note": "Hook headline ran off page after import; resized text box to 904 wide in open Canva transaction 7789495850102053934 (commit on approval).",
+  "planned_time": "2026-10-28T10:00:00 America/New_York (or best time from Metricool)"
 }
