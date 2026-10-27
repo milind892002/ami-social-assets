@@ -1,0 +1,94 @@
+{
+  "slug": "2026-10-28-prior-auth-faq",
+  "title": "FAQ: what prior authorization means, and how self-pay skips the wait",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {"src": "service-mri.jpg", "crop": [0, 0, 420, 512]},
+      "eyebrow": "FAQ: prior authorization",
+      "title": "Waiting on insurance to OK your scan?",
+      "title_accent": "Here&#39;s what that means.",
+      "title_size": 72
+    },
+    {
+      "type": "steps",
+      "eyebrow": "The basics",
+      "title": "What prior authorization is.",
+      "steps": [
+        ["An approval step", "Some health plans need to approve a scan before they&#39;ll cover it."],
+        ["Your doctor sends the details", "Your doctor&#39;s office sends the order and notes. Your plan reviews them."],
+        ["Then the scan is booked", "Once it&#39;s approved, your plan covers the scan under your benefits."]
+      ],
+      "footnote": "Source: HealthCare.gov glossary. Rules and timing vary by plan."
+    },
+    {
+      "type": "stat",
+      "eyebrow": "You&#39;re not alone",
+      "title": "Doctors feel the wait too.",
+      "stat": "95%",
+      "stat_caption": "of physicians say prior authorization delays patients&#39; access to care.",
+      "card": {"label": "Using insurance with us?", "title": "We handle the authorization.", "body": "We verify your benefits and tell you your estimated cost before your visit."},
+      "source": "Source: 2025 AMA Prior Authorization Physician Survey of 1,000 physicians (AMA, May 2026)."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "The other option",
+      "title": "Self-pay: no prior authorization.",
+      "cards": [
+        ["No referral", "needed. Our physician reviews your request the same day."],
+        ["Same day", "scans are often available for self-pay."],
+        ["$295", "MRI, radiologist&#39;s reading included."],
+        ["HSA/FSA", "cards accepted."]
+      ],
+      "footnote": "MRI without contrast, one body area; $395 with and without contrast. Self-pay prices as of October 2026."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Waiting on an approval? Ask your plan:",
+      "items": [
+        "Did you get my doctor&#39;s request?",
+        "Is anything missing from it?",
+        "When will you decide?",
+        "If it&#39;s denied, how do I appeal?"
+      ],
+      "footnote": "Have a high deductible? Ask us the self-pay price and compare it with what you&#39;d owe."
+    },
+    {
+      "type": "cta",
+      "title": "Tired of waiting?",
+      "title_accent": "Let&#39;s find your fastest option.",
+      "share": "Know someone waiting on an approval? Send this.",
+      "disclaimer": "Insurance accepted; a doctor&#39;s order is required for insurance. Self-pay prices as of October 2026. General information, not medical advice."
+    }
+  ],
+  "gbp": {
+    "photo": {"src": "service-mri.jpg", "crop": [0, 0, 683, 512]},
+    "eyebrow": "FAQ: prior authorization",
+    "title": "Waiting on insurance approval?",
+    "title_accent": "Here&#39;s what to know.",
+    "sub": "Using insurance? We handle the authorization. Self-pay? No referral and no prior authorization."
+  },
+  "captions": {
+    "instagram": "Waiting on insurance to OK your scan? Here's what that means. 💙\n\n✔️ Prior authorization is an approval some health plans need before they'll cover a scan\n✔️ Using insurance with us? We handle the authorization and verify your benefits\n✔️ Self-pay skips it: no referral and no prior authorization\n✔️ Self-pay MRI is $295, radiologist's reading included, and same-day scans are often available\n✔️ HSA/FSA cards accepted\n\nSave the 4 questions to ask your plan while you wait. 📌\n\n📅 Call (727) 398-5999 or book through the link in our bio.\n\nKnow someone waiting on an approval? Send this their way.\n\nGeneral information, not medical advice. Sources: HealthCare.gov; 2025 AMA Prior Authorization Physician Survey.\n\n#HealthInsurance #MRI #MedicalImaging #SeminoleFL #PinellasCounty",
+    "facebook": "Waiting on insurance to OK your scan? Here's what that means. 💙\n\n✔️ Prior authorization is an approval some health plans need before they'll cover a scan\n✔️ Using insurance with us? We handle the authorization and verify your benefits\n✔️ Self-pay skips it: no referral and no prior authorization\n✔️ Self-pay MRI is $295, radiologist's reading included, and same-day scans are often available\n✔️ HSA/FSA cards accepted\n\nSave the 4 questions to ask your plan while you wait.\n\n📅 Book online: https://www.advancedimg.com/lp/imaging-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=prior-auth-faq\n📞 Questions? Call (727) 398-5999\n\nKnow someone waiting on an approval? Share this with them.\n\nGeneral information, not medical advice. Sources: HealthCare.gov; 2025 AMA Prior Authorization Physician Survey.\n\n#HealthInsurance #MRI #SeminoleFL",
+    "gbp": "Waiting on insurance to approve your scan? That step is called prior authorization: an approval some health plans need before they'll cover a scan. Your doctor's office sends the order and notes, your plan reviews them, and once it's approved the scan is covered under your benefits. If you're using insurance with us, we handle the authorization, verify your benefits and tell you your estimated cost before your visit. Prefer not to wait? Self-pay patients need no referral and no prior authorization: our physician reviews your request the same day, and same-day scans are often available. Self-pay MRI is $295 ($395 with and without contrast), with the radiologist's reading included, and HSA/FSA cards are accepted. While you wait on an approval, ask your plan: did you get my doctor's request, is anything missing, when will you decide, and how do I appeal if it's denied?\n\nBook online at advancedimg.com. General information, not medical advice. Sources: HealthCare.gov; 2025 AMA Prior Authorization Physician Survey."
+  },
+  "alt_text": {
+    "carousel": [
+      "A technologist helps a person lying on an MRI table. FAQ: waiting on insurance to OK your scan? Here's what that means.",
+      "What prior authorization is: an approval step some health plans need before they cover a scan; your doctor's office sends the order and notes for your plan to review; once approved, the scan is booked and covered under your benefits.",
+      "You're not alone: 95% of physicians say prior authorization delays patients' access to care, per the 2025 AMA survey. Using insurance with us? We handle the authorization, verify your benefits and tell you your estimated cost before your visit.",
+      "Self-pay: no prior authorization. No referral needed, our physician reviews your request the same day; same-day scans often available; $295 MRI with the radiologist's reading included; HSA/FSA cards accepted.",
+      "Save this. Waiting on an approval? Ask your plan: did you get my doctor's request? Is anything missing? When will you decide? If it's denied, how do I appeal?",
+      "Tired of waiting? Let's find your fastest option. Call (727) 398-5999 or book through the link in our bio."
+    ],
+    "gbp": "A technologist helps a person on an MRI table. Waiting on insurance approval? Using insurance, we handle the authorization; self-pay needs no referral and no prior authorization."
+  },
+  "facts_checked": "Prior authorization = approval from a health plan that may be required before you get a service: HealthCare.gov glossary (checked 2026-10-27). 95% of physicians say PA delays access to necessary care; 1,000 practicing physicians: AMA press release on 2025 AMA Prior Authorization Physician Survey, May 13, 2026. Self-pay no referral, same-day physician review, same-day often available; insurance needs a doctor's order and AMI handles authorization/verifies benefits/estimates cost: amiweb no-referral-mri page, insurance page, pricing page, services-data.ts. MRI $295 / $395, radiologist reading included, HSA/FSA: prices.ts, mri-cost-florida page. Checked 2026-10-27.",
+  "flag": "Hook photo service-mri.jpg is a stock image (not called staff or patient). Medicare/Medicaid: post doesn't target them or say anyone can pay cash, but the self-pay slide has no Medicare caveat; awaiting Milind's written confirmation on how cash pay works for them. AMA is the source for the stat (not on the clinical-source list; not a clinical claim).",
+  "photo_note": "Do not use facility/team.jpg or any staff photo: Milind has not asked staff for permission (2026-10-13).",
+  "status": "awaiting approval"
+}
