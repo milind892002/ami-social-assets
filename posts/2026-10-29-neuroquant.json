@@ -1,0 +1,100 @@
+{
+  "slug": "2026-10-29-neuroquant",
+  "title": "Technology: NeuroQuant brain MRI",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "service-neuroquant-mri.jpg",
+        "crop": [230, 0, 1050, 1024]
+      },
+      "eyebrow": "Our technology: NeuroQuant",
+      "title": "Memory on your mind?",
+      "title_accent": "Our MRI can measure."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How it works",
+      "title": "A brain MRI that also measures.",
+      "steps": [
+        ["A standard brain MRI", "30 to 45 minutes. No contrast, no radiation."],
+        ["AI measures volume", "FDA-cleared software measures key brain areas, like the hippocampus."],
+        ["Your age group", "Compared with norms for your age and sex."]
+      ],
+      "footnote": "NeuroQuant by Cortechs.ai. Source: FDA 510(k) K241098."
+    },
+    {
+      "type": "list",
+      "eyebrow": "Good to know",
+      "title": "What it can and can&#39;t do.",
+      "items": [
+        "Adds objective numbers to the MRI report.",
+        "Gives a baseline to compare with future scans.",
+        "It doesn&#39;t diagnose Alzheimer&#39;s on its own. Your doctor adds memory tests and an exam.",
+        "Memory changes have many causes, and some are treatable."
+      ],
+      "footnote": "Source: National Institute on Aging, Alzheimer&#39;s Disease Fact Sheet."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before your brain MRI",
+      "items": [
+        "No fasting. Eat and take medicines as usual.",
+        "Leave jewelry, hair clips and piercings at home.",
+        "Tell us about any implant, pacemaker or metal.",
+        "Bring prior brain MRIs (CD or USB) to compare."
+      ],
+      "footnote": "Plan for about an hour with us."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Booking is easy",
+      "title": "Simple to book.",
+      "cards": [
+        ["$999", "self-pay NeuroQuant brain MRI"],
+        ["No referral", "needed for self-pay"],
+        ["Insurance", "benefits checked first"],
+        ["2 centers", "Seminole and St. Pete"]
+      ],
+      "footnote": "Radiologist reading included. With insurance, a doctor&#39;s order is needed and NeuroQuant coverage depends on your plan."
+    },
+    {
+      "type": "cta",
+      "title": "Clear numbers.",
+      "title_accent": "Ask about NeuroQuant.",
+      "share": "Send this to someone wondering about a brain MRI."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "service-neuroquant-mri.jpg",
+      "crop": [0, 0, 1365, 1024]
+    },
+    "eyebrow": "Our technology: NeuroQuant",
+    "title": "A brain MRI",
+    "title_accent": "that also measures.",
+    "sub": "FDA-cleared AI brain volume report. $999 self-pay, no referral needed."
+  },
+  "captions": {
+    "instagram": "Memory on your mind? A brain MRI can now do more than show pictures. 💙\n\nNeuroQuant adds real numbers to your scan:\n✔️ A standard brain MRI: 30 to 45 minutes, no contrast, no radiation\n✔️ FDA-cleared software measures key brain areas, like the hippocampus\n✔️ Each value is compared with people of your age and sex\n✔️ A baseline you can compare with future scans\n✔️ It doesn't diagnose Alzheimer's on its own; your doctor puts it together with memory tests and an exam\n\nSelf-pay NeuroQuant brain MRI is $999 with the radiologist reading included, and no referral is needed for self-pay. Insurance is accepted too.\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone who's been wondering about a brain MRI? Send this to them.\n\nGeneral information, not medical advice.\n\n#BrainHealth #NeuroQuant #MRI #SeminoleFL #PinellasCounty",
+    "facebook": "Memory on your mind? A brain MRI can now do more than show pictures. 💙\n\nNeuroQuant adds real numbers to your scan:\n✔️ A standard brain MRI: 30 to 45 minutes, no contrast, no radiation\n✔️ FDA-cleared software measures key brain areas, like the hippocampus\n✔️ Each value is compared with people of your age and sex\n✔️ A baseline you can compare with future scans\n✔️ It doesn't diagnose Alzheimer's on its own; your doctor puts it together with memory tests and an exam\n\nMemory changes have many causes, and some are treatable, so start with your doctor.\n\nSelf-pay NeuroQuant brain MRI is $999, radiologist reading included, at Seminole and St. Petersburg. No referral needed for self-pay. With insurance, a doctor's order is needed and coverage of the NeuroQuant analysis depends on your plan; we verify your benefits first.\n\n📅 Book online: https://www.advancedimg.com/lp/neuroquant-mri?utm_source=facebook&utm_medium=social&utm_campaign=neuroquant\n📞 Or call (727) 398-5999\n\nKnow someone who's been wondering about a brain MRI? Send this to them.\n\nGeneral information, not medical advice.\n\n#BrainHealth #NeuroQuant",
+    "gbp": "A brain MRI that also measures. Advanced Medical Imaging offers NeuroQuant, FDA-cleared AI software that measures the volume of key brain structures, like the hippocampus, on a standard brain MRI and compares each value with people of the same age and sex. The MRI takes 30 to 45 minutes, with no contrast and no radiation, and the analysis adds no scan time. A board-certified radiologist combines the NeuroQuant report with the MRI read for your doctor. NeuroQuant does not diagnose Alzheimer's on its own: your doctor puts it together with memory tests and an exam, and memory changes have many causes, some of them treatable. Before your scan, eat and take your medicines as usual, leave jewelry at home, tell us about any implants or metal, and bring prior brain MRIs to compare. Self-pay NeuroQuant brain MRI is $999 with the radiologist reading included, and no referral is needed for self-pay. Insurance is accepted, with a doctor's order.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A physician looks at color-coded brain MRI images on a monitor while a technologist prepares a patient on the MRI table behind the glass. Memory on your mind? Our MRI can measure.",
+      "How it works: a standard brain MRI of 30 to 45 minutes with no contrast and no radiation; FDA-cleared AI software measures key brain areas like the hippocampus; each value is compared with people of your age and sex.",
+      "What it can and can't do: adds objective numbers to the MRI report; gives a baseline to compare with future scans; it doesn't diagnose Alzheimer's on its own, your doctor adds memory tests and an exam; memory changes have many causes and some are treatable.",
+      "Before your brain MRI: no fasting, eat and take your medicines as usual; leave jewelry, hair clips and piercings at home; tell us about implants, a pacemaker or any metal; bring prior brain MRIs on CD or USB to compare. Plan for about an hour.",
+      "Simple to book: $999 self-pay NeuroQuant brain MRI; no referral needed for self-pay; insurance accepted and benefits verified first; two centers, Seminole and St. Pete.",
+      "Clear numbers. Ask about NeuroQuant. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A physician reviews color-coded brain MRI images while a patient lies on the MRI table. A brain MRI that also measures. NeuroQuant AI brain volume report, $999 self-pay, no referral needed."
+  },
+  "facts_checked": "amiweb src/lib/services-data.ts neuroquant-mri (FDA-cleared Cortechs.ai, measures brain structure volumes incl. hippocampus vs age- and sex-matched norms, non-contrast, no radiation, 30-45 min, ~60 min on site, no fasting, bring prior MRIs, radiologist integrates report, doesn't diagnose Alzheimer's by itself, baseline comparison, $999 self-pay, no referral for self-pay, insurance needs order and NeuroQuant coverage depends on plan), src/lib/prices.ts neuroquant (both centers), src/app/pricing/page.tsx (radiologist read included), 2026-10-28; FDA 510(k) K241098 NeuroQuant indications (automatic labeling and volumetric quantification of brain structures, compared to reference percentile data), 2026-10-28; NIA Alzheimer's Disease Fact Sheet (diagnosis uses interviews, memory tests, labs and brain scans such as MRI; other causes of memory problems, some treatable and possibly reversible), 2026-10-28.",
+  "status": "awaiting approval",
+  "planned_time": "2026-10-29 best time from Metricool on approval (else 10:00 America/New_York)"
+}
