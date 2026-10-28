@@ -8,7 +8,12 @@
       "type": "hook",
       "photo": {
         "src": "service-neuroquant-mri.jpg",
-        "crop": [230, 0, 1050, 1024]
+        "crop": [
+          230,
+          0,
+          1050,
+          1024
+        ]
       },
       "eyebrow": "Our technology: NeuroQuant",
       "title": "Memory on your mind?",
@@ -19,9 +24,18 @@
       "eyebrow": "How it works",
       "title": "A brain MRI that also measures.",
       "steps": [
-        ["A standard brain MRI", "30 to 45 minutes. No contrast, no radiation."],
-        ["AI measures volume", "FDA-cleared software measures key brain areas, like the hippocampus."],
-        ["Your age group", "Compared with norms for your age and sex."]
+        [
+          "A standard brain MRI",
+          "30 to 45 minutes. No contrast, no radiation."
+        ],
+        [
+          "AI measures volume",
+          "FDA-cleared software measures key brain areas, like the hippocampus."
+        ],
+        [
+          "Your age group",
+          "Compared with norms for your age and sex."
+        ]
       ],
       "footnote": "NeuroQuant by Cortechs.ai. Source: FDA 510(k) K241098."
     },
@@ -54,10 +68,22 @@
       "eyebrow": "Booking is easy",
       "title": "Simple to book.",
       "cards": [
-        ["$999", "self-pay NeuroQuant brain MRI"],
-        ["No referral", "needed for self-pay"],
-        ["Insurance", "benefits checked first"],
-        ["2 centers", "Seminole and St. Pete"]
+        [
+          "$999",
+          "self-pay NeuroQuant brain MRI"
+        ],
+        [
+          "No referral",
+          "needed for self-pay"
+        ],
+        [
+          "Insurance",
+          "benefits checked first"
+        ],
+        [
+          "2 centers",
+          "Seminole and St. Pete"
+        ]
       ],
       "footnote": "Radiologist reading included. With insurance, a doctor&#39;s order is needed and NeuroQuant coverage depends on your plan."
     },
@@ -71,7 +97,12 @@
   "gbp": {
     "photo": {
       "src": "service-neuroquant-mri.jpg",
-      "crop": [0, 0, 1365, 1024]
+      "crop": [
+        0,
+        0,
+        1365,
+        1024
+      ]
     },
     "eyebrow": "Our technology: NeuroQuant",
     "title": "A brain MRI",
@@ -96,5 +127,10 @@
   },
   "facts_checked": "amiweb src/lib/services-data.ts neuroquant-mri (FDA-cleared Cortechs.ai, measures brain structure volumes incl. hippocampus vs age- and sex-matched norms, non-contrast, no radiation, 30-45 min, ~60 min on site, no fasting, bring prior MRIs, radiologist integrates report, doesn't diagnose Alzheimer's by itself, baseline comparison, $999 self-pay, no referral for self-pay, insurance needs order and NeuroQuant coverage depends on plan), src/lib/prices.ts neuroquant (both centers), src/app/pricing/page.tsx (radiologist read included), 2026-10-28; FDA 510(k) K241098 NeuroQuant indications (automatic labeling and volumetric quantification of brain structures, compared to reference percentile data), 2026-10-28; NIA Alzheimer's Disease Fact Sheet (diagnosis uses interviews, memory tests, labs and brain scans such as MRI; other causes of memory problems, some treatable and possibly reversible), 2026-10-28.",
   "status": "awaiting approval",
-  "planned_time": "2026-10-29 best time from Metricool on approval (else 10:00 America/New_York)"
+  "planned_time": "2026-10-29 best time from Metricool on approval (else 10:00 America/New_York)",
+  "canva": {
+    "carousel": "DAHZTBYluzM",
+    "gbp": "DAHZTE9QSS0",
+    "open_transaction": "7438215183132876924 (page 1 heading wrap fix, uncommitted until approval)"
+  }
 }
