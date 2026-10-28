@@ -14,14 +14,16 @@ import {BODY, C, Check, HEAD, useFonts} from './brand';
 
 // Scene timing (30 fps)
 const S = {
-  hook: [0, 100],
-  wait: [100, 230],
-  turn: [230, 305],
-  perks: [305, 425],
-  price: [425, 530],
-  end: [530, 640],
+  dont: [0, 60],
+  hook: [60, 170],
+  wait: [170, 290],
+  care: [290, 395],
+  notwhat: [395, 500],
+  perks: [500, 610],
+  price: [610, 705],
+  end: [705, 825],
 } as const;
-export const REEL_FRAMES = 640;
+export const REEL_FRAMES = 825;
 
 // Reels safe area: keep text clear of the top bar, bottom caption and right-side buttons.
 const PAD_L = 96;
@@ -61,42 +63,83 @@ const Background: React.FC = () => {
   );
 };
 
-// ---------- Scene 1: hook ----------
-const HookWord: React.FC<{text: string; delay: number; color?: string}> = ({text, delay, color = C.white}) => {
-  const f = useCurrentFrame();
+// ---------- Big blunt type ----------
+type Line = {t: string; size: number; color?: string; delay: number};
+const BigLines: React.FC<{len: number; lines: Line[]; eyebrow?: string}> = ({len, lines, eyebrow}) => {
+  const {opacity, f} = useInOut(len, 8);
   const {fps} = useVideoConfig();
-  const s = spring({frame: f - delay, fps, config: {damping: 14, stiffness: 160}});
-  return (
-    <div style={{overflow: 'hidden', paddingBottom: 8}}>
-      <div
-        style={{
-          transform: `translateY(${(1 - s) * 110}%)`,
-          fontFamily: HEAD, fontWeight: 800, fontSize: 132, lineHeight: 1.02,
-          letterSpacing: -3, color,
-        }}
-      >
-        {text}
-      </div>
-    </div>
-  );
-};
-
-const Hook: React.FC = () => {
-  const len = S.hook[1] - S.hook[0];
-  const {opacity, f} = useInOut(len);
-  const eyebrow = interpolate(f, [0, 12], [0, 1], clamp);
   return (
     <AbsoluteFill style={{opacity, justifyContent: 'center', paddingLeft: PAD_L, paddingRight: PAD_R}}>
-      <div style={{opacity: eyebrow, fontFamily: BODY, fontWeight: 700, fontSize: 34, letterSpacing: 5, color: C.light, marginBottom: 36}}>
-        FAQ · PRIOR AUTHORIZATION
-      </div>
-      <HookWord text="Waiting on" delay={4} />
-      <HookWord text="insurance to" delay={10} />
-      <HookWord text="approve" delay={16} />
-      <HookWord text="your scan?" delay={22} color={C.light} />
+      {eyebrow ? (
+        <div style={{fontFamily: BODY, fontWeight: 800, fontSize: 36, letterSpacing: 6, color: C.light, marginBottom: 30, opacity: interpolate(f, [0, 10], [0, 1], clamp)}}>{eyebrow}</div>
+      ) : null}
+      {lines.map((l) => {
+        const sp = spring({frame: f - l.delay, fps, config: {damping: 13, stiffness: 190}});
+        return (
+          <div key={l.t} style={{overflow: 'hidden', paddingBottom: 6}}>
+            <div style={{transform: `translateY(${(1 - sp) * 110}%)`, fontFamily: HEAD, fontWeight: 800, fontSize: l.size, lineHeight: 1.0, letterSpacing: -l.size * 0.025, color: l.color ?? C.white}}>
+              {l.t}
+            </div>
+          </div>
+        );
+      })}
     </AbsoluteFill>
   );
 };
+
+const Dont: React.FC = () => {
+  const len = S.dont[1] - S.dont[0];
+  const f = useCurrentFrame();
+  const {fps} = useVideoConfig();
+  const a = spring({frame: f, fps, config: {damping: 10, stiffness: 260}});
+  const b = spring({frame: f - 8, fps, config: {damping: 10, stiffness: 260}});
+  const out = interpolate(f, [len - 6, len], [1, 0], clamp);
+  return (
+    <AbsoluteFill style={{opacity: out, justifyContent: 'center', paddingLeft: PAD_L, paddingRight: PAD_R}}>
+      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 250, lineHeight: 0.92, letterSpacing: -8, color: C.white, transform: `scale(${1.4 - 0.4 * a})`, transformOrigin: 'left center', opacity: a}}>DON&apos;T</div>
+      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 250, lineHeight: 0.92, letterSpacing: -8, color: C.light, transform: `scale(${1.4 - 0.4 * b})`, transformOrigin: 'left center', opacity: b}}>WAIT.</div>
+    </AbsoluteFill>
+  );
+};
+
+const HookLines: React.FC = () => (
+  <BigLines
+    len={S.hook[1] - S.hook[0]}
+    lines={[
+      {t: 'for your', size: 112, delay: 2},
+      {t: 'insurance to', size: 112, delay: 7},
+      {t: 'tell you when', size: 112, delay: 12},
+      {t: 'you can get', size: 112, delay: 17},
+      {t: 'your MRI or', size: 112, color: C.light, delay: 22},
+      {t: 'imaging scan.', size: 112, color: C.light, delay: 27},
+    ]}
+  />
+);
+
+const Care: React.FC = () => (
+  <BigLines
+    len={S.care[1] - S.care[0]}
+    lines={[
+      {t: 'WE OFFER', size: 150, delay: 0},
+      {t: 'YOU THE', size: 150, delay: 6},
+      {t: 'CARE YOU', size: 150, color: C.light, delay: 12},
+      {t: 'DESERVE.', size: 150, color: C.light, delay: 18},
+    ]}
+  />
+);
+
+const NotWhat: React.FC = () => (
+  <BigLines
+    len={S.notwhat[1] - S.notwhat[0]}
+    lines={[
+      {t: 'Not what your', size: 112, delay: 0},
+      {t: 'insurance', size: 112, color: C.amber, delay: 6},
+      {t: 'company', size: 112, color: C.amber, delay: 12},
+      {t: 'wants you', size: 112, delay: 18},
+      {t: 'to have.', size: 112, delay: 24},
+    ]}
+  />
+);
 
 // ---------- Scene 2: the wait ----------
 const Spinner: React.FC = () => {
@@ -178,27 +221,6 @@ const Wait: React.FC = () => {
   );
 };
 
-// ---------- Scene 3: the turn ----------
-const Turn: React.FC = () => {
-  const len = S.turn[1] - S.turn[0];
-  const {opacity, f} = useInOut(len, 8);
-  const {fps} = useVideoConfig();
-  const a = spring({frame: f, fps, config: {damping: 12, stiffness: 180}});
-  const b = spring({frame: f - 10, fps, config: {damping: 12, stiffness: 180}});
-  const line = interpolate(f, [16, 34], [0, 1], {...clamp, easing: Easing.out(Easing.cubic)});
-  return (
-    <AbsoluteFill style={{opacity, justifyContent: 'center', paddingLeft: PAD_L, paddingRight: PAD_R}}>
-      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 120, color: C.white, transform: `translateX(${(1 - a) * -200}px)`, opacity: a}}>
-        Or&hellip;
-      </div>
-      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 150, lineHeight: 1, letterSpacing: -4, color: C.light, transform: `scale(${0.6 + b * 0.4})`, transformOrigin: 'left center', opacity: b}}>
-        skip the wait.
-      </div>
-      <div style={{height: 14, borderRadius: 7, background: C.light, width: `${line * 78}%`, marginTop: 30}} />
-    </AbsoluteFill>
-  );
-};
-
 // ---------- Scene 4: self-pay perks ----------
 const Perk: React.FC<{text: string; delay: number}> = ({text, delay}) => {
   const f = useCurrentFrame();
@@ -217,7 +239,7 @@ const Perk: React.FC<{text: string; delay: number}> = ({text, delay}) => {
       <div style={{transform: `scale(${tick})`}}>
         <Check size={78} />
       </div>
-      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 58, lineHeight: 1.08, color: C.white}}>{text}</div>
+      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 64, lineHeight: 1.04, color: C.white}}>{text}</div>
     </div>
   );
 };
@@ -227,13 +249,13 @@ const Perks: React.FC = () => {
   const {opacity} = useInOut(len);
   return (
     <AbsoluteFill style={{opacity, justifyContent: 'center', paddingLeft: PAD_L, paddingRight: PAD_R}}>
-      <div style={{fontFamily: BODY, fontWeight: 700, fontSize: 34, letterSpacing: 5, color: C.light, marginBottom: 20}}>SELF-PAY AT AMI</div>
-      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 92, lineHeight: 1.02, color: C.white, marginBottom: 54}}>
-        No waiting on approvals.
+      <div style={{fontFamily: BODY, fontWeight: 700, fontSize: 34, letterSpacing: 5, color: C.light, marginBottom: 20}}>AT ADVANCED MEDICAL IMAGING</div>
+      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 110, lineHeight: 1.0, color: C.white, marginBottom: 54}}>
+        Self-pay.<br /><span style={{color: C.light}}>No waiting.</span>
       </div>
       <Perk text="No referral needed" delay={10} />
       <Perk text="No prior authorization" delay={24} />
-      <Perk text="Same-day scans often available" delay={38} />
+      <Perk text="Same-day scans, often" delay={38} />
     </AbsoluteFill>
   );
 };
@@ -284,11 +306,11 @@ const End: React.FC = () => {
   return (
     <AbsoluteFill style={{opacity: inP, justifyContent: 'center', paddingLeft: PAD_L, paddingRight: PAD_R}}>
       <Img src={staticFile('lockup_pill.png')} style={{width: 470, transform: `scale(${logo})`, transformOrigin: 'left center', marginBottom: 60}} />
-      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 112, lineHeight: 1.02, letterSpacing: -3, color: C.white}}>
-        Tired of waiting?
+      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 140, lineHeight: 1.0, letterSpacing: -4, color: C.white}}>
+        YOUR SCAN.
       </div>
-      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 112, lineHeight: 1.02, letterSpacing: -3, color: C.light, marginBottom: 56}}>
-        Book your scan.
+      <div style={{fontFamily: HEAD, fontWeight: 800, fontSize: 140, lineHeight: 1.0, letterSpacing: -4, color: C.light, marginBottom: 56}}>
+        YOUR SCHEDULE.
       </div>
       <div
         style={{
@@ -300,7 +322,7 @@ const End: React.FC = () => {
         Link in bio · (727) 398-5999
       </div>
       <div style={{opacity: rest, marginTop: 56}}>
-        <div style={{fontFamily: BODY, fontWeight: 600, fontSize: 38, color: C.white}}>Using insurance? We handle the authorization.</div>
+        <div style={{fontFamily: BODY, fontWeight: 600, fontSize: 40, color: C.white}}>Insurance accepted too.</div>
         <div style={{fontFamily: BODY, fontSize: 25, lineHeight: 1.45, color: `${C.white}99`, marginTop: 30}}>
           Self-pay MRI price as of October 2026: without contrast, one body area ($395 with and without contrast). Insurance patients need a doctor&apos;s order. General information, not medical advice.
         </div>
@@ -319,9 +341,11 @@ export const Reel: React.FC = () => {
   return (
     <AbsoluteFill>
       <Background />
-      {seq('hook', <Hook />)}
+      {seq('dont', <Dont />)}
+      {seq('hook', <HookLines />)}
       {seq('wait', <Wait />)}
-      {seq('turn', <Turn />)}
+      {seq('care', <Care />)}
+      {seq('notwhat', <NotWhat />)}
       {seq('perks', <Perks />)}
       {seq('price', <Price />)}
       {seq('end', <End />)}

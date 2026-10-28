@@ -1,17 +1,19 @@
 {
   "slug": "2026-10-28-skip-the-wait",
   "format": "reel",
-  "title": "Skip the insurance wait: animated Reel (Remotion motion graphics)",
+  "title": "Don't wait: blunt big-type Reel (Remotion), v2",
   "replaces": "2026-10-28-prior-auth-faq carousel (Milind 2026-10-28: too generic and boring; asked for a Remotion-style code-generated video). Carousel kept in Canva as a backup.",
-  "video": "reel.mp4 (1080x1920, 21.3 s, 30 fps, H.264, no audio)",
+  "video": "reel.mp4 (1080x1920, 27.5 s, 30 fps, H.264, no audio)",
   "source": "posts/reels/2026-10-28-skip-the-wait/",
   "scenes": [
-    "Hook: Waiting on insurance to approve your scan?",
-    "Animated 'Your scan request' card: doctor's order sent, prior authorization in review, day counter ticking",
-    "Or... skip the wait.",
-    "Self-pay at AMI: no referral needed, no prior authorization, same-day scans often available",
-    "$295 count-up over the real Seminole waiting room: radiologist's reading included, HSA/FSA accepted",
-    "End card: Tired of waiting? Book your scan. Link in bio, (727) 398-5999; Using insurance? We handle the authorization; price and disclaimer small print"
+    "DON'T WAIT.",
+    "for your insurance to tell you when you can get your MRI or imaging scan.",
+    "Animated 'Your scan request' card (kept): order sent, prior authorization in review, day counter",
+    "WE OFFER YOU THE CARE YOU DESERVE.",
+    "Not what your insurance company wants you to have.",
+    "At Advanced Medical Imaging: Self-pay. No waiting. No referral needed / No prior authorization / Same-day scans, often",
+    "$295 over the real Seminole waiting room: radiologist's reading included, HSA/FSA accepted",
+    "YOUR SCAN. YOUR SCHEDULE. Link in bio, (727) 398-5999; Insurance accepted too; price and disclaimer small print"
   ],
   "networks": {
     "instagram": "REEL",
@@ -19,14 +21,15 @@
     "gmb": "image post, gbp.png 1200x900 rendered from the same source"
   },
   "captions": {
-    "instagram": "Waiting on insurance to approve your scan? There's another way. 💙\n\n✔️ Self-pay at AMI: no referral needed\n✔️ No prior authorization to wait on\n✔️ Same-day scans often available\n✔️ MRI $295, radiologist's reading included\n✔️ HSA/FSA cards accepted\n\nUsing insurance? That's fine too. We handle the authorization for you.\n\n📅 Call (727) 398-5999 or book through the link in our bio.\n\nKnow someone stuck waiting on an approval? Send this their way.\n\nGeneral information, not medical advice. Self-pay MRI price as of October 2026 (without contrast, one body area).\n\n#HealthInsurance #MRI #MedicalImaging #SeminoleFL #PinellasCounty",
-    "facebook": "Waiting on insurance to approve your scan? There's another way. 💙\n\n✔️ Self-pay at AMI: no referral needed\n✔️ No prior authorization to wait on\n✔️ Same-day scans often available\n✔️ MRI $295, radiologist's reading included\n✔️ HSA/FSA cards accepted\n\nUsing insurance? That's fine too. We handle the authorization for you.\n\n📅 Book online: https://www.advancedimg.com/lp/mri-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=skip-the-wait\n📞 Or call (727) 398-5999\n\nKnow someone stuck waiting on an approval? Share this with them.\n\nGeneral information, not medical advice. Self-pay MRI price as of October 2026 (without contrast, one body area).\n\n#HealthInsurance #MRI #SeminoleFL",
+    "instagram": "Don't wait for your insurance to tell you when you can get your MRI. 💙\n\nWe offer you the care you deserve.\n\n✔️ Self-pay at AMI: no referral needed\n✔️ No prior authorization to wait on\n✔️ Same-day scans often available\n✔️ MRI $295, radiologist's reading included\n✔️ HSA/FSA cards accepted\n\nUsing insurance? That's fine too. We handle the authorization for you.\n\n📅 Call (727) 398-5999 or book through the link in our bio.\n\nKnow someone stuck waiting on an approval? Send this their way.\n\nGeneral information, not medical advice. Self-pay MRI price as of October 2026 (without contrast, one body area).\n\n#HealthInsurance #MRI #MedicalImaging #SeminoleFL #PinellasCounty",
+    "facebook": "Don't wait for your insurance to tell you when you can get your MRI. 💙\n\nWe offer you the care you deserve.\n\n✔️ Self-pay at AMI: no referral needed\n✔️ No prior authorization to wait on\n✔️ Same-day scans often available\n✔️ MRI $295, radiologist's reading included\n✔️ HSA/FSA cards accepted\n\nUsing insurance? That's fine too. We handle the authorization for you.\n\n📅 Book online: https://www.advancedimg.com/lp/mri-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=skip-the-wait\n📞 Or call (727) 398-5999\n\nKnow someone stuck waiting on an approval? Share this with them.\n\nGeneral information, not medical advice. Self-pay MRI price as of October 2026 (without contrast, one body area).\n\n#HealthInsurance #MRI #SeminoleFL",
     "gbp": "Waiting on insurance to approve your scan? Some health plans need to approve a scan before they'll cover it, and that review can take time. If you'd rather not wait, self-pay patients at Advanced Medical Imaging need no referral and no prior authorization: our physician reviews your request the same day, and same-day scans are often available. Self-pay MRI is $295 without contrast for one body area ($395 with and without contrast), with the radiologist's reading included, and HSA/FSA cards are accepted. Using insurance? That's fine too: we verify your benefits and handle the authorization for you.\n\nBook online at advancedimg.com. General information, not medical advice."
   },
   "alt_text": {
     "gbp": "Real AMI waiting room with two white chairs. Waiting on insurance approval? Skip the wait: no referral needed, no prior authorization, MRI $295 with reading included. Book at advancedimg.com."
   },
   "facts_checked": "Same as 2026-10-28-prior-auth-faq: HealthCare.gov glossary (prior authorization); amiweb no-referral-mri page, insurance page, pricing page, services-data.ts (no referral for self-pay, same-day physician review, same-day often available, insurance needs a doctor's order and AMI handles authorization); prices.ts ($295 / $395, reading included); mri-cost-florida (HSA/FSA). Checked 2026-10-27/28. The AMA 95% stat is not used in the video.",
-  "flag": "Silent (previous Reel's music was rejected 2026-10-20). Photo: real Seminole waiting room, no people; no stock people. Day counter on the status card is illustrative, no wait time is claimed. Medicare/Medicaid caveat still pending Milind's written confirmation; video doesn't target them.",
-  "status": "awaiting approval"
+  "flag": "Silent (previous Reel's music was rejected 2026-10-20). Photo: real Seminole waiting room, no people; no stock people. Day counter on the status card is illustrative, no wait time is claimed. Medicare/Medicaid caveat still pending Milind's written confirmation; video doesn't target them. v2 wording is Milind's own and deliberately blunt about insurers, which goes against the skill's 'never attack insurers' tone rule; he chose it on 2026-10-28.",
+  "status": "awaiting approval",
+  "version": "v2 per Milind 2026-10-28: big letters, keep the wait scene, blunt wording speaking directly to the patient: don't wait for insurance; the care you deserve, not what the insurance company wants you to have. v1 (Skip the wait) superseded."
 }
