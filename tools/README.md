@@ -40,6 +40,7 @@ slot's shape). Use crop to keep faces in frame and to cut out off-topic details.
 | cta | title, title_accent, phone_line, book_line, share, disclaimer |
 | poster | strikes [2 crossed-out pains], title, title_accent, prices [[name, price] x3 or x6], line, footnote. Bold one-pager, no photo. Also usable as single/gbp with "layout": "poster" |
 | perspective | photo, eyebrow, quote (wording approved by the person quoted), name, role, quote_size (52), disclaimer. Closing slide with no buttons (no ask) |
+| big | dark (true), eyebrow, giant (one huge line such as a price; giant_size 400, colour pop, default coral on dark), title, title_accent, title_size (100), body, words [[big, small] x4], items [big lines], pills [short tags], footnote, button, swipe: true, pulse: true (heartbeat line, pulse_top). Modern big-type page, no photo. Also usable as gbp with "layout": "big" |
 
 single: photo, eyebrow, title, title_accent, lines [], button, footer
 gbp: photo, eyebrow, title, title_accent, sub, button

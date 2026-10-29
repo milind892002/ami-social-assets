@@ -328,6 +328,93 @@ class Builder:
     def s_poster(self, sl, i):
         return self.poster(sl, f"Slide {i} Poster")
 
+    # ----- big type (Oct 30 2026: "big letters, modern") -----
+    def pulse(self, color, w, top):
+        """Decorative heartbeat line across the full width (SVG path, survives Canva import like the ribbon)."""
+        d = "M0 120 L520 120 L556 120 L578 78 L602 162 L628 14 L656 226 L684 120 L720 120 L1080 120"
+        return (f'<svg aria-hidden="true" width="{w}" height="240" viewBox="0 0 1080 240" preserveAspectRatio="none" '
+                f'style="position: absolute; left: 0; top: {top}px">'
+                f'<path d="{d}" fill="none" stroke="{color}" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"></path></svg>')
+
+    def pills(self, items, dark, size=30):
+        P = self.P
+        col = "#FFFFFF" if dark else P["ink"]
+        border = P["accent_dark"] if dark else P["accent"]
+        return ('<div style="display: flex; flex-wrap: wrap; gap: 16px">' + "".join(
+            f'<div style="border: 3px solid {border}; border-radius: 999px; padding: 14px 30px; font-size: {size}px; '
+            f'font-weight: 600; line-height: 1.2; color: {col}">{t}</div>' for t in items) + "</div>")
+
+    def big_words(self, words, dark, size=88):
+        """2 x 2 grid of big words with a small caption each, separated by thin rules (no boxes)."""
+        P = self.P
+        line = P["card"] if dark else P["divider"]
+        cap = P["on_dark"] if dark else P["muted"]
+        big = "#FFFFFF" if dark else P["ink"]
+        cells = "".join(
+            f'<div style="display: flex; flex-direction: column; gap: 14px; padding-top: 26px; border-top: 3px solid {line}">'
+            f'<span style="{H}; font-weight: 800; font-size: {size}px; line-height: 1; letter-spacing: -0.03em; color: {big}">{b}</span>'
+            f'<span style="font-size: 30px; line-height: 1.3; color: {cap}">{s}</span></div>' for b, s in words)
+        return f'<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 44px 40px">{cells}</div>'
+
+    def big_items(self, items, dark, size=42):
+        P = self.P
+        line = P["card"] if dark else P["divider"]
+        col = "#FFFFFF" if dark else P["ink"]
+        rows = "".join(
+            f'<p style="margin: 0; padding: 22px 0; border-top: 3px solid {line}; {H}; font-weight: 700; font-size: {size}px; '
+            f'line-height: 1.2; letter-spacing: -0.01em; color: {col}">{t}</p>' for t in items)
+        return f'<div style="display: flex; flex-direction: column">{rows}</div>'
+
+    def bigpage(self, sl, label, w=1080, h=1350):
+        """Modern big-type page: optional giant line (a price), big title, short body, big words / items / pills, footnote."""
+        P = self.P
+        dark = sl.get("dark", True)
+        land = w > h
+        pad = 64 if land else 88
+        inner = w - 2 * pad
+        bg, fg = (P["dark"], "#FFFFFF") if dark else (P["light"], P["ink"])
+        pop = sl.get("pop", "#FF6B6B" if dark else P["accent"])
+        parts = []
+        if sl.get("eyebrow"):
+            parts.append(self.eyebrow(sl["eyebrow"], P["accent_dark"] if dark else P["muted"], 22 if land else 26))
+        if sl.get("giant"):
+            gs = sl.get("giant_size", 300 if land else 400)
+            parts.append(f'<h1 style="position: relative; margin: 0; width: {inner}px; {H}; font-weight: 800; font-size: {gs}px; '
+                         f'line-height: 0.9; letter-spacing: -0.05em; color: {pop}">{sl["giant"]}</h1>')
+        if sl.get("title"):
+            parts.append(self.heading(sl["title"], sl.get("title_accent"), sl.get("title_size", 72 if land else 100), dark=dark,
+                                      tag="h2" if sl.get("giant") else "h1", width=inner))
+        if sl.get("body"):
+            parts.append(f'<p style="margin: 0; width: {inner}px; font-size: {26 if land else 36}px; line-height: 1.4; '
+                         f'color: {P["on_dark"] if dark else P["body"]}">{sl["body"]}</p>')
+        if sl.get("words"):
+            parts.append(self.big_words(sl["words"], dark, sl.get("word_size", 88)))
+        if sl.get("items"):
+            parts.append(self.big_items(sl["items"], dark, sl.get("item_size", 42)))
+        if sl.get("pills"):
+            parts.append(self.pills(sl["pills"], dark, 24 if land else 30))
+        middle = (f'<div style="position: relative; display: flex; flex-direction: column; gap: {sl.get("gap", 24 if land else 36)}px">'
+                  + "".join(parts) + "</div>")
+        bits = []
+        if sl.get("footnote"):
+            bits.append(f'<p style="margin: 0; width: {inner}px; font-size: {18 if land else 24}px; line-height: 1.45; '
+                        f'color: {P["accent_dark"] if dark else P["muted"]}">{sl["footnote"]}</p>')
+        if sl.get("button"):
+            bits.append(f'<div style="align-self: flex-start; background: {P["accent_dark"] if dark else P["accent"]}; '
+                        f'color: {P["dark"] if dark else "#FFFFFF"}; border-radius: 999px; padding: {18 if land else 24}px {34 if land else 44}px; '
+                        f'font-size: {26 if land else 36}px; font-weight: 700">{sl["button"]}</div>')
+        if sl.get("swipe"):
+            bits.append(f'<div style="display: flex; align-items: center; gap: 16px; font-size: 30px; font-weight: 600; color: {fg}">'
+                        f'Swipe {self.icon("arrow", fg, 40)}</div>')
+        bottom = f'<div style="position: relative; display: flex; flex-direction: column; gap: 28px">' + "".join(bits) + "</div>"
+        deco = self.pulse(sl.get("pulse_color", pop), w, sl.get("pulse_top", 0)) if sl.get("pulse") else ""
+        return (f'<div data-document-role="page" data-label="{label}" style="position: relative; width: {w}px; height: {h}px; box-sizing: border-box; '
+                f'padding: {pad}px; overflow: hidden; background: {bg}; color: {fg}; {B}; display: flex; flex-direction: column; justify-content: space-between">'
+                + deco + self.wordmark(dark, 20 if land else 24) + middle + bottom + "</div>")
+
+    def s_big(self, sl, i):
+        return self.bigpage(sl, f"Slide {i} Big")
+
     def single(self, sp):
         """1080x1350 single image (organic single post or ad creative)."""
         if sp.get("layout") == "poster":
@@ -350,6 +437,8 @@ class Builder:
         """1200x900 (4:3) image for Google Business Profile posts: photo left, text right (or layout "poster")."""
         if g.get("layout") == "poster":
             return self.poster(g, "Google 4x3", 1200, 900)
+        if g.get("layout") == "big":
+            return self.bigpage(g, "Google 4x3", 1200, 900)
         P = self.P
         photo = self.save_photo(g["photo"], (600, 900))
         rib = self.ribbon(24, P["ribbon_dark"], P["dark"]) if self.use_ribbon else ""
@@ -431,7 +520,8 @@ def main():
     out.mkdir(parents=True, exist_ok=True)
     b = Builder(spec, out, "img/" if preview else f"{BASE_URL}{slug}/img/", photos)
     kinds = {"hook": b.s_hook, "stat": b.s_stat, "photo_list": b.s_photo_list, "cards": b.s_cards,
-             "list": b.s_list, "steps": b.s_steps, "quote": b.s_quote, "perspective": b.s_perspective, "poster": b.s_poster, "cta": b.s_cta}
+             "list": b.s_list, "steps": b.s_steps, "quote": b.s_quote, "perspective": b.s_perspective, "poster": b.s_poster,
+             "big": b.s_big, "cta": b.s_cta}
     files = []
     if spec.get("slides"):
         pages = [kinds[sl["type"]](sl, i) for i, sl in enumerate(spec["slides"], 1)]
