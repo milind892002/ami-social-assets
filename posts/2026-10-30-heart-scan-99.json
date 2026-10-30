@@ -130,11 +130,17 @@
   },
   "facts_checked": "Practice facts from amiweb main 95a42d8, 2026-10-29: prices.ts calcium $99 (Seminole only, no contrast); services-data.ts calcium-score (about 5 minutes, scan itself under a minute, no contrast, low dose, electrode stickers time images with heartbeat, breath-hold, results to you and your doctor in 48-72 h, no caffeine 4 h, no fasting, top without metal, no referral self-pay, physician order with insurance, most plans don't cover screening calcium scores, who: adults ~40-75 with risk factors / statin decision, not for stent/bypass/known CAD, chest pain call 911, score 0 = no detectable plaque); lp/calcium-score-seminole-fl (board-certified radiologist reads every scan, 'Know your heart risk in 5 minutes'); services-data.ts cost footnotes and pricing page (HSA/FSA accepted, radiologist read included in every self-pay price); constants.ts phone, address, hours. Clinical: ACC.org summary of the 2018 ACC/AHA cholesterol guideline (CAC may be considered in adults 40-75 at intermediate 10-year risk when the statin decision is uncertain; CAC 0 may withhold or delay statin except smokers, diabetes, strong family history; 'a score of zero does not imply zero risk'; CAC >=100 favors statin), fetched 2026-10-29. USPSTF final recommendation 2018-07-10, Grade I (insufficient evidence) for adding CAC to traditional risk assessment; update in progress, no draft posted (page last updated 2024-09-19), fetched 2026-10-29. NIH NHLBI and RadiologyInfo (ACR/RSNA) pages could not be fetched this run (site permission prompt unanswered), so the slides do not use the website's 'one of the strongest predictors' line or the 'about 1 mSv' figure.",
   "flag": "Milind's request 2026-10-29: big-letter, modern carousel for the $99 calcium score heart scan to drive traffic (he first wrote $999, then corrected to $99, which matches prices.ts). Calcium score was also the Oct 23 topic (within 14 days); this one is the price-led big-type version he asked for. No photos: all-type design, new 'big' slide type in build_post.py. Medicare/Medicaid caveat still pending Milind's written confirmation; CTA disclaimer says 'ask us what applies'.",
-  "status": "awaiting approval",
+  "status": "scheduled",
   "canva": {
     "carousel": "DAHZbDP7yr0",
     "gbp": "DAHZbEIYN1Y",
     "note": "Imported 2026-10-29 from GitHub Pages (commit af1ae6c); all 6 pages + Google page checked, no overflow, no transaction opened."
   },
-  "proposed_time": "2026-10-30T10:00:00 America/New_York (Metricool Facebook best hour on Friday: 10:00; Instagram has no data)"
+  "approved": "Milind, 2026-10-29 (\"Approved\")",
+  "scheduled_time": "2026-10-30T10:00:00 America/New_York (Metricool Facebook best hour on Friday; Instagram had no data)",
+  "metricool": {
+    "instagram": 410730489,
+    "facebook": 410730669,
+    "gmb": 410730672
+  }
 }
