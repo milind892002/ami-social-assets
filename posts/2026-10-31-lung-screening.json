@@ -140,9 +140,11 @@
   },
   "facts_checked": "amiweb main 1d5e7d3, 2026-10-30: prices.ts lung $150; services-data.ts lung-screening (about 10 minutes, no contrast, no prep, wear top without metal, Lung-RADS report 48-72 h to you and your doctor, no referral for self-pay, insurance needs physician order, most findings small nodules needing repeat scan, NLST ~20%); pricing page itemized receipt for HSA/FSA; LP /lp/lung-screening-seminole-fl. Web search 2026-10-30: USPSTF 2021 (50-80, 20 pack-years, current or quit within 15 years); ACS 2023 update (drops years-since-quit); NIH/NCI NLST news releases (20% fewer lung cancer deaths); CDC lung cancer screening page; CMS NCD 210.14 (Medicare 50-77).",
   "flag": "Website says insurance AND Medicare use the USPSTF 50-80 criteria; Medicare's 2022 coverage decision covers 50 to 77, so services-data.ts and the LP may be outdated. Post avoids naming Medicare coverage. Website also says self-pay is available 'for anyone who wants the scan' even outside criteria; post does not say this. Medicare/Medicaid cash-pay caveat still pending; CTA says 'ask us what applies'. Topic is Saturday awareness slot, Lung Cancer Awareness Month (November) posted Oct 31, since breast health already ran Oct 17, 24 and 25.",
-  "status": "awaiting approval",
+  "status": "approved; publishing via Windsor.ai on 2026-10-31 at 10:00 America/New_York",
   "canva": {
     "carousel": "DAHZfDtbQ6E",
     "gbp": "DAHZfIr_kx0"
-  }
+  },
+  "approved": "Milind, 2026-10-30 evening (\"Approve, skip Metricool\")",
+  "publish_via": "Windsor.ai (Milind chose to skip Metricool): Instagram carousel, Facebook single image (slide 1), GBP Seminole"
 }
