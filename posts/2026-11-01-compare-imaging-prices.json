@@ -1,0 +1,138 @@
+{
+  "slug": "2026-11-01-compare-imaging-prices",
+  "title": "Save-worthy: questions to ask before you book a scan",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "facility/team.jpg",
+        "crop": [
+          400,
+          0,
+          1360,
+          1200
+        ]
+      },
+      "eyebrow": "Save this before you book a scan",
+      "title": "Same scan, very different prices.",
+      "title_accent": "Ask these questions first."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Why it pays to ask",
+      "title": "Where you go changes the bill.",
+      "cards": [
+        [
+          "$295",
+          "MRI at AMI, radiologist&#39;s reading included."
+        ],
+        [
+          "$1,200+",
+          "typical Florida hospital self-pay MRI, with facility fees."
+        ],
+        [
+          "$75",
+          "DEXA bone density at AMI."
+        ],
+        [
+          "$250+",
+          "typical Florida hospital DEXA."
+        ]
+      ],
+      "footnote": "Hospital figures are typical Florida hospital outpatient self-pay ranges, not a quote from any one hospital. AMI self-pay prices as of October 2026."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Paying yourself? Ask:",
+      "items": [
+        "What&#39;s the total, with the radiologist&#39;s reading?",
+        "Is there a separate facility fee?",
+        "Is that with or without contrast?",
+        "Can I get a Good Faith Estimate in writing?"
+      ],
+      "footnote": "Uninsured or paying yourself? You have the right to a Good Faith Estimate. Source: CMS, No Surprises Act."
+    },
+    {
+      "type": "list",
+      "eyebrow": "Using insurance?",
+      "title": "Ask your plan too:",
+      "items": [
+        "How much of my deductible is left?",
+        "What will I owe for this exam?",
+        "Do I need prior authorization? How long?",
+        "Is the self-pay price lower than what I&#39;d owe?"
+      ],
+      "footnote": "Insurance accepted. A doctor&#39;s order is required to use insurance."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Our answers",
+      "title": "One price, up front.",
+      "cards": [
+        [
+          "$295",
+          "MRI, reading included. $395 with contrast."
+        ],
+        [
+          "$0",
+          "facility fees. No surprise bills later."
+        ],
+        [
+          "No referral",
+          "needed for self-pay."
+        ],
+        [
+          "HSA/FSA",
+          "cards accepted."
+        ]
+      ],
+      "footnote": "MRI without contrast, one body area; $395 with and without contrast. Self-pay prices as of October 2026."
+    },
+    {
+      "type": "cta",
+      "title": "Know your price before you go.",
+      "title_accent": "Call us for a quote.",
+      "share": "Send this to someone shopping for a scan.",
+      "disclaimer": "General information, not medical advice. Self-pay prices as of October 2026. Using Medicare or Medicaid? Ask us what applies.",
+      "title_size": 72
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "facility/team.jpg",
+      "crop": [
+        420,
+        0,
+        1300,
+        1200
+      ]
+    },
+    "eyebrow": "Before you book a scan",
+    "title": "Same scan, different prices.",
+    "title_accent": "Ask these questions first.",
+    "sub": "Self-pay MRI $295 with the radiologist&#39;s reading. No facility fees.",
+    "button": "Book at advancedimg.com"
+  },
+  "captions": {
+    "instagram": "Same scan. Very different prices. Save these questions for the next time you need one. 📌\n\n✔️ Ask for the total price, with the radiologist's reading\n✔️ Ask if there's a separate facility fee\n✔️ Ask if the price is with or without contrast\n✔️ Paying yourself? You can ask for a Good Faith Estimate in writing\n✔️ Using insurance? Ask how much of your deductible is left, and compare it with the self-pay price\n\nAt AMI, a self-pay MRI is $295 (a Florida hospital is typically $1,200 to $3,500), with the radiologist's reading included, no facility fees and no referral needed. HSA/FSA accepted, and insurance too.\n\n📅 Book through the link in our bio or call (727) 398-5999 for a quote.\n\nKnow someone shopping for a scan? Send this to them.\n\nGeneral information, not medical advice. Self-pay prices as of October 2026; hospital range is typical, not a quote.\n\n#HealthcareCosts #MRI #CTScan #SeminoleFL #PinellasCounty",
+    "facebook": "Same scan. Very different prices. Save these questions for the next time you need one. 📌\n\nPaying yourself? Ask:\n✔️ What's the total price, with the radiologist's reading?\n✔️ Is there a separate facility fee?\n✔️ Is that with or without contrast?\n✔️ Can I get a Good Faith Estimate in writing? (If you're uninsured or paying yourself, the No Surprises Act gives you that right.)\n\nUsing insurance? Ask your plan:\n✔️ How much of my deductible is left?\n✔️ What will I owe for this exam?\n✔️ Do I need prior authorization, and how long will it take?\n✔️ Is the self-pay price lower than what I'd owe?\n\nOur answers: a self-pay MRI is $295 ($395 with and without contrast), with the radiologist's reading included. A typical Florida hospital self-pay MRI runs $1,200 to $3,500 once facility fees are added. No facility fees, no surprise bills later, no referral needed for self-pay, and HSA/FSA cards accepted. Insurance is accepted too (a doctor's order is required).\n\n📅 Book online: https://www.advancedimg.com/lp/imaging-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=compare-imaging-prices\n📞 Or call (727) 398-5999 for a quote (Mon to Fri, 8 to 5)\n📍 Seminole and St. Petersburg\n\nKnow someone shopping for a scan? Share this with them.\n\nGeneral information, not medical advice. Self-pay prices as of October 2026; hospital range is typical, not a quote from any one hospital. Using Medicare or Medicaid? Ask us what applies. Source: CMS, No Surprises Act.\n\n#HealthcareCosts #MRI #SeminoleFL",
+    "gbp": "Need a scan? The same MRI can cost very different amounts depending on where you go. Before you book, ask for the total price with the radiologist's reading, whether there's a separate facility fee, and whether the price is with or without contrast. If you're uninsured or paying yourself, you have the right to a Good Faith Estimate in writing under the No Surprises Act. Using insurance? Ask how much of your deductible is left and compare it with the self-pay price. At Advanced Medical Imaging in Seminole and St. Petersburg, a self-pay MRI is $295 ($395 with and without contrast), radiologist's reading included, with no facility fees and no referral needed for self-pay. A typical Florida hospital self-pay MRI is $1,200 to $3,500. HSA/FSA and insurance accepted.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "The Advanced Medical Imaging team standing together in our Seminole office. Save this before you book a scan: same scan, very different prices. Ask these questions first.",
+      "Where you go changes the bill: MRI at AMI $295, radiologist's reading included; typical Florida hospital self-pay MRI $1,200 and up, with facility fees; DEXA bone density at AMI $75; typical Florida hospital DEXA $250 and up.",
+      "Save this. Paying yourself? Ask: What's the total, with the radiologist's reading? Is there a separate facility fee? Is that with or without contrast? Can I get a Good Faith Estimate in writing?",
+      "Using insurance? Ask your plan too: How much of my deductible is left? What will I owe for this exam? Do I need prior authorization? How long? Is the self-pay price lower than what I'd owe?",
+      "Our answers, one price, up front: MRI $295 with the reading included, $395 with contrast; $0 facility fees, no surprise bills later; no referral needed for self-pay; HSA/FSA cards accepted.",
+      "Know your price before you go. Call us for a quote at (727) 398-5999 or book through the link in our bio."
+    ],
+    "gbp": "The Advanced Medical Imaging team in our Seminole office. Same scan, different prices. Ask these questions first."
+  },
+  "facts_checked": "Checked 2026-10-31. CMS No Surprises Act: uninsured or self-pay individuals have the right to a Good Faith Estimate (on request, or when scheduled at least 3 business days ahead); CMS 'Key responsibilities for providers' and GFE patient-provider dispute resolution guidance. Practice facts from amiweb origin/main c8d18a4: prices.ts (mri $295, mriContrast $395, dexa $75, MRI at both centers); mri-cost-florida/page.tsx (typical FL hospital self-pay MRI $1,200-$3,500, DEXA $250-$600, 'representative, not a quote'; self-pay all-inclusive with radiologist reading, no facility fees or surprise bills; no referral for self-pay; HSA/FSA accepted; insurance needs physician's order); constants.ts phone and hours.",
+  "flag": "Hospital price ranges come from the website's 'typical Florida hospital' table, which is representative rather than sourced to named hospitals. Medicare/Medicaid cash-pay caveat still pending; CTA says 'ask us what applies'. Hook and Google photo is the real AMI team photo (also used Oct 24); I skipped the check-in desk photo because its screen shows a form and the wall shows an older printed price list. Leftover imports/2026-10-13-scarier-than-mri batch is still in the repo (not touched).",
+  "status": "awaiting approval"
+}
