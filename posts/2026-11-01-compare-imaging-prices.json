@@ -134,5 +134,10 @@
   },
   "facts_checked": "Checked 2026-10-31. CMS No Surprises Act: uninsured or self-pay individuals have the right to a Good Faith Estimate (on request, or when scheduled at least 3 business days ahead); CMS 'Key responsibilities for providers' and GFE patient-provider dispute resolution guidance. Practice facts from amiweb origin/main c8d18a4: prices.ts (mri $295, mriContrast $395, dexa $75, MRI at both centers); mri-cost-florida/page.tsx (typical FL hospital self-pay MRI $1,200-$3,500, DEXA $250-$600, 'representative, not a quote'; self-pay all-inclusive with radiologist reading, no facility fees or surprise bills; no referral for self-pay; HSA/FSA accepted; insurance needs physician's order); constants.ts phone and hours.",
   "flag": "Hospital price ranges come from the website's 'typical Florida hospital' table, which is representative rather than sourced to named hospitals. Medicare/Medicaid cash-pay caveat still pending; CTA says 'ask us what applies'. Hook and Google photo is the real AMI team photo (also used Oct 24); I skipped the check-in desk photo because its screen shows a form and the wall shows an older printed price list. Leftover imports/2026-10-13-scarier-than-mri batch is still in the repo (not touched).",
-  "status": "awaiting approval"
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHZk8sy0ds",
+    "gbp": "DAHZk5kQ3bw",
+    "note": "Hook headline resized to 904px in Canva transaction 2567572495199368056 (open, to commit on approval)."
+  }
 }
