@@ -1,0 +1,131 @@
+{
+  "slug": "2026-11-02-echo-what-to-expect",
+  "title": "What to expect: echocardiogram",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "service-echo.jpg",
+        "crop": [
+          150,
+          20,
+          720,
+          513
+        ]
+      },
+      "eyebrow": "What to expect: echocardiogram",
+      "title": "Painless. No radiation.",
+      "title_accent": "See your heart in motion.",
+      "title_size": 72
+    },
+    {
+      "type": "steps",
+      "eyebrow": "What to expect",
+      "title": "How your visit goes.",
+      "steps": [
+        [
+          "Get ready",
+          "Change into a gown from the waist up. Small stickers go on your chest."
+        ],
+        [
+          "The echo",
+          "Lie on your left side. Warm gel, then a gentle probe across your chest."
+        ],
+        [
+          "After",
+          "Get right back to your day. The report is ready in 48 to 72 hours."
+        ]
+      ],
+      "footnote": "A standard (resting) echo. Sources: NIH MedlinePlus; NHLBI."
+    },
+    {
+      "type": "list",
+      "eyebrow": "What it feels like",
+      "title": "Calm and quiet.",
+      "items": [
+        "Painless. Just light pressure from the probe.",
+        "No radiation and no contrast.",
+        "A whooshing sound? That&#39;s your blood flow.",
+        "Usually done in under an hour."
+      ],
+      "footnote": "Sources: NIH MedlinePlus; NHLBI."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before your echo",
+      "items": [
+        "No special prep. Eat and drink as usual.",
+        "Take your medicines as prescribed.",
+        "Wear a two-piece outfit.",
+        "Using insurance? Bring your card and your doctor&#39;s order."
+      ],
+      "footnote": "Source: NIH MedlinePlus."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Booking is easy",
+      "title": "Simple to book in Seminole.",
+      "cards": [
+        [
+          "$250",
+          "self-pay, cardiologist&#39;s reading included"
+        ],
+        [
+          "No referral",
+          "needed for self-pay"
+        ],
+        [
+          "Same day",
+          "often, for self-pay"
+        ],
+        [
+          "48&ndash;72 hrs",
+          "for your report"
+        ]
+      ],
+      "footnote": "With insurance, a doctor&#39;s order is needed. We check your benefits before your visit. HSA/FSA receipts available."
+    },
+    {
+      "type": "cta",
+      "title": "Lie back. Listen to your heart.",
+      "title_accent": "Book your echo.",
+      "share": "Send this to someone with an echo coming up."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "service-echo.jpg",
+      "crop": [
+        100,
+        20,
+        768,
+        513
+      ]
+    },
+    "eyebrow": "What to expect: echocardiogram",
+    "title": "Painless. No radiation.",
+    "title_accent": "See your heart in motion.",
+    "sub": "Echocardiograms in Seminole. $250 self-pay, no referral needed."
+  },
+  "captions": {
+    "instagram": "Have an echocardiogram coming up? It's a calm, painless ultrasound of your heart. 💙\n\nHere's what to expect:\n✔️ No special prep. Eat, drink and take your medicines as usual\n✔️ You lie on your left side while a gentle probe and warm gel move across your chest\n✔️ No radiation and no contrast for a standard echo\n✔️ That whooshing sound? It's your blood flow\n✔️ Usually done in under an hour, then right back to your day\n\n📅 Book through the link in our bio or call (727) 398-5999. Self-pay echo $250 with the cardiologist's reading included, no referral needed.\n\nKnow someone with an echo coming up? Send this to them.\n\nGeneral information, not medical advice.\n\n#Echocardiogram #HeartHealth #MedicalImaging #SeminoleFL #PinellasCounty",
+    "facebook": "Have an echocardiogram coming up? It's a calm, painless ultrasound of your heart. 💙\n\nHere's what to expect:\n✔️ No special prep. Eat, drink and take your medicines as usual\n✔️ You lie on your left side while a gentle probe and warm gel move across your chest\n✔️ No radiation and no contrast for a standard echo\n✔️ That whooshing sound? It's your blood flow\n✔️ Usually done in under an hour, then right back to your day\n\nSelf-pay echocardiogram is $250, read by a board-certified cardiologist. No referral needed for self-pay, and same-day visits are often available in Seminole. With insurance, a doctor's order is needed and we check your benefits first.\n\n📅 Book online: https://www.advancedimg.com/lp/echocardiogram-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=echo-what-to-expect\n📞 Or call (727) 398-5999\n\nKnow someone with an echo coming up? Send this to them.\n\nGeneral information, not medical advice.\n\n#Echocardiogram #SeminoleFL",
+    "gbp": "Have an echocardiogram coming up? Here's what to expect at Advanced Medical Imaging in Seminole. A standard echo needs no special preparation: eat and drink as usual, take your medicines as prescribed, and wear a two-piece outfit. You change into a gown from the waist up, small stickers are placed on your chest, and you lie on your left side while the sonographer moves a gentle probe with warm gel across your chest. It is painless and uses no radiation. You may hear a whooshing sound, which is your blood flow being measured. Most visits are done in under an hour, and you can get right back to your day. A board-certified cardiologist reads every echo, and the report is ready in 48 to 72 hours. Self-pay echocardiogram is $250, with no referral needed and same-day visits often available. Using insurance? Bring your card and your doctor's order.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A sonographer scans a man lying on an exam table while a colleague points at the ultrasound screen. Painless. No radiation. See your heart in motion.",
+      "How your visit goes: change into a gown from the waist up and small stickers go on your chest; lie on your left side for warm gel and a gentle probe across your chest; get right back to your day, with the report ready in 48 to 72 hours.",
+      "What it feels like: calm and quiet. Painless with light pressure from the probe, no radiation and no contrast, a whooshing sound that is your blood flow, usually done in under an hour.",
+      "Before your echo: no special prep, eat and drink as usual; take your medicines as prescribed; wear a two-piece outfit; if using insurance, bring your card and your doctor's order.",
+      "Simple to book in Seminole: $250 self-pay with the cardiologist's reading included, no referral needed for self-pay, same day often for self-pay, report in 48 to 72 hours.",
+      "Lie back. Listen to your heart. Book your echo. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A sonographer scans a patient lying on an exam table. Painless, no radiation. Echocardiograms in Seminole, $250 self-pay, no referral needed."
+  },
+  "facts_checked": "amiweb src/lib/services-data.ts (echocardiogram prep, what to expect, cardiologist reading, 48-72 h, self-pay no referral, same day often), src/lib/prices.ts (echo $250, Seminole), src/app/lp/echocardiogram-seminole-fl/page.tsx, src/app/pricing/page.tsx (HSA/FSA itemized receipt), 2026-11-01. NIH MedlinePlus / NHLBI check PENDING: page fetches were not approved during the unattended run.",
+  "status": "draft"
+}
