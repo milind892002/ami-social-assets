@@ -127,5 +127,9 @@
     "gbp": "A sonographer scans a patient lying on an exam table. Painless, no radiation. Echocardiograms in Seminole, $250 self-pay, no referral needed."
   },
   "facts_checked": "amiweb src/lib/services-data.ts (echocardiogram prep, what to expect, cardiologist reading, 48-72 h, self-pay no referral, same day often), src/lib/prices.ts (echo $250, Seminole), src/app/lp/echocardiogram-seminole-fl/page.tsx, src/app/pricing/page.tsx (HSA/FSA itemized receipt), 2026-11-01. NIH MedlinePlus / NHLBI check PENDING: page fetches were not approved during the unattended run.",
-  "status": "draft"
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHZra7srQs",
+    "gbp": "DAHZrSj2oUQ"
+  }
 }
