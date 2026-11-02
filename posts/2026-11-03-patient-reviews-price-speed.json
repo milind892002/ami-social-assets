@@ -1,0 +1,99 @@
+{
+  "slug": "2026-11-03-patient-reviews-price-speed",
+  "title": "Patient review spotlight: fast answers, fair prices",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "facility/waiting-2.jpg",
+        "crop": [
+          300,
+          0,
+          1260,
+          1200
+        ]
+      },
+      "eyebrow": "What patients say",
+      "title": "Fast answers.",
+      "title_accent": "Fair&nbsp;prices.",
+      "title_size": 80
+    },
+    {
+      "type": "quote",
+      "eyebrow": "On price",
+      "quote": "This practice is top notch&hellip; this place is even more affordable than most of the corporate competitors&hellip; I&nbsp;still wish I&#39;d come here first.",
+      "quote_size": 50,
+      "name": "Terrence C."
+    },
+    {
+      "type": "quote",
+      "eyebrow": "On getting results fast",
+      "quote": "We got an appointment on the same day&hellip; The front staff were great and the tech was great. Got the report back that day to share with her doctors. Definitely recommend.",
+      "quote_size": 50,
+      "name": "Fergus N."
+    },
+    {
+      "type": "quote",
+      "eyebrow": "On short waits",
+      "quote": "Appointments are fast and within a reasonable timeframe. I never have to wait long to get in and out. I was impressed there is an onsite physician&hellip; I highly recommend&nbsp;them.",
+      "quote_size": 50,
+      "name": "Ivan R."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Comparing scans? Ask these 4&nbsp;things",
+      "items": [
+        "What&#39;s the total self-pay price?",
+        "Is the radiologist&#39;s reading included?",
+        "Paying self-pay: do I need a referral?",
+        "How soon is your next opening?"
+      ],
+      "footnote": "At AMI: self-pay MRI $295 with the radiologist reading included, no referral needed for self-pay, and same-day appointments often available."
+    },
+    {
+      "type": "cta",
+      "title": "Fair price. Short wait.",
+      "title_accent": "Book your scan.",
+      "share": "Know someone shopping for a scan? Send this.",
+      "disclaimer": "Verbatim public Google reviews; trims marked &hellip;. Experiences vary. Self-pay prices as of November 2026. General information, not medical advice."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "facility/waiting-2.jpg",
+      "crop": [
+        0,
+        0,
+        1600,
+        1200
+      ]
+    },
+    "eyebrow": "What patients say",
+    "title": "Fast answers.",
+    "title_accent": "Fair&nbsp;prices.",
+    "sub": "Real Google reviews from patients at Advanced Medical Imaging in Seminole."
+  },
+  "captions": {
+    "instagram": "Fast answers. Fair prices. Here's what patients wrote on Google. 💙\n\nWhat they mention:\n✔️ \"More affordable than most of the corporate competitors\"\n✔️ An appointment the same day\n✔️ The report back that day to share with the doctor\n✔️ Short waits to get in and out\n✔️ A physician on site\n\nSwipe to read their words, and save the 4 questions to ask when you compare imaging centers.\n\n📅 Book through the link in our bio or call (727) 398-5999. Self-pay MRI $295 with the radiologist reading included, no referral needed for self-pay. Using insurance? We accept it too.\n\nKnow someone shopping for a scan? Send this.\n\nVerbatim public Google reviews; individual experiences vary. General information, not medical advice.\n\n#PatientReviews #MRI #MedicalImaging #SeminoleFL #PinellasCounty",
+    "facebook": "Fast answers. Fair prices. Here's what patients wrote on Google. 💙\n\nWhat they mention:\n✔️ \"More affordable than most of the corporate competitors\"\n✔️ An appointment the same day\n✔️ The report back that day to share with the doctor\n✔️ Short waits to get in and out\n✔️ A physician on site\n\nSwipe to read their words, and save the 4 questions to ask when you compare imaging centers.\n\n📅 Book online: https://www.advancedimg.com/schedule?utm_source=facebook&utm_medium=social&utm_campaign=patient-reviews-2026-11-03\n📞 Or call (727) 398-5999\n\nSelf-pay MRI $295 with the radiologist reading included, no referral needed for self-pay. Using insurance? We accept it too.\n\nKnow someone shopping for a scan? Share this with them.\n\nVerbatim public Google reviews; individual experiences vary. General information, not medical advice.\n\n#PatientReviews #MedicalImaging #SeminoleFL",
+    "gbp": "Fast answers and fair prices: here's what patients shared in their Google reviews.\n\n\"This practice is top notch… this place is even more affordable than most of the corporate competitors… I still wish I'd come here first.\" (Terrence C.)\n\n\"We got an appointment on the same day… The front staff were great and the tech was great. Got the report back that day to share with her doctors. Definitely recommend.\" (Fergus N.)\n\n\"Appointments are fast and within a reasonable timeframe. I never have to wait long to get in and out. I was impressed there is an onsite physician… I highly recommend them.\" (Ivan R.)\n\nComparing imaging centers? Ask for the total self-pay price, whether the radiologist's reading is included, whether you need a referral to pay self-pay, and how soon the next opening is. At AMI, self-pay MRI is $295 with the radiologist reading included, no referral is needed for self-pay, and same-day appointments are often available. We accept insurance too. Seminole and St. Pete.\n\nBook online at advancedimg.com. Individual experiences vary. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A bright, quiet waiting room at Advanced Medical Imaging with three white chairs and a floral painting. Fast answers. Fair prices.",
+      "Five-star Google review from Terrence C.: This practice is top notch. This place is even more affordable than most of the corporate competitors. I still wish I'd come here first.",
+      "Five-star Google review from Fergus N.: We got an appointment on the same day. The front staff were great and the tech was great. Got the report back that day to share with her doctors. Definitely recommend.",
+      "Five-star Google review from Ivan R.: Appointments are fast and within a reasonable timeframe. I never have to wait long to get in and out. I was impressed there is an onsite physician. I highly recommend them.",
+      "Comparing imaging centers? Ask these 4 things: What's the total self-pay price? Is the radiologist's reading included? Paying self-pay, do I need a referral? How soon is your next opening? At AMI: self-pay MRI $295 with the reading included, no referral needed for self-pay, same-day appointments often available.",
+      "Fair price. Short wait. Book your scan. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "The waiting room at Advanced Medical Imaging in Seminole. Fast answers. Fair prices. Book at advancedimg.com."
+  },
+  "photo_note": "Hook and Google image use facility/waiting-2.jpg, a real AMI waiting room photo with no people (stock people avoided; staff photos not cleared).",
+  "reviews_verified": "All three quotes checked verbatim against the live Google Business Profile via Windsor.ai on 2026-11-02. Trimmed: Terrence C.'s exam, family history and comments about another practice; Fergus N.'s family member's age and exam urgency; Ivan R.'s family member and insurance plan. Skipped the Oct 29-31 cluster praising Lissette (see flag).",
+  "facts_checked": "Checked 2026-11-02 on amiweb main (b0d0176): prices.ts mri $295 (radiologist reading always included); services/no-referral-mri (self-pay needs no referral, physician reviews request the same day, same-day appointments often available for self-pay). No clinical claims in this post.",
+  "status": "awaiting approval"
+}
