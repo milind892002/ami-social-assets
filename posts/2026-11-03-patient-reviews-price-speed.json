@@ -95,11 +95,17 @@
   "photo_note": "Hook and Google image use facility/waiting-2.jpg, a real AMI waiting room photo with no people (stock people avoided; staff photos not cleared).",
   "reviews_verified": "All three quotes checked verbatim against the live Google Business Profile via Windsor.ai on 2026-11-02. Trimmed: Terrence C.'s exam, family history and comments about another practice; Fergus N.'s family member's age and exam urgency; Ivan R.'s family member and insurance plan. Skipped the Oct 29-31 cluster praising Lissette (see flag).",
   "facts_checked": "Checked 2026-11-02 on amiweb main (b0d0176): prices.ts mri $295 (radiologist reading always included); services/no-referral-mri (self-pay needs no referral, physician reviews request the same day, same-day appointments often available for self-pay). No clinical claims in this post.",
-  "status": "awaiting approval",
+  "status": "scheduled",
   "canva": {
     "carousel": "DAHZxQZ_2hI",
     "gbp": "DAHZxZwEj38",
-    "open_transaction": "6732276461387756843 (slide 1 headline resized to wrap; commit on approval)"
+    "note": "Slide 1 headline wrap fix committed after approval (2026-11-02)."
   },
-  "flag": "Oct 29-31 Google reviews: 7 five-star reviews praising Lissette within ~2 days (4 in about 2 hours on Oct 29), two from reviewers surnamed Dorsey; a 2024 review is by 'Lissette Dorsey'. Not used pending Milind's check (FTC 16 CFR 465 on reviews from staff/relatives). Sean D. (Sean Dorsey), used Oct 13/20 and on the website, may be related. New 1-star review Oct 29 (Adam M., MRI moved twice) has no reply yet."
+  "flag": "Oct 29-31 Google reviews: 7 five-star reviews praising Lissette within ~2 days (4 in about 2 hours on Oct 29), two from reviewers surnamed Dorsey; a 2024 review is by 'Lissette Dorsey'. Not used pending Milind's check (FTC 16 CFR 465 on reviews from staff/relatives). Sean D. (Sean Dorsey), used Oct 13/20 and on the website, may be related. New 1-star review Oct 29 (Adam M., MRI moved twice) has no reply yet.",
+  "scheduled": "2026-11-03T10:00:00 America/New_York",
+  "metricool": {
+    "instagram": 414716067,
+    "facebook": 414716085,
+    "gmb": 414716099
+  }
 }
