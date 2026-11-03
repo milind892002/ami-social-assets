@@ -1,0 +1,125 @@
+{
+  "slug": "2026-11-04-hsa-fsa-faq",
+  "title": "FAQ: Can I use my HSA or FSA for a scan?",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "hero-radiologist-patient.jpg",
+        "crop": [
+          620,
+          0,
+          1439,
+          1024
+        ]
+      },
+      "eyebrow": "Your HSA and FSA questions, answered",
+      "title": "HSA or FSA money left?",
+      "title_accent": "Use it for your scan.",
+      "title_size": 72
+    },
+    {
+      "type": "list",
+      "eyebrow": "Quick answers",
+      "title": "Can I use my card here?",
+      "items": [
+        "Yes. Imaging is a qualified medical expense.",
+        "Pay with your HSA or FSA card at your visit.",
+        "Need a receipt? We give you an itemized one with CPT codes.",
+        "Self-pay? No referral and no prior authorization."
+      ],
+      "footnote": "Source: IRS Publications 502 and 969. Your plan&#39;s rules apply. Referral-free for eligible self-pay exams."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "FSA? Check your deadline.",
+      "items": [
+        "Many FSAs are use-it-or-lose-it by the plan year&#39;s end.",
+        "Some plans allow a grace period or carryover.",
+        "Ask your plan for your exact date and balance.",
+        "Have a scan your doctor ordered? Plan it before then."
+      ],
+      "footnote": "Source: IRS Publication 969. Employers choose a grace period or a carryover, not both. HSA money doesn&#39;t expire."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What your card can cover here",
+      "title": "One price, reading included.",
+      "cards": [
+        [
+          "$295",
+          "MRI. $395 with contrast."
+        ],
+        [
+          "$295",
+          "CT. $395 with contrast."
+        ],
+        [
+          "$195",
+          "routine ultrasound."
+        ],
+        [
+          "$75",
+          "DEXA bone density."
+        ]
+      ],
+      "footnote": "Self-pay prices as of October 2026, radiologist&#39;s reading included, no facility fees. MRI at Seminole and St. Petersburg; CT, ultrasound and DEXA at Seminole."
+    },
+    {
+      "type": "list",
+      "eyebrow": "Have insurance too?",
+      "title": "Ask your plan first:",
+      "items": [
+        "Does a self-pay scan count toward my deductible?",
+        "What would I owe for this exam through my plan?",
+        "Is prior authorization needed? How long?"
+      ],
+      "footnote": "Insurance accepted. A doctor&#39;s order is required to use insurance. We check your benefits for free."
+    },
+    {
+      "type": "cta",
+      "title": "Use your HSA or FSA here.",
+      "title_accent": "Book your scan.",
+      "share": "Send this to someone with FSA money to use.",
+      "disclaimer": "General information, not medical or tax advice. Self-pay prices as of October 2026. Using Medicare or Medicaid? Ask us what applies.",
+      "title_size": 72
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "hero-radiologist-patient.jpg",
+      "crop": [
+        100,
+        0,
+        1465,
+        1024
+      ]
+    },
+    "eyebrow": "HSA and FSA cards accepted",
+    "title": "HSA or FSA money left?",
+    "title_accent": "Use it for your scan.",
+    "sub": "Self-pay MRI $295 with the radiologist&#39;s reading. No facility fees.",
+    "button": "Book at advancedimg.com"
+  },
+  "captions": {
+    "instagram": "Money left in your HSA or FSA? You can use it for your scan. 💳\n\n✔️ Diagnostic imaging is a qualified medical expense\n✔️ Pay with your HSA or FSA card at your visit\n✔️ Itemized receipt with CPT codes if you need one\n✔️ Self-pay means no referral and no waiting on prior authorization\n✔️ FSA? Many plans are use-it-or-lose-it at the end of the plan year, so check your date\n\nSelf-pay MRI is $295 ($395 with contrast), radiologist's reading included, no facility fees. Insurance accepted too.\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone with FSA money to use? Send this to them.\n\nGeneral information, not medical or tax advice. Your plan's rules apply. Self-pay prices as of October 2026. Using Medicare or Medicaid? Ask us what applies.\n\n#HSA #MRI #CTScan #SeminoleFL #PinellasCounty",
+    "facebook": "Money left in your HSA or FSA? You can use it for your scan. 💳\n\nQuick answers:\n✔️ Diagnostic imaging is a qualified medical expense (IRS Publication 502)\n✔️ Pay with your HSA or FSA card at your visit\n✔️ Need it for your records or reimbursement? We give you an itemized receipt with CPT codes\n✔️ Self-pay means no referral and no waiting on prior authorization for eligible exams\n\nHave an FSA? Many are use-it-or-lose-it at the end of the plan year. Some plans add a grace period or let a small amount carry over, so ask your plan for your exact date and balance. HSA money doesn't expire.\n\nHave insurance too? Ask your plan whether a self-pay scan counts toward your deductible and what you'd owe through the plan. We'll check your benefits for free.\n\nSelf-pay prices, radiologist's reading included, no facility fees: MRI $295 ($395 with contrast), CT $295 ($395 with contrast), routine ultrasound $195, DEXA bone density $75.\n\n📅 Book online: https://www.advancedimg.com/lp/imaging-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=hsa-fsa-faq\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 Seminole and St. Petersburg\n\nKnow someone with FSA money to use? Share this with them.\n\nGeneral information, not medical or tax advice. Your plan's rules apply. Self-pay prices as of October 2026. Using Medicare or Medicaid? Ask us what applies. Source: IRS Publications 502 and 969.\n\n#HSA #FSA #SeminoleFL",
+    "gbp": "Money left in your HSA or FSA? You can use it for your scan at Advanced Medical Imaging. Diagnostic imaging is a qualified medical expense, and we accept HSA and FSA cards at your visit. Need a receipt for your records or for reimbursement? We provide an itemized receipt with CPT codes. Have an FSA? Many are use-it-or-lose-it at the end of the plan year, and some plans add a grace period or a small carryover, so check your date with your plan. Self-pay means no referral and no waiting on prior authorization for eligible exams. Self-pay prices include the radiologist's reading with no facility fees: MRI $295 ($395 with contrast), CT $295, routine ultrasound $195 and DEXA bone density $75. Insurance accepted too, and we check your benefits for free.\n\nBook online at advancedimg.com. General information, not medical or tax advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A clinician in teal scrubs shows a woman an MRI image on a tablet. Your HSA and FSA questions, answered: HSA or FSA money left? Use it for your scan.",
+      "Quick answers. Can I use my card here? Yes, imaging is a qualified medical expense. Pay with your HSA or FSA card at your visit. Need a receipt? We give you an itemized one with CPT codes. Self-pay? No referral and no prior authorization.",
+      "Save this. FSA? Check your deadline. Many FSAs are use-it-or-lose-it by the plan year's end. Some plans allow a grace period or carryover. Ask your plan for your exact date and balance. Have a scan your doctor ordered? Plan it before then.",
+      "What your card can cover here, one price with the reading included: MRI $295, $395 with contrast; CT $295, $395 with contrast; routine ultrasound $195; DEXA bone density $75.",
+      "Have insurance too? Ask your plan first: Does a self-pay scan count toward my deductible? What would I owe for this exam through my plan? Is prior authorization needed? How long?",
+      "Use your HSA or FSA here. Book your scan through the link in our bio or call (727) 398-5999."
+    ],
+    "gbp": "A clinician shows a woman an MRI image on a tablet. HSA or FSA money left? Use it for your scan."
+  },
+  "facts_checked": "Checked 2026-11-03. IRS Publication 502 (medical expenses include diagnostic tests and X-rays) and Publication 969 (HSA funds roll over; health FSA use-or-lose with optional grace period up to 2.5 months or carryover, not both): irs.gov pages confirmed by search but the page fetch was blocked this run, so wording kept general and matches the website's own FAQ. Practice facts from amiweb origin/main a595390: prices.ts (mri $295, mriContrast $395, ct $295, ctContrast $395 Seminole, ultrasound $195 Seminole, dexa $75 Seminole); mri-cost-florida/page.tsx (HSA/FSA accepted, 'Diagnostic imaging is a qualified medical expense'); pricing/page.tsx (reading included, no hidden fees, itemized receipt with CPT codes, no referral for self-pay, insurance needs physician's order, free benefits check); services-data.ts ('Eligible self-pay exams do not need a referral').",
+  "flag": "Hook and Google photo is a website stock image (clinician with tablet), not AMI staff. IRS pages could not be opened this run (fetch blocked), so no dollar carryover limit is quoted. Medicare/Medicaid cash-pay caveat still pending. Leftover imports/2026-10-13-scarier-than-mri batch still in the repo."
+}
