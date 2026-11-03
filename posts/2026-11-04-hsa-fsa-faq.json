@@ -121,5 +121,10 @@
     "gbp": "A clinician shows a woman an MRI image on a tablet. HSA or FSA money left? Use it for your scan."
   },
   "facts_checked": "Checked 2026-11-03. IRS Publication 502 (medical expenses include diagnostic tests and X-rays) and Publication 969 (HSA funds roll over; health FSA use-or-lose with optional grace period up to 2.5 months or carryover, not both): irs.gov pages confirmed by search but the page fetch was blocked this run, so wording kept general and matches the website's own FAQ. Practice facts from amiweb origin/main a595390: prices.ts (mri $295, mriContrast $395, ct $295, ctContrast $395 Seminole, ultrasound $195 Seminole, dexa $75 Seminole); mri-cost-florida/page.tsx (HSA/FSA accepted, 'Diagnostic imaging is a qualified medical expense'); pricing/page.tsx (reading included, no hidden fees, itemized receipt with CPT codes, no referral for self-pay, insurance needs physician's order, free benefits check); services-data.ts ('Eligible self-pay exams do not need a referral').",
-  "flag": "Hook and Google photo is a website stock image (clinician with tablet), not AMI staff. IRS pages could not be opened this run (fetch blocked), so no dollar carryover limit is quoted. Medicare/Medicaid cash-pay caveat still pending. Leftover imports/2026-10-13-scarier-than-mri batch still in the repo."
+  "flag": "Hook and Google photo is a website stock image (clinician with tablet), not AMI staff. IRS pages could not be opened this run (fetch blocked), so no dollar carryover limit is quoted. Medicare/Medicaid cash-pay caveat still pending. Leftover imports/2026-10-13-scarier-than-mri batch still in the repo.",
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHZ3cDX1AU",
+    "gbp": "DAHZ3en2erg"
+  }
 }
