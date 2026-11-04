@@ -127,5 +127,10 @@
   },
   "facts_checked": "amiweb src/lib/prices.ts (MRI $295 / $395, same price on every scanner incl. 3T), src/lib/services-data.ts 3t-mri (2201 Central Ave, twice the field strength of 1.5T, brain/prostate/cartilage/nerves, louder, earplugs or headphones, slightly narrower bore, 30-75 min, prep items, arrive 15 min early, implants safe at 1.5T may not be cleared for 3T, self-pay no referral, insurance needs order) and src/app/lp/3t-mri-st-pete-fl (same-week often available, HSA/FSA), 2026-11-04; U.S. FDA MRI Benefits and Risks (no ionizing radiation, implants must be identified MR Safe/MR Conditional and used only within their conditions, loud knocking needs ear protection), 2026-11-04.",
   "status": "awaiting approval",
-  "planned_time": "2026-11-05T10:00:00 America/New_York (or best time from Metricool on approval)"
+  "planned_time": "2026-11-05T10:00:00 America/New_York (or best time from Metricool on approval)",
+  "canva": {
+    "carousel": "DAHZ9SLNPzU",
+    "gbp": "DAHZ9RVCZcA",
+    "open_transaction": "6086010121825705601 (page 1 heading wrap fix, uncommitted until approval)"
+  }
 }
