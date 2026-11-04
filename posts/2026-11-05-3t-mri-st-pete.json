@@ -1,0 +1,131 @@
+{
+  "slug": "2026-11-05-3t-mri-st-pete",
+  "title": "Technology: 3T MRI in St. Pete",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "service-3t-mri.jpg",
+        "crop": [
+          260,
+          0,
+          1124,
+          1080
+        ]
+      },
+      "eyebrow": "Our technology: 3T MRI",
+      "title": "Our strongest MRI.",
+      "title_accent": "Same $295 price."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Why 3T",
+      "title": "What 3T means.",
+      "steps": [
+        [
+          "Twice the magnet",
+          "3 Tesla is twice the field strength of a standard 1.5T MRI."
+        ],
+        [
+          "Finer detail",
+          "Helps with small structures like the brain, prostate, cartilage and nerves."
+        ],
+        [
+          "Often quicker",
+          "Sharp images can take less time in the scanner."
+        ]
+      ],
+      "footnote": "3T MRI at 2201 Central Ave, St. Petersburg. Your doctor can tell you if 3T suits your scan."
+    },
+    {
+      "type": "list",
+      "eyebrow": "What to expect",
+      "title": "What it feels like.",
+      "items": [
+        "Loud tapping and knocking is normal. We give you earplugs or headphones.",
+        "No radiation, just magnets and radio waves.",
+        "Most scans take 30 to 75 minutes.",
+        "The opening is a bit narrower. Want more room? Ask about our open MRI in Seminole."
+      ],
+      "footnote": "Source: U.S. FDA, MRI benefits and risks."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before your 3T MRI",
+      "items": [
+        "Tell us about any implant, pacemaker, stent or metal in your body. Some cleared for 1.5T aren&#39;t cleared for 3T.",
+        "Leave jewelry, watches and hair clips at home.",
+        "Wear comfy clothes with no metal zippers or underwire.",
+        "Arrive 15 minutes early for forms and safety screening."
+      ],
+      "footnote": "Source: U.S. FDA, MRI benefits and risks."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Booking is easy &middot; St. Pete",
+      "title": "Simple to book.",
+      "cards": [
+        [
+          "$295",
+          "self-pay 3T MRI without contrast"
+        ],
+        [
+          "$395",
+          "self-pay with and without contrast"
+        ],
+        [
+          "No referral",
+          "needed for self-pay"
+        ],
+        [
+          "Same week",
+          "often available"
+        ]
+      ],
+      "footnote": "Same price on all our MRIs, radiologist reading included. HSA/FSA accepted. With insurance, a doctor&#39;s order is needed."
+    },
+    {
+      "type": "cta",
+      "title": "Sharper images. Same price.",
+      "title_accent": "Book your 3T MRI.",
+      "share": "Send this to someone who&#39;s been waiting on an MRI."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "service-3t-mri.jpg",
+      "crop": [
+        300,
+        0,
+        1740,
+        1080
+      ]
+    },
+    "eyebrow": "Our technology: 3T MRI",
+    "title": "Our strongest MRI.",
+    "title_accent": "Same $295 price.",
+    "sub": "3T MRI in St. Petersburg. $295 self-pay, no referral needed."
+  },
+  "captions": {
+    "instagram": "Our strongest MRI is in St. Pete, and it costs the same as our others. 💙\n\nWhy patients and doctors ask for 3T:\n✔️ 3 Tesla is twice the field strength of a standard 1.5T MRI\n✔️ Finer detail for small structures like the brain, prostate, cartilage and nerves\n✔️ No radiation, just magnets and radio waves\n✔️ $295 self-pay without contrast, radiologist reading included\n✔️ No referral needed for self-pay, and same-week appointments are often available\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone who's been waiting on an MRI? Send this to them.\n\nGeneral information, not medical advice.\n\n#3TMRI #MRI #MedicalImaging #StPete #PinellasCounty",
+    "facebook": "Our strongest MRI is in St. Pete, and it costs the same as our others. 💙\n\nWhy patients and doctors ask for 3T:\n✔️ 3 Tesla is twice the field strength of a standard 1.5T MRI\n✔️ Finer detail for small structures like the brain, prostate, cartilage and nerves\n✔️ No radiation, just magnets and radio waves\n✔️ Loud tapping is normal; we give you earplugs or headphones\n✔️ Prefer more room? Ask about our open MRI in Seminole\n\nSelf-pay 3T MRI is $295 without contrast and $395 with and without contrast, the same price as all our MRIs, radiologist reading included. HSA/FSA accepted. No referral needed for self-pay, and same-week appointments are often available. Using insurance? We accept it too; a doctor's order is needed.\n\n📍 2201 Central Ave, Suite 100, St. Petersburg\n📅 Book online: https://www.advancedimg.com/lp/3t-mri-st-pete-fl?utm_source=facebook&utm_medium=social&utm_campaign=3t-mri-st-pete\n📞 Or call (727) 398-5999\n\nKnow someone who's been waiting on an MRI? Send this to them.\n\nGeneral information, not medical advice.\n\n#3TMRI #StPete",
+    "gbp": "Our strongest MRI costs the same as our others. Advanced Medical Imaging's 3T MRI at 2201 Central Ave in St. Petersburg has twice the field strength of a standard 1.5T MRI, which helps show fine detail in small structures like the brain, prostate, cartilage and nerves. MRI uses magnets and radio waves, not radiation. Loud tapping is normal, and we provide earplugs or headphones. Most scans take 30 to 75 minutes. Before your scan, tell us about any implant, pacemaker, stent or metal in your body, since some devices cleared for 1.5T are not cleared for 3T. Self-pay 3T MRI is $295 without contrast and $395 with and without contrast, the same price as all our MRIs, with the radiologist's reading included and no referral needed for self-pay. Insurance is accepted too, with a doctor's order.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A man in a white coat points at spine MRI images on a monitor, with an MRI scanner visible through the window behind him. Our strongest MRI. Same $295 price.",
+      "What 3T means: twice the magnet, as 3 Tesla is twice the field strength of a standard 1.5T MRI; finer detail for small structures like the brain, prostate, cartilage and nerves; often quicker, as sharp images can take less time in the scanner.",
+      "What it feels like: loud tapping and knocking is normal and earplugs or headphones are provided; no radiation, just magnets and radio waves; most scans take 30 to 75 minutes; the opening is a bit narrower, and an open MRI is available in Seminole.",
+      "Before your 3T MRI: tell us about any implant, pacemaker, stent or metal in your body, since some cleared for 1.5T are not cleared for 3T; leave jewelry, watches and hair clips at home; wear comfy clothes with no metal zippers or underwire; arrive 15 minutes early.",
+      "Simple to book in St. Pete: $295 self-pay 3T MRI without contrast, $395 with and without contrast, no referral needed for self-pay, same-week appointments often available.",
+      "Sharper images. Same price. Book your 3T MRI. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A man in a white coat reviewing MRI images in front of a scanner. Our strongest MRI. Same $295 price. 3T MRI in St. Petersburg, $295 self-pay, no referral needed."
+  },
+  "facts_checked": "amiweb src/lib/prices.ts (MRI $295 / $395, same price on every scanner incl. 3T), src/lib/services-data.ts 3t-mri (2201 Central Ave, twice the field strength of 1.5T, brain/prostate/cartilage/nerves, louder, earplugs or headphones, slightly narrower bore, 30-75 min, prep items, arrive 15 min early, implants safe at 1.5T may not be cleared for 3T, self-pay no referral, insurance needs order) and src/app/lp/3t-mri-st-pete-fl (same-week often available, HSA/FSA), 2026-11-04; U.S. FDA MRI Benefits and Risks (no ionizing radiation, implants must be identified MR Safe/MR Conditional and used only within their conditions, loud knocking needs ear protection), 2026-11-04.",
+  "status": "awaiting approval",
+  "planned_time": "2026-11-05T10:00:00 America/New_York (or best time from Metricool on approval)"
+}
