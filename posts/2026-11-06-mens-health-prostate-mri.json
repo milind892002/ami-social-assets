@@ -129,11 +129,18 @@
   },
   "facts_checked": "2026-11-05: USPSTF prostate cancer screening (final 2018: 55-69 Grade C individual decision; 70+ Grade D; update in progress, no draft posted); American Cancer Society screening recommendations (discussion at 50 average risk, 45 for African American men or father/brother diagnosed <65, 40 for more than one first-degree relative diagnosed early); AUA/SUO Early Detection of Prostate Cancer 2023 (Stmt 4 baseline PSA 45-50; Stmt 5 40-45 at increased risk; Stmt 13 MRI may be used before initial biopsy; Stmt 30 MRI should be obtained before repeat biopsy; Stmt 14 PI-RADS); U.S. FDA MRI benefits and risks (no ionizing radiation, implant screening). amiweb bbc2313: prices.ts onq $495 both centers; services-data.ts onq-prostate (about 45 min, PI-RADS 1-5, OnQ AI enhances not replaces the read, 48-72 h to urologist, prep: PSA results, implants, avoid ejaculation 3 days if advised, arrive 15 min early, self-pay no referral, insurance needs order).",
   "flag": "Hook and Google photo service-mri.jpg is a website stock image (not AMI staff or patient), small source (768x512) so slightly soft when enlarged. Men 70+: USPSTF recommends against PSA screening; the post doesn't target them. Many men in this age range are on Medicare: cash-pay caveat still pending, so the post says 'ask us what applies'. 'Men's health month' used instead of the 'Movember' name (a charity's brand).",
-  "status": "awaiting approval",
+  "status": "scheduled",
   "replaces": "2026-11-06-self-pay-price-list (on hold; Milind asked for new content)",
   "canva": {
     "carousel": "DAHaDhdpXDs",
     "gbp": "DAHaDsndnLQ",
-    "note": "Hook heading resized to 904px so it wraps; transaction 5640153865794406105 kept open for approval"
+    "note": "Hook heading resized to 904px so it wraps; committed after approval"
+  },
+  "approved": "Milind, 2026-11-05",
+  "scheduled_time": "2026-11-06T10:00:00 America/New_York (Metricool best time all zero; default)",
+  "metricool": {
+    "instagram": 417855542,
+    "facebook": 417855573,
+    "gmb": 417855600
   }
 }
