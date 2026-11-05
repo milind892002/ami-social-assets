@@ -1,0 +1,178 @@
+{
+  "slug": "2026-11-06-self-pay-price-list",
+  "title": "Booking made easy: self-pay price list",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "facility/team.jpg",
+        "crop": [
+          420,
+          60,
+          1380,
+          1260
+        ]
+      },
+      "eyebrow": "Booking made easy",
+      "title": "Know your price.",
+      "title_accent": "Before you book."
+    },
+    {
+      "type": "poster",
+      "strikes": [
+        "Waiting on approval.",
+        "Guessing the final bill."
+      ],
+      "title": "One price list.",
+      "title_accent": "Posted up front.",
+      "prices": [
+        [
+          "MRI",
+          "$295"
+        ],
+        [
+          "CT scan",
+          "$295"
+        ],
+        [
+          "Ultrasound",
+          "$195"
+        ],
+        [
+          "3D mammogram",
+          "$199"
+        ],
+        [
+          "Bone density",
+          "$75"
+        ],
+        [
+          "X-ray",
+          "$50"
+        ]
+      ],
+      "line": "Radiologist reading included. No referral needed for self-pay.",
+      "footnote": "Self-pay prices as of November 2026. MRI without contrast ($395 with); CT without contrast ($395 with); screening mammogram; X-ray per body part. MRI in Seminole &amp; St. Pete, other exams in Seminole."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "What the price covers",
+      "title": "No surprises later.",
+      "cards": [
+        [
+          "Reading",
+          "by a board-certified radiologist, included."
+        ],
+        [
+          "No fees",
+          "added later for the reading or the facility."
+        ],
+        [
+          "HSA/FSA",
+          "cards accepted, with an itemized receipt."
+        ],
+        [
+          "Same day",
+          "appointments often available."
+        ]
+      ],
+      "footnote": "Contrast and some multi-area exams are priced differently. We confirm your exact price before you book."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Self-pay, start to finish",
+      "title": "How booking works.",
+      "steps": [
+        [
+          "Call or book online",
+          "Tell us the scan you need."
+        ],
+        [
+          "Same-day review",
+          "Our physician checks your request. No referral."
+        ],
+        [
+          "Get scanned",
+          "Often the same day. Results in 48 to 72 hours."
+        ]
+      ],
+      "footnote": "Using insurance instead? Your plan usually needs your doctor&#39;s order. We verify benefits for free."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before you call, have ready:",
+      "items": [
+        "The scan your doctor mentioned, or the area that&#39;s bothering you.",
+        "Whether contrast was suggested. It changes the price.",
+        "Reports or CDs from past scans elsewhere.",
+        "Your HSA or FSA card, if you&#39;re using one."
+      ]
+    },
+    {
+      "type": "cta",
+      "title": "Your price, up front.",
+      "title_accent": "Book your scan.",
+      "share": "Send this to someone waiting on insurance.",
+      "disclaimer": "General information, not medical advice. Self-pay prices as of November 2026. Using Medicare or Medicaid? Ask us what applies."
+    }
+  ],
+  "gbp": {
+    "layout": "poster",
+    "strikes": [
+      "Waiting on approval.",
+      "Guessing the final bill."
+    ],
+    "title": "One price list.",
+    "title_accent": "Posted up front.",
+    "prices": [
+      [
+        "MRI",
+        "$295"
+      ],
+      [
+        "CT scan",
+        "$295"
+      ],
+      [
+        "Ultrasound",
+        "$195"
+      ],
+      [
+        "3D mammogram",
+        "$199"
+      ],
+      [
+        "Bone density",
+        "$75"
+      ],
+      [
+        "X-ray",
+        "$50"
+      ]
+    ],
+    "line": "Radiologist reading included. No referral needed for self-pay.",
+    "footnote": "Self-pay prices as of November 2026. Seminole &amp; St. Pete."
+  },
+  "captions": {
+    "instagram": "Know your price before you book. 💙\n\nOur self-pay prices are posted up front:\n✔️ MRI $295 · CT $295 (without contrast; $395 with)\n✔️ Ultrasound $195 · Screening 3D mammogram $199\n✔️ Bone density (DEXA) $75 · X-ray $50 per body part\n✔️ Radiologist reading included, no fees added later\n✔️ No referral and no waiting on approval for self-pay, same day often available\n✔️ HSA/FSA cards accepted\n\n📌 Save this price list for when you need it.\n\n📅 Book through the link in our bio or call (727) 398-5999. Seminole and St. Pete.\n\nKnow someone waiting on insurance? Send this.\n\nSelf-pay prices as of November 2026. Prefer insurance? We accept most plans. Using Medicare or Medicaid? Ask us what applies. General information, not medical advice.\n\n#SelfPay #MRI #CTScan #SeminoleFL #PinellasCounty",
+    "facebook": "Know your price before you book. 💙\n\nOur self-pay prices are posted up front:\n✔️ MRI $295 · CT $295 (without contrast; $395 with)\n✔️ Ultrasound $195 · Screening 3D mammogram $199\n✔️ Bone density (DEXA) $75 · X-ray $50 per body part\n✔️ Radiologist reading included, no fees added later\n✔️ No referral and no waiting on approval for self-pay, same day often available\n✔️ HSA/FSA cards accepted, with an itemized receipt\n\nPrefer to use insurance? We accept most plans. Your plan usually needs your doctor's order, and we verify your benefits for free.\n\n📅 Book your scan: https://www.advancedimg.com/lp/imaging-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=self-pay-price-list\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 Seminole: 9555 Seminole Blvd, Suite 101 · St. Pete 3T MRI: 2201 Central Ave, Suite 100\n\nKnow someone waiting on insurance? Share this with them.\n\nSelf-pay prices as of November 2026. Using Medicare or Medicaid? Ask us what applies. General information, not medical advice.\n\n#SelfPay #MedicalImaging #SeminoleFL",
+    "gbp": "Know your price before you book. Advanced Medical Imaging posts its self-pay prices up front: MRI $295 and CT $295 without contrast ($395 with and without), ultrasound $195, screening 3D mammogram $199, DEXA bone density $75 and X-ray $50 per body part. Every price includes the board-certified radiologist's reading, with no reading or facility fees added later. Self-pay patients don't need a referral: our physician reviews your request the same day, appointments are often available the same day, and results are ready in 48 to 72 hours. HSA and FSA cards are accepted, and we give you an itemized receipt. Contrast and some multi-area exams are priced differently, so we confirm your exact price before you book. Prefer insurance? We accept most plans and verify your benefits for free; your plan usually needs your doctor's order. MRI in Seminole and at our St. Petersburg 3T MRI center; other exams in Seminole. Prices as of November 2026. Using Medicare or Medicaid? Ask us what applies.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "The Advanced Medical Imaging team in the Seminole office. Booking made easy: know your price before you book.",
+      "Crossed out: waiting on approval, guessing the final bill. One price list, posted up front: MRI $295, CT scan $295, ultrasound $195, 3D mammogram $199, bone density $75, X-ray $50. Radiologist reading included. No referral needed for self-pay.",
+      "What the price covers: reading by a board-certified radiologist; no fees added later; HSA/FSA cards accepted with an itemized receipt; same-day appointments often available.",
+      "How booking works: call or book online; our physician reviews your request the same day, no referral needed; get scanned, often the same day, with results in 48 to 72 hours.",
+      "Before you call, have ready: the scan your doctor mentioned or the area that's bothering you; whether contrast was suggested; reports or CDs from past scans; your HSA or FSA card.",
+      "Your price, up front. Book your scan. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "Self-pay price list from Advanced Medical Imaging: MRI $295, CT scan $295, ultrasound $195, 3D mammogram $199, bone density $75, X-ray $50. Radiologist reading included."
+  },
+  "facts_checked": "No clinical claims (prices and booking logistics only), so no guideline search needed. amiweb main bbc2313, checked 2026-11-05: src/lib/prices.ts (MRI $295/$395 same price every scanner, both centers; CT $295/$395 Seminole; Routine Ultrasound $195; Screening mammogram 2D+3D $199; Bone Density $75; X-Ray $50 per body part; all non-MRI exams Seminole); pricing/page.tsx (radiologist read included, no separate fees, contrast/multi-region priced differently and confirmed before appointment, self-pay no referral with same-day physician review, insurance needs physician order, itemized receipt for HSA/FSA, free benefit verification); services/no-referral-mri (same-day review, no prior authorization delays); services-data.ts (results in 48 to 72 hours); locations/largo/page.tsx lists the same six prices; X-ray $50 now consistent site-wide (LpInlineForm shows $50).",
+  "flag": "Hook photo is the real AMI team photo (also used Oct 24 and Nov 1). Medicare/Medicaid cash-pay caveat still pending; CTA says 'ask us what applies'. Leftover imports/2026-10-13-scarier-than-mri batch still in the repo (not touched).",
+  "status": "awaiting approval"
+}
