@@ -1,0 +1,134 @@
+{
+  "slug": "2026-11-06-mens-health-prostate-mri",
+  "title": "Awareness: November men's health, PSA talk and prostate MRI",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "service-mri.jpg",
+        "crop": [
+          40,
+          0,
+          654,
+          512
+        ]
+      },
+      "eyebrow": "November: men&#39;s health",
+      "title": "Let&#39;s talk prostate.",
+      "title_accent": "One question to ask."
+    },
+    {
+      "type": "list",
+      "eyebrow": "Screening starts with a talk",
+      "title": "When to ask about a PSA test.",
+      "items": [
+        "Age 50 for most men, says the American Cancer Society.",
+        "Age 45 for Black men, or if your father or brother had prostate cancer before 65. Age 40 if more than one did.",
+        "55 to 69: the U.S. task force calls it a personal choice to make with your doctor."
+      ],
+      "footnote": "Guidelines differ. Urologists (AUA) say 45 to 50, or 40 to 45 at higher risk. Sources: American Cancer Society; AUA/SUO 2023; USPSTF 2018 (update in progress)."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "Where MRI fits",
+      "title": "If your PSA comes back high.",
+      "steps": [
+        [
+          "PSA blood test",
+          "Usually the first step, through your doctor."
+        ],
+        [
+          "Prostate MRI",
+          "Can show whether a biopsy is needed, and where to look."
+        ],
+        [
+          "A clear score",
+          "PI-RADS 1 to 5 helps you and your urologist plan next steps."
+        ]
+      ],
+      "footnote": "Source: AUA/SUO guideline, 2023: MRI may be used before a first biopsy and should be done before a repeat biopsy."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Our prostate MRI",
+      "title": "Clear answers, close to home.",
+      "cards": [
+        [
+          "$495",
+          "self-pay, PI-RADS report and OnQ AI map"
+        ],
+        [
+          "No radiation",
+          "about 45 minutes"
+        ],
+        [
+          "3T or 1.5T",
+          "St. Pete or Seminole"
+        ],
+        [
+          "48 to 72 hrs",
+          "results to your urologist"
+        ]
+      ],
+      "footnote": "Read by a board-certified radiologist. The AI supports the read, it doesn&#39;t replace it. No referral needed for self-pay."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before your prostate MRI",
+      "items": [
+        "Bring your recent PSA results, if you have them.",
+        "Tell us about any implant, pacemaker or metal in your body.",
+        "Your doctor may advise no ejaculation for 3 days before.",
+        "Arrive 15 minutes early for forms and safety screening."
+      ],
+      "footnote": "Source: U.S. FDA, MRI benefits and risks."
+    },
+    {
+      "type": "cta",
+      "title": "Your health, your timing.",
+      "title_accent": "Questions? Call us.",
+      "share": "Send this to a guy who&#39;d rather not ask.",
+      "disclaimer": "General information, not medical advice. Self-pay $495 as of November 2026. With insurance, a doctor&#39;s order is needed. Using Medicare? Ask us what applies.",
+      "title_size": 72
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "service-mri.jpg",
+      "crop": [
+        20,
+        0,
+        330,
+        512
+      ]
+    },
+    "eyebrow": "November: men&#39;s health",
+    "title": "Let&#39;s talk prostate.",
+    "title_accent": "Prostate MRI, $495 self-pay.",
+    "sub": "PI-RADS report and OnQ AI map, read by a board-certified radiologist. Seminole &amp; St. Pete.",
+    "button": "Book at advancedimg.com"
+  },
+  "captions": {
+    "instagram": "November is men's health month. Let's talk prostate. 💙\n\nIt starts with one question for your doctor: \"Should I have a PSA test?\"\n✔️ Most guidelines say start the talk between 45 and 50, earlier for Black men or with a family history\n✔️ If your PSA comes back high, a prostate MRI can show whether a biopsy is needed, and where to look\n✔️ Our prostate MRI: $495 self-pay, PI-RADS report and OnQ AI risk map included\n✔️ About 45 minutes, no radiation, on our 3T (St. Pete) or 1.5T (Seminole)\n✔️ Results to your urologist in 48 to 72 hours\n\n📌 Save this for the check-in you've been putting off.\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow a guy who'd rather not ask? Send this to him.\n\nGuidelines differ (American Cancer Society, AUA, USPSTF), so decide with your doctor. With insurance, a doctor's order is needed. Using Medicare? Ask us what applies. General information, not medical advice.\n\n#MensHealth #ProstateHealth #ProstateMRI #SeminoleFL #StPete",
+    "facebook": "November is men's health month. Let's talk prostate. 💙\n\nIt starts with one question for your doctor: \"Should I have a PSA test?\"\n✔️ The American Cancer Society says start the talk at 50 for most men, 45 for Black men or if a father or brother had prostate cancer before 65, and 40 if more than one did\n✔️ Urologists (AUA) suggest 45 to 50, or 40 to 45 at higher risk; the U.S. task force calls screening at 55 to 69 a personal choice\n✔️ If your PSA comes back high, a prostate MRI can show whether a biopsy is needed, and where to look\n✔️ Our prostate MRI: $495 self-pay, PI-RADS report and OnQ AI risk map included, read by a board-certified radiologist\n✔️ About 45 minutes, no radiation, results to your urologist in 48 to 72 hours\n\nSelf-pay needs no referral. Using insurance? Your plan will need your doctor's order, and we verify benefits for free.\n\n📅 Learn more and book: https://www.advancedimg.com/lp/onq-prostate?utm_source=facebook&utm_medium=social&utm_campaign=mens-health-prostate-mri\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 St. Pete 3T MRI: 2201 Central Ave, Suite 100 · Seminole: 9555 Seminole Blvd, Suite 101\n\nKnow a guy who'd rather not ask? Share this with him.\n\nGuidelines differ, so decide with your doctor. Using Medicare? Ask us what applies. General information, not medical advice.\n\n#MensHealth #ProstateMRI #SeminoleFL",
+    "gbp": "November is men's health month, and a good time to ask your doctor one question: should I have a PSA test? The American Cancer Society says start that conversation at 50 for most men, at 45 for Black men or men whose father or brother had prostate cancer before 65, and at 40 if more than one close relative did. Urologists (AUA) suggest 45 to 50, or 40 to 45 at higher risk, and the U.S. Preventive Services Task Force calls screening at 55 to 69 a personal choice to make with your doctor. Guidelines differ, so decide together. If your PSA comes back high, a prostate MRI can help show whether a biopsy is needed and where to look; the AUA guideline says MRI may be used before a first biopsy. Advanced Medical Imaging offers prostate MRI with a PI-RADS report and the OnQ AI risk map, read by a board-certified radiologist, for $495 self-pay. It takes about 45 minutes, uses no radiation, and results go to your urologist in 48 to 72 hours. 3T MRI in St. Petersburg, 1.5T in Seminole. With insurance, a doctor's order is needed. Using Medicare? Ask us what applies.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A technologist stands beside a patient lying on an MRI table. November, men's health: let's talk prostate. It starts with one question.",
+      "When to ask about a PSA test: age 50 for most men (American Cancer Society); age 45 for Black men or with a father or brother diagnosed before 65, age 40 if more than one; 55 to 69 is a personal choice with your doctor (U.S. task force). Guidelines differ.",
+      "If your PSA comes back high: a PSA blood test is usually first; a prostate MRI can show whether a biopsy is needed and where to look; a PI-RADS score from 1 to 5 helps plan next steps.",
+      "Our prostate MRI: $495 self-pay with PI-RADS report and OnQ AI map; no radiation, about 45 minutes; 3T in St. Pete or 1.5T in Seminole; results to your urologist in 48 to 72 hours.",
+      "Before your prostate MRI: bring recent PSA results; tell us about implants or metal; your doctor may advise no ejaculation for 3 days before; arrive 15 minutes early.",
+      "Your health, your timing. Questions? Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A technologist stands beside a patient lying on an MRI table. Let's talk prostate: prostate MRI for $495 self-pay at Advanced Medical Imaging."
+  },
+  "facts_checked": "2026-11-05: USPSTF prostate cancer screening (final 2018: 55-69 Grade C individual decision; 70+ Grade D; update in progress, no draft posted); American Cancer Society screening recommendations (discussion at 50 average risk, 45 for African American men or father/brother diagnosed <65, 40 for more than one first-degree relative diagnosed early); AUA/SUO Early Detection of Prostate Cancer 2023 (Stmt 4 baseline PSA 45-50; Stmt 5 40-45 at increased risk; Stmt 13 MRI may be used before initial biopsy; Stmt 30 MRI should be obtained before repeat biopsy; Stmt 14 PI-RADS); U.S. FDA MRI benefits and risks (no ionizing radiation, implant screening). amiweb bbc2313: prices.ts onq $495 both centers; services-data.ts onq-prostate (about 45 min, PI-RADS 1-5, OnQ AI enhances not replaces the read, 48-72 h to urologist, prep: PSA results, implants, avoid ejaculation 3 days if advised, arrive 15 min early, self-pay no referral, insurance needs order).",
+  "flag": "Hook and Google photo service-mri.jpg is a website stock image (not AMI staff or patient), small source (768x512) so slightly soft when enlarged. Men 70+: USPSTF recommends against PSA screening; the post doesn't target them. Many men in this age range are on Medicare: cash-pay caveat still pending, so the post says 'ask us what applies'. 'Men's health month' used instead of the 'Movember' name (a charity's brand).",
+  "status": "awaiting approval",
+  "replaces": "2026-11-06-self-pay-price-list (on hold; Milind asked for new content)"
+}
