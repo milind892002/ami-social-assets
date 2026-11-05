@@ -174,5 +174,10 @@
   },
   "facts_checked": "No clinical claims (prices and booking logistics only), so no guideline search needed. amiweb main bbc2313, checked 2026-11-05: src/lib/prices.ts (MRI $295/$395 same price every scanner, both centers; CT $295/$395 Seminole; Routine Ultrasound $195; Screening mammogram 2D+3D $199; Bone Density $75; X-Ray $50 per body part; all non-MRI exams Seminole); pricing/page.tsx (radiologist read included, no separate fees, contrast/multi-region priced differently and confirmed before appointment, self-pay no referral with same-day physician review, insurance needs physician order, itemized receipt for HSA/FSA, free benefit verification); services/no-referral-mri (same-day review, no prior authorization delays); services-data.ts (results in 48 to 72 hours); locations/largo/page.tsx lists the same six prices; X-ray $50 now consistent site-wide (LpInlineForm shows $50).",
   "flag": "Hook photo is the real AMI team photo (also used Oct 24 and Nov 1). Medicare/Medicaid cash-pay caveat still pending; CTA says 'ask us what applies'. Leftover imports/2026-10-13-scarier-than-mri batch still in the repo (not touched).",
-  "status": "awaiting approval"
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHaDYK6WMA",
+    "gbp": "DAHaDXbyz-M",
+    "note": "Hook heading resized to 904px so it wraps; transaction 4180987580709346614 kept open for approval"
+  }
 }
