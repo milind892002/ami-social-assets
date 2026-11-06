@@ -6,7 +6,15 @@
   "slides": [
     {
       "type": "hook",
-      "photo": {"src": "service-dexa.jpg", "crop": [60, 0, 700, 507]},
+      "photo": {
+        "src": "service-dexa.jpg",
+        "crop": [
+          60,
+          0,
+          700,
+          507
+        ]
+      },
       "eyebrow": "November: diabetes awareness",
       "title": "Diabetes and your bones.",
       "title_accent": "A question worth asking."
@@ -41,10 +49,22 @@
       "eyebrow": "Our DEXA bone density scan",
       "title": "Quick and simple.",
       "cards": [
-        ["$75", "self-pay, radiologist reading included"],
-        ["10 min", "on the table, fully clothed"],
-        ["No needles", "no tunnel, nothing closes around you"],
-        ["48 to 72 hrs", "results to your doctor"]
+        [
+          "$75",
+          "self-pay, radiologist reading included"
+        ],
+        [
+          "10 min",
+          "on the table, fully clothed"
+        ],
+        [
+          "No needles",
+          "no tunnel, nothing closes around you"
+        ],
+        [
+          "48 to 72 hrs",
+          "results to your doctor"
+        ]
       ],
       "footnote": "Seminole location. No referral needed for self-pay. With insurance, a doctor&#39;s order is needed."
     },
@@ -58,7 +78,15 @@
     }
   ],
   "gbp": {
-    "photo": {"src": "service-dexa.jpg", "crop": [40, 0, 716, 507]},
+    "photo": {
+      "src": "service-dexa.jpg",
+      "crop": [
+        40,
+        0,
+        716,
+        507
+      ]
+    },
     "eyebrow": "November: diabetes awareness",
     "title": "Diabetes and your bones.",
     "title_accent": "DEXA scan, $75 self-pay.",
@@ -82,5 +110,10 @@
   },
   "facts_checked": "2026-11-06: NIH/NIDDK Diabetes in America 3rd ed., ch. 32 Bone and Joint Complications in Diabetes (Schwartz & Lane; abstract: type 2 diabetes, in spite of average or higher BMD, hip fracture risk up about 70%, non-spine about 20%; type 1 about sevenfold hip fracture risk; more frequent falls contribute; prevention via falls reduction, physical activity, nutrition; BMD-based methods tend to underestimate risk in T2D). USPSTF osteoporosis screening final 2025 (women 65+; postmenopausal <65 at increased risk; men insufficient). amiweb 695772f: prices.ts dexa $75 Seminole; services-data.ts dexa (about 10 min fully clothed, results 48-72 h, self-pay no referral, insurance needs order).",
   "flag": "Hook and Google photo service-dexa.jpg is a website stock image (not AMI staff or patient). Diabetes source is NIH's Diabetes in America chapter (finalized 2016), the most authoritative US summary found; 'American Diabetes Month' is an ADA trademark, so the post says 'diabetes awareness month'. Many readers will be on Medicare: post says 'ask us what applies'. Website DEXA FAQ says 'women 65+ and men 70+ should get a baseline DEXA'; USPSTF 2025 finds evidence insufficient for men (Endocrine/BHOF advise 70+), so the website wording may need a 'guidelines differ' note. Facebook link uses /schedule (the DEXA landing page is body-composition focused).",
-  "status": "awaiting approval"
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHaJb4qF1A",
+    "gbp": "DAHaJXFald4",
+    "note": "Hook heading resized to 904px so it wraps; transaction 3521210338441803968 held open until approval"
+  }
 }
