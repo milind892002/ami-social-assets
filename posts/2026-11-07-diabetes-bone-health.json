@@ -1,0 +1,86 @@
+{
+  "slug": "2026-11-07-diabetes-bone-health",
+  "title": "Awareness: November diabetes awareness, diabetes and your bones (DEXA)",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {"src": "service-dexa.jpg", "crop": [60, 0, 700, 507]},
+      "eyebrow": "November: diabetes awareness",
+      "title": "Diabetes and your bones.",
+      "title_accent": "A question worth asking."
+    },
+    {
+      "type": "stat",
+      "eyebrow": "Why it matters",
+      "title": "Bone density can look normal, and risk can still be higher.",
+      "stat": "~70%",
+      "stat_caption": "higher hip fracture risk with type 2 diabetes, even with average or higher bone density.",
+      "card": {
+        "label": "What helps",
+        "title": "Fall prevention, staying active and good nutrition",
+        "body": "Your doctor can weigh your bone density along with your other risk factors."
+      },
+      "source": "Source: NIH (NIDDK), Diabetes in America, 3rd ed., ch. 32. Type 1 diabetes also raises hip fracture risk."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "4 bone questions for your next visit",
+      "items": [
+        "Does my diabetes raise my fracture risk?",
+        "Should I have a bone density (DEXA) scan, and how often?",
+        "Could any of my medicines affect my bones?",
+        "What can I do to lower my risk of falls?"
+      ],
+      "footnote": "Guidelines differ. USPSTF 2025: screen women 65+ and younger women after menopause with risk factors; for men, evidence is insufficient."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Our DEXA bone density scan",
+      "title": "Quick and simple.",
+      "cards": [
+        ["$75", "self-pay, radiologist reading included"],
+        ["10 min", "on the table, fully clothed"],
+        ["No needles", "no tunnel, nothing closes around you"],
+        ["48 to 72 hrs", "results to your doctor"]
+      ],
+      "footnote": "Seminole location. No referral needed for self-pay. With insurance, a doctor&#39;s order is needed."
+    },
+    {
+      "type": "cta",
+      "title": "Strong bones, steady steps.",
+      "title_accent": "Questions? Call us.",
+      "share": "Send this to someone managing diabetes.",
+      "disclaimer": "General information, not medical advice. Self-pay $75 as of November 2026. With insurance, a doctor&#39;s order is needed. Using Medicare? Ask us what applies.",
+      "title_size": 72
+    }
+  ],
+  "gbp": {
+    "photo": {"src": "service-dexa.jpg", "crop": [40, 0, 716, 507]},
+    "eyebrow": "November: diabetes awareness",
+    "title": "Diabetes and your bones.",
+    "title_accent": "DEXA scan, $75 self-pay.",
+    "sub": "About 10 minutes, fully clothed, radiologist reading included. Seminole.",
+    "button": "Book at advancedimg.com"
+  },
+  "captions": {
+    "instagram": "November is diabetes awareness month. Here's a question many people never think to ask: what about my bones? 💙\n\n✔️ With type 2 diabetes, hip fracture risk is about 70% higher, even when bone density looks average or high (NIH)\n✔️ Type 1 diabetes raises hip fracture risk too\n✔️ Falls play a part, so fall prevention, staying active and good nutrition all help\n✔️ Ask your doctor: should I have a bone density (DEXA) scan, and how often?\n✔️ Our DEXA bone density scan: $75 self-pay, radiologist reading included, about 10 minutes, fully clothed\n\n📌 Save the 4 questions for your next visit.\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone managing diabetes? Send this to them.\n\nGuidelines differ, so decide with your doctor. With insurance, a doctor's order is needed. Using Medicare? Ask us what applies. General information, not medical advice.\n\n#DiabetesAwareness #BoneDensity #DEXAScan #SeminoleFL #PinellasCounty",
+    "facebook": "November is diabetes awareness month. Here's a question many people never think to ask: what about my bones? 💙\n\n✔️ With type 2 diabetes, hip fracture risk is about 70% higher, even when bone density looks average or high (NIH, Diabetes in America)\n✔️ Type 1 diabetes raises hip fracture risk too\n✔️ Falls play a part, so fall prevention, staying active and good nutrition all help\n✔️ Four questions for your next visit: Does my diabetes raise my fracture risk? Should I have a bone density (DEXA) scan, and how often? Could any of my medicines affect my bones? What can I do to lower my risk of falls?\n✔️ Our DEXA bone density scan: $75 self-pay, radiologist reading included, about 10 minutes, fully clothed, results to your doctor in 48 to 72 hours\n\nSelf-pay needs no referral. Using insurance? Your plan will need your doctor's order.\n\n📅 Book online: https://www.advancedimg.com/schedule?utm_source=facebook&utm_medium=social&utm_campaign=diabetes-bone-health\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 9555 Seminole Blvd, Suite 101, Seminole\n\nKnow someone managing diabetes? Share this with them.\n\nGuidelines differ (USPSTF 2025 recommends screening for women 65+ and younger women after menopause with risk factors; for men, evidence is insufficient), so decide with your doctor. Using Medicare? Ask us what applies. General information, not medical advice.\n\n#DiabetesAwareness #BoneDensity #SeminoleFL",
+    "gbp": "November is diabetes awareness month, and a good time to ask your doctor about your bones. According to the NIH's Diabetes in America, people with type 2 diabetes have about a 70% higher risk of hip fracture, even when their bone density is average or higher, and type 1 diabetes raises hip fracture risk too. Falls play a part, so fall prevention, staying active and good nutrition all help. Questions worth asking at your next visit: Does my diabetes raise my fracture risk? Should I have a bone density (DEXA) scan, and how often? Could any of my medicines affect my bones? What can I do to lower my risk of falls? Screening guidelines differ: the U.S. Preventive Services Task Force recommends screening for women 65 and older and younger women after menopause with risk factors, and finds the evidence insufficient for men, so decide with your doctor. Advanced Medical Imaging in Seminole offers DEXA bone density scans for $75 self-pay, radiologist reading included. The scan takes about 10 minutes, fully clothed, and results go to your doctor in 48 to 72 hours. With insurance, a doctor's order is needed. Using Medicare? Ask us what applies.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A technologist looks at a DEXA bone density image on a monitor beside the scanner table. November, diabetes awareness: diabetes and your bones, a question worth asking.",
+      "About 70% higher hip fracture risk with type 2 diabetes, even with average or higher bone density. What helps: fall prevention, staying active and good nutrition. Source: NIH, Diabetes in America.",
+      "4 bone questions for your next visit: Does my diabetes raise my fracture risk? Should I have a DEXA scan, and how often? Could any of my medicines affect my bones? What can I do to lower my risk of falls?",
+      "Our DEXA bone density scan: $75 self-pay with radiologist reading; about 10 minutes, fully clothed; no needles, no tunnel; results to your doctor in 48 to 72 hours.",
+      "Strong bones, steady steps. Questions? Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A technologist looks at a DEXA bone density image on a monitor beside the scanner table. Diabetes and your bones: DEXA bone density scan for $75 self-pay at Advanced Medical Imaging."
+  },
+  "facts_checked": "2026-11-06: NIH/NIDDK Diabetes in America 3rd ed., ch. 32 Bone and Joint Complications in Diabetes (Schwartz & Lane; abstract: type 2 diabetes, in spite of average or higher BMD, hip fracture risk up about 70%, non-spine about 20%; type 1 about sevenfold hip fracture risk; more frequent falls contribute; prevention via falls reduction, physical activity, nutrition; BMD-based methods tend to underestimate risk in T2D). USPSTF osteoporosis screening final 2025 (women 65+; postmenopausal <65 at increased risk; men insufficient). amiweb 695772f: prices.ts dexa $75 Seminole; services-data.ts dexa (about 10 min fully clothed, results 48-72 h, self-pay no referral, insurance needs order).",
+  "flag": "Hook and Google photo service-dexa.jpg is a website stock image (not AMI staff or patient). Diabetes source is NIH's Diabetes in America chapter (finalized 2016), the most authoritative US summary found; 'American Diabetes Month' is an ADA trademark, so the post says 'diabetes awareness month'. Many readers will be on Medicare: post says 'ask us what applies'. Website DEXA FAQ says 'women 65+ and men 70+ should get a baseline DEXA'; USPSTF 2025 finds evidence insufficient for men (Endocrine/BHOF advise 70+), so the website wording may need a 'guidelines differ' note. Facebook link uses /schedule (the DEXA landing page is body-composition focused).",
+  "status": "awaiting approval"
+}
