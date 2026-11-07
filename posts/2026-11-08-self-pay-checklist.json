@@ -1,0 +1,96 @@
+{
+  "slug": "2026-11-08-self-pay-checklist",
+  "title": "Save-worthy: what to have ready for a self-pay scan",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {"src": "hero-radiologist-patient.jpg", "crop": [560, 0, 1536, 813]},
+      "eyebrow": "Save this for your next scan",
+      "title": "Paying for a scan yourself?",
+      "title_accent": "Have these 4 things ready."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before you book:",
+      "items": [
+        "The body area you need scanned.",
+        "Your symptoms, in a sentence or two.",
+        "Any implants, devices or metal in your body.",
+        "Your doctor&#39;s name, if you want the report sent."
+      ],
+      "footnote": "Implants and devices matter for MRI safety, so we ask about them before every MRI. Source: FDA, MRI safety."
+    },
+    {
+      "type": "list",
+      "eyebrow": "On scan day",
+      "title": "Bring with you:",
+      "items": [
+        "A photo ID.",
+        "Your HSA or FSA card, if you have one.",
+        "CDs or reports from scans you had elsewhere.",
+        "Arrive 15 minutes early to check in."
+      ],
+      "footnote": "Forms can be filled in online before your visit to save time."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "How self-pay works",
+      "title": "No referral. No prior authorization.",
+      "steps": [
+        ["Request online or call", "Tell us the body area and what&#39;s going on."],
+        ["Same-day physician review", "Our physician checks the right exam and safety."],
+        ["Get your scan", "Same-day often available. A radiologist reads it."]
+      ],
+      "footnote": "Self-pay, no outside referral needed. If your symptoms need urgent care, we&#39;ll tell you."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "One price, up front",
+      "title": "Know what you&#39;ll pay.",
+      "cards": [
+        ["$295", "MRI, radiologist&#39;s reading included."],
+        ["$0", "facility fees. No surprise bills later."],
+        ["HSA/FSA", "cards accepted."],
+        ["Insurance", "accepted too, with a doctor&#39;s order."]
+      ],
+      "footnote": "MRI without contrast, one body area; $395 with and without contrast. Self-pay prices as of November 2026."
+    },
+    {
+      "type": "cta",
+      "title": "Ready when you are.",
+      "title_accent": "Request your scan today.",
+      "share": "Send this to someone tired of waiting on a scan.",
+      "disclaimer": "General information, not medical advice. Self-pay prices as of November 2026. Using Medicare or Medicaid? Ask us what applies."
+    }
+  ],
+  "gbp": {
+    "photo": {"src": "facility/reception.jpg", "crop": [0, 0, 1600, 1200]},
+    "eyebrow": "Paying for a scan yourself?",
+    "title": "Have these ready.",
+    "title_accent": "We&#39;ll handle the rest.",
+    "sub": "No referral or prior authorization for self-pay. MRI $295, reading included.",
+    "button": "Book at advancedimg.com"
+  },
+  "captions": {
+    "instagram": "Paying for a scan yourself? Save this so you have everything ready. 📌\n\nBefore you book:\n✔️ The body area you need scanned\n✔️ Your symptoms, in a sentence or two\n✔️ Any implants, devices or metal in your body (it matters for MRI safety)\n✔️ Your doctor's name, if you want the report sent to them\n\nOn scan day: a photo ID, your HSA/FSA card, and CDs or reports from scans you had elsewhere.\n\nWith self-pay at AMI there's no outside referral and no prior authorization. Our physician reviews your request the same day, and same-day appointments are often available. MRI is $295 with the radiologist's reading included and no facility fees. Insurance accepted too.\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone stuck waiting on a scan? Send this to them.\n\nGeneral information, not medical advice.\n\n#HealthcareCosts #MRI #MedicalImaging #SeminoleFL #PinellasCounty",
+    "facebook": "Paying for a scan yourself? Save this so you have everything ready. 📌\n\nBefore you book:\n✔️ The body area you need scanned\n✔️ Your symptoms, in a sentence or two\n✔️ Any implants, devices or metal in your body (it matters for MRI safety)\n✔️ Your doctor's name, if you want the report sent to them\n\nOn scan day, bring:\n✔️ A photo ID\n✔️ Your HSA or FSA card, if you have one\n✔️ CDs or reports from scans you had elsewhere\n✔️ Arrive 15 minutes early to check in\n\nHow self-pay works at AMI: request online or call, our physician reviews your request the same day, and same-day appointments are often available. No outside referral and no prior authorization. A self-pay MRI is $295 ($395 with and without contrast), with the radiologist's reading included and no facility fees. HSA/FSA cards accepted. Insurance is accepted too (a doctor's order is required).\n\n📅 Book online: https://www.advancedimg.com/lp/imaging-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=self-pay-checklist\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 Seminole and St. Petersburg\n\nKnow someone stuck waiting on a scan? Share this with them.\n\nGeneral information, not medical advice. Self-pay prices as of November 2026. Using Medicare or Medicaid? Ask us what applies.",
+    "gbp": "Paying for a scan yourself? Have these ready before you book: the body area you need scanned, a sentence or two about your symptoms, any implants, devices or metal in your body (important for MRI safety), and your doctor's name if you want the report sent to them. On scan day, bring a photo ID, your HSA or FSA card, and any CDs or reports from scans you had elsewhere, and arrive 15 minutes early. At Advanced Medical Imaging in Seminole and St. Petersburg, self-pay patients need no outside referral and no prior authorization. Our physician reviews requests the same day, and same-day appointments are often available. A self-pay MRI is $295 ($395 with and without contrast), radiologist's reading included, with no facility fees. HSA/FSA and insurance accepted.\n\nBook online at advancedimg.com. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A clinician in teal scrubs shows a woman an MRI image on a tablet. Save this for your next scan: paying for a scan yourself? Have these 4 things ready.",
+      "Save this. Before you book: the body area you need scanned; your symptoms, in a sentence or two; any implants, devices or metal in your body; your doctor's name, if you want the report sent.",
+      "On scan day, bring with you: a photo ID; your HSA or FSA card, if you have one; CDs or reports from scans you had elsewhere. Arrive 15 minutes early to check in.",
+      "How self-pay works. No referral, no prior authorization. 1, request online or call. 2, same-day physician review. 3, get your scan; same-day often available and a radiologist reads it.",
+      "One price, up front: MRI $295 with the radiologist's reading included; $0 facility fees; HSA/FSA cards accepted; insurance accepted too, with a doctor's order.",
+      "Ready when you are. Request your scan today. Call (727) 398-5999 or book through the link in our bio."
+    ],
+    "gbp": "The front desk at Advanced Medical Imaging. Paying for a scan yourself? Have these ready. We'll handle the rest."
+  },
+  "facts_checked": "Checked 2026-11-07. FDA MRI safety page: patients should tell staff about implants, devices and metal before MRI. Practice facts from amiweb origin/main cf6e4d6: prices.ts (mri $295, mriContrast $395); services/no-referral-mri/page.tsx (self-pay no referral, same-day physician review, same-day often available, safety screening for implants, urgent symptoms redirected, report shared with physician, avoid prior authorization); patient-resources/page.tsx (bring photo ID and prior imaging CDs); schedule/page.tsx (arrive 15 minutes early); patient-forms/page.tsx (forms online); mri-cost-florida (no facility fees, HSA/FSA, insurance needs physician's order); constants.ts phone and hours.",
+  "flag": "Hook photo (hero-radiologist-patient.jpg) is website stock and has been used 4+ times recently; not described as our team. Medicare/Medicaid cash-pay caveat still pending. Leftover imports/2026-10-13-scarier-than-mri batch still in the repo (not touched).",
+  "status": "awaiting approval"
+}
