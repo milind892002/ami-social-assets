@@ -6,7 +6,15 @@
   "slides": [
     {
       "type": "hook",
-      "photo": {"src": "hero-radiologist-patient.jpg", "crop": [560, 0, 1536, 813]},
+      "photo": {
+        "src": "hero-radiologist-patient.jpg",
+        "crop": [
+          560,
+          0,
+          1536,
+          813
+        ]
+      },
       "eyebrow": "Save this for your next scan",
       "title": "Paying for a scan yourself?",
       "title_accent": "Have these 4 things ready."
@@ -40,9 +48,18 @@
       "eyebrow": "How self-pay works",
       "title": "No referral. No prior authorization.",
       "steps": [
-        ["Request online or call", "Tell us the body area and what&#39;s going on."],
-        ["Same-day physician review", "Our physician checks the right exam and safety."],
-        ["Get your scan", "Same-day often available. A radiologist reads it."]
+        [
+          "Request online or call",
+          "Tell us the body area and what&#39;s going on."
+        ],
+        [
+          "Same-day physician review",
+          "Our physician checks the right exam and safety."
+        ],
+        [
+          "Get your scan",
+          "Same-day often available. A radiologist reads it."
+        ]
       ],
       "footnote": "Self-pay, no outside referral needed. If your symptoms need urgent care, we&#39;ll tell you."
     },
@@ -51,10 +68,22 @@
       "eyebrow": "One price, up front",
       "title": "Know what you&#39;ll pay.",
       "cards": [
-        ["$295", "MRI, radiologist&#39;s reading included."],
-        ["$0", "facility fees. No surprise bills later."],
-        ["HSA/FSA", "cards accepted."],
-        ["Insurance", "accepted too, with a doctor&#39;s order."]
+        [
+          "$295",
+          "MRI, radiologist&#39;s reading included."
+        ],
+        [
+          "$0",
+          "facility fees. No surprise bills later."
+        ],
+        [
+          "HSA/FSA",
+          "cards accepted."
+        ],
+        [
+          "Insurance",
+          "accepted too, with a doctor&#39;s order."
+        ]
       ],
       "footnote": "MRI without contrast, one body area; $395 with and without contrast. Self-pay prices as of November 2026."
     },
@@ -67,7 +96,15 @@
     }
   ],
   "gbp": {
-    "photo": {"src": "facility/reception.jpg", "crop": [0, 0, 1600, 1200]},
+    "photo": {
+      "src": "facility/reception.jpg",
+      "crop": [
+        0,
+        0,
+        1600,
+        1200
+      ]
+    },
     "eyebrow": "Paying for a scan yourself?",
     "title": "Have these ready.",
     "title_accent": "We&#39;ll handle the rest.",
@@ -92,5 +129,10 @@
   },
   "facts_checked": "Checked 2026-11-07. FDA MRI safety page: patients should tell staff about implants, devices and metal before MRI. Practice facts from amiweb origin/main cf6e4d6: prices.ts (mri $295, mriContrast $395); services/no-referral-mri/page.tsx (self-pay no referral, same-day physician review, same-day often available, safety screening for implants, urgent symptoms redirected, report shared with physician, avoid prior authorization); patient-resources/page.tsx (bring photo ID and prior imaging CDs); schedule/page.tsx (arrive 15 minutes early); patient-forms/page.tsx (forms online); mri-cost-florida (no facility fees, HSA/FSA, insurance needs physician's order); constants.ts phone and hours.",
   "flag": "Hook photo (hero-radiologist-patient.jpg) is website stock and has been used 4+ times recently; not described as our team. Medicare/Medicaid cash-pay caveat still pending. Leftover imports/2026-10-13-scarier-than-mri batch still in the repo (not touched).",
-  "status": "awaiting approval"
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHaPDrYpRI",
+    "gbp": "DAHaPNGr9nc",
+    "note": "Hook headline resized to 904px in Canva transaction 5027664517346925655 (open, to commit on approval)."
+  }
 }
