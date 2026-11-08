@@ -6,7 +6,15 @@
   "slides": [
     {
       "type": "hook",
-      "photo": {"src": "service-coronary-cta.jpg", "crop": [180, 0, 999, 1024]},
+      "photo": {
+        "src": "service-coronary-cta.jpg",
+        "crop": [
+          180,
+          0,
+          999,
+          1024
+        ]
+      },
       "eyebrow": "What to expect: coronary CTA",
       "title": "A clear look at your heart&#39;s arteries.",
       "title_accent": "The scan takes seconds.",
@@ -29,9 +37,18 @@
       "eyebrow": "What to expect",
       "title": "How your visit goes.",
       "steps": [
-        ["Get ready", "A small IV for contrast, and stickers on your chest to time the scan to your heartbeat."],
-        ["Slow and steady", "If your heart is beating fast, you may get a medicine to slow it for sharper pictures."],
-        ["The scan", "Hold your breath for a few seconds. About 45 minutes start to finish."]
+        [
+          "Get ready",
+          "A small IV for contrast, and stickers on your chest to time the scan to your heartbeat."
+        ],
+        [
+          "Slow and steady",
+          "If your heart is beating fast, you may get a medicine to slow it for sharper pictures."
+        ],
+        [
+          "The scan",
+          "Hold your breath for a few seconds. About 45 minutes start to finish."
+        ]
       ],
       "footnote": "Sources: NIH MedlinePlus; ACR/RSNA RadiologyInfo."
     },
@@ -52,10 +69,22 @@
       "eyebrow": "Booking is easy",
       "title": "Simple to book in Seminole.",
       "cards": [
-        ["$395", "self-pay, radiologist&#39;s reading included"],
-        ["No referral", "needed for self-pay"],
-        ["Within days", "usually, for an appointment"],
-        ["48&ndash;72 hrs", "for your report"]
+        [
+          "$395",
+          "self-pay, radiologist&#39;s reading included"
+        ],
+        [
+          "No referral",
+          "needed for self-pay"
+        ],
+        [
+          "Within days",
+          "usually, for an appointment"
+        ],
+        [
+          "48&ndash;72 hrs",
+          "for your report"
+        ]
       ],
       "footnote": "Add Cleerly AI plaque analysis: $1,399 self-pay. With insurance, a doctor&#39;s order is needed and we check your benefits first. HSA/FSA receipts available."
     },
@@ -68,7 +97,15 @@
     }
   ],
   "gbp": {
-    "photo": {"src": "service-coronary-cta.jpg", "crop": [150, 0, 1515, 1024]},
+    "photo": {
+      "src": "service-coronary-cta.jpg",
+      "crop": [
+        150,
+        0,
+        1515,
+        1024
+      ]
+    },
     "eyebrow": "What to expect: coronary CT angiogram",
     "title": "A clear look at your heart&#39;s arteries.",
     "title_accent": "The scan takes seconds.",
@@ -91,5 +128,11 @@
     "gbp": "A doctor reviews a 3D heart image while a patient lies on a CT scanner. Coronary CTA in Seminole, $395 self-pay, no referral needed."
   },
   "facts_checked": "amiweb src/lib/services-data.ts coronary-cta (prep: caffeine 24 h, heavy meals 4 h, ED meds 24-48 h, continue heart meds; IV, EKG gating, heart-rate medicine, breath hold, ~45 min, 48-72 h report, self-pay no referral, usually within a few days), src/lib/prices.ts (ccta $395, cleerly $1,399, Seminole only), src/app/lp/coronary-cta-heart-scan/page.tsx (not same-day), lp HSA/FSA itemized receipt; 2026-11-08. Clinical check 2026-11-08: RadiologyInfo angiocoroct (reviewed 2026-06-15: avoid caffeine and Viagra-type meds, fasting several hours, tell staff about allergy/pregnancy) and MedlinePlus 007344 (heart-rate medicine, breath hold, warm flush/metallic taste normal, tell about kidney problems, metformin).",
-  "status": "awaiting approval"
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHaVYbY2nI",
+    "gbp": "DAHaVTI6lcU",
+    "open_transaction": "2963890091924911387 (page 1 hook heading resized to 904 px so it wraps; commit on approval)"
+  },
+  "flag": "Hook photo is a website stock/AI image (not real AMI staff). Heart topic: calcium score $99 post ran Oct 30 (different exam)."
 }
