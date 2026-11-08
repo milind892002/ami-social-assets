@@ -1,0 +1,95 @@
+{
+  "slug": "2026-11-09-coronary-cta-what-to-expect",
+  "title": "What to expect: coronary CT angiogram",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {"src": "service-coronary-cta.jpg", "crop": [180, 0, 999, 1024]},
+      "eyebrow": "What to expect: coronary CTA",
+      "title": "A clear look at your heart&#39;s arteries.",
+      "title_accent": "The scan takes seconds.",
+      "title_size": 72
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before your heart CT",
+      "items": [
+        "Skip caffeine for 24 hours: coffee, tea, soda, energy drinks.",
+        "No heavy meal for 4 hours. Clear liquids are usually fine.",
+        "Keep taking your heart medicines unless we tell you otherwise.",
+        "Take Viagra, Cialis or similar? Skip it 24 to 48 hours before, and tell us."
+      ],
+      "footnote": "Sources: ACR/RSNA RadiologyInfo; NIH MedlinePlus. Follow the prep we give you when you book."
+    },
+    {
+      "type": "steps",
+      "eyebrow": "What to expect",
+      "title": "How your visit goes.",
+      "steps": [
+        ["Get ready", "A small IV for contrast, and stickers on your chest to time the scan to your heartbeat."],
+        ["Slow and steady", "If your heart is beating fast, you may get a medicine to slow it for sharper pictures."],
+        ["The scan", "Hold your breath for a few seconds. About 45 minutes start to finish."]
+      ],
+      "footnote": "Sources: NIH MedlinePlus; ACR/RSNA RadiologyInfo."
+    },
+    {
+      "type": "list",
+      "eyebrow": "What it feels like",
+      "title": "Quick and normal.",
+      "items": [
+        "A brief warm, flushed feeling as the contrast goes in.",
+        "Maybe a metallic taste. It fades in seconds.",
+        "A short, open ring, not a long tunnel.",
+        "Back to your usual day right after."
+      ],
+      "footnote": "Tell us about a contrast allergy, kidney problems, diabetes or pregnancy. Source: NIH MedlinePlus."
+    },
+    {
+      "type": "cards",
+      "eyebrow": "Booking is easy",
+      "title": "Simple to book in Seminole.",
+      "cards": [
+        ["$395", "self-pay, radiologist&#39;s reading included"],
+        ["No referral", "needed for self-pay"],
+        ["Within days", "usually, for an appointment"],
+        ["48&ndash;72 hrs", "for your report"]
+      ],
+      "footnote": "Add Cleerly AI plaque analysis: $1,399 self-pay. With insurance, a doctor&#39;s order is needed and we check your benefits first. HSA/FSA receipts available."
+    },
+    {
+      "type": "cta",
+      "title": "See your arteries, not just a number.",
+      "title_accent": "Book your heart CT.",
+      "share": "Send this to someone with a heart CT coming up.",
+      "disclaimer": "General information, not medical advice. Chest pain now? Call 911. Self-pay prices as of November 2026. Using Medicare or Medicaid? Ask us what applies."
+    }
+  ],
+  "gbp": {
+    "photo": {"src": "service-coronary-cta.jpg", "crop": [150, 0, 1515, 1024]},
+    "eyebrow": "What to expect: coronary CT angiogram",
+    "title": "A clear look at your heart&#39;s arteries.",
+    "title_accent": "The scan takes seconds.",
+    "sub": "Coronary CTA in Seminole. $395 self-pay, no referral needed."
+  },
+  "captions": {
+    "instagram": "Have a heart CT (coronary CT angiogram) coming up? Here's what to expect. 💙\n\n✔️ Skip caffeine for 24 hours and heavy meals for 4 hours before\n✔️ A small IV, plus stickers on your chest to time the scan to your heartbeat\n✔️ If your heart is racing, you may get medicine to slow it for sharper pictures\n✔️ The scan itself takes seconds: just hold your breath\n✔️ A warm, flushed feeling or metallic taste from the contrast is normal and fades fast\n\n📅 Book through the link in our bio or call (727) 398-5999. Self-pay coronary CTA is $395 with the radiologist's reading included, no referral needed, usually within a few days.\n\nSend this to someone with a heart CT coming up. 💾 Save it for scan day.\n\nChest pain now? Call 911. General information, not medical advice.\n\n#HeartHealth #CardiacCT #MedicalImaging #SeminoleFL #PinellasCounty",
+    "facebook": "Have a heart CT (coronary CT angiogram) coming up? Here's what to expect. 💙\n\n✔️ Skip caffeine for 24 hours and heavy meals for 4 hours before\n✔️ A small IV, plus stickers on your chest to time the scan to your heartbeat\n✔️ If your heart is racing, you may get medicine to slow it for sharper pictures\n✔️ The scan itself takes seconds: just hold your breath\n✔️ A warm, flushed feeling or metallic taste from the contrast is normal and fades fast\n\nSelf-pay coronary CT angiography is $395, read by a board-certified radiologist, or $1,399 with Cleerly AI plaque analysis. No referral needed for self-pay, and appointments are usually available within a few days in Seminole. Using insurance? A doctor's order is needed, and we check your benefits before your visit.\n\n📅 Book online: https://www.advancedimg.com/lp/coronary-cta-heart-scan?utm_source=facebook&utm_medium=social&utm_campaign=coronary-cta-what-to-expect\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 9555 Seminole Blvd, Suite 101, Seminole\n\nSend this to someone with a heart CT coming up.\n\nChest pain now? Call 911. General information, not medical advice. Self-pay prices as of November 2026.\n\n#HeartHealth #SeminoleFL",
+    "gbp": "Have a coronary CT angiogram (heart CT) coming up? Here's what to expect at Advanced Medical Imaging in Seminole. Skip caffeine for 24 hours and avoid a heavy meal for 4 hours before; clear liquids are usually fine, and keep taking your heart medicines unless we tell you otherwise. If you take Viagra, Cialis or a similar medicine, skip it for 24 to 48 hours before and let us know. At your visit, a small IV is placed for contrast and stickers on your chest time the scan to your heartbeat. If your heart rate is fast, you may be given medicine to slow it for sharper pictures. The scan itself takes seconds while you hold your breath, and the whole visit is about 45 minutes. A warm, flushed feeling or a metallic taste from the contrast is normal and fades quickly. Tell us about any contrast allergy, kidney problems, diabetes or pregnancy. Self-pay coronary CTA is $395 with the radiologist's reading included, no referral needed, and appointments are usually available within a few days.\n\nBook online at advancedimg.com. Chest pain now? Call 911. General information, not medical advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "A doctor reviews a 3D image of the heart and its arteries on a monitor while a technologist prepares a patient on a CT scanner. A clear look at your heart's arteries. The scan takes seconds.",
+      "Before your heart CT: skip caffeine for 24 hours; no heavy meal for 4 hours, clear liquids are usually fine; keep taking your heart medicines unless told otherwise; if you take Viagra, Cialis or similar, skip it 24 to 48 hours before and tell us.",
+      "How your visit goes: a small IV for contrast and chest stickers to time the scan to your heartbeat; if your heart is beating fast, medicine to slow it; hold your breath for a few seconds, about 45 minutes start to finish.",
+      "What it feels like: a brief warm, flushed feeling from the contrast; maybe a metallic taste that fades in seconds; a short, open ring, not a long tunnel; back to your usual day right after.",
+      "Simple to book in Seminole: $395 self-pay with the radiologist's reading included, no referral needed for self-pay, appointments usually within days, report in 48 to 72 hours.",
+      "See your arteries, not just a number. Book your heart CT. Call (727) 398-5999 or use the link in bio."
+    ],
+    "gbp": "A doctor reviews a 3D heart image while a patient lies on a CT scanner. Coronary CTA in Seminole, $395 self-pay, no referral needed."
+  },
+  "facts_checked": "amiweb src/lib/services-data.ts coronary-cta (prep: caffeine 24 h, heavy meals 4 h, ED meds 24-48 h, continue heart meds; IV, EKG gating, heart-rate medicine, breath hold, ~45 min, 48-72 h report, self-pay no referral, usually within a few days), src/lib/prices.ts (ccta $395, cleerly $1,399, Seminole only), src/app/lp/coronary-cta-heart-scan/page.tsx (not same-day), lp HSA/FSA itemized receipt; 2026-11-08. Clinical check 2026-11-08: RadiologyInfo angiocoroct (reviewed 2026-06-15: avoid caffeine and Viagra-type meds, fasting several hours, tell staff about allergy/pregnancy) and MedlinePlus 007344 (heart-rate medicine, breath hold, warm flush/metallic taste normal, tell about kidney problems, metformin).",
+  "status": "awaiting approval"
+}
