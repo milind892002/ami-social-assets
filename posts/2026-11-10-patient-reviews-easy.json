@@ -96,5 +96,10 @@
   "reviews_verified": "All three quotes checked verbatim against the live Google Business Profile via Windsor.ai on 2026-11-09 (Gabriella Estrada 2026-05-27, James White 2026-09-18, Gavin H 2026-08-20). Gabriella E. trimmed after 'clearly' (facility and recommendation lines). None used in earlier posts. Skipped the Sep 4 and Oct 29-31 clusters (see flag).",
   "facts_checked": "Checked 2026-11-09 on amiweb main (cf6e4d6): prices.ts mri $295 (radiologist reading always included); services/no-referral-mri (self-pay needs no referral, physician reviews request the same day, same-day appointments often available for self-pay). No clinical claims in this post.",
   "status": "awaiting approval",
-  "flag": "Still open from Nov 3: Oct 29-31 cluster of five-star reviews praising Lissette (one by Maria Dorsey) not used. The Sep 4 cluster (5 reviews in about 3.5 hours, incl. Sean Dorsey and two praising Lissette) also skipped for the same reason. New Nov 4 five-star review (Bill R., praising Bailey) has no reply yet."
+  "flag": "Still open from Nov 3: Oct 29-31 cluster of five-star reviews praising Lissette (one by Maria Dorsey) not used. The Sep 4 cluster (5 reviews in about 3.5 hours, incl. Sean Dorsey and two praising Lissette) also skipped for the same reason. New Nov 4 five-star review (Bill R., praising Bailey) has no reply yet.",
+  "canva": {
+    "carousel": "DAHabV82otQ",
+    "gbp": "DAHabSN4dBg",
+    "open_transaction": "4812617840668099489 (page 1 hook heading resized to 904 px so it wraps; commit on approval)"
+  }
 }
