@@ -116,5 +116,10 @@
   },
   "facts_checked": "Checked 2026-11-10. HealthCare.gov glossary 'Deductible' (read in full): 'The amount you pay for covered health care services before your insurance plan starts to pay'; Marketplace plans pay certain preventive benefits before the deductible; 'Many plans pay for certain services ... before you've met your deductible. Check your plan details.' Practice facts from amiweb origin/main 6756d1c: prices.ts (mri $295, mriContrast $395 both centers; ct $295, ctContrast $395 Seminole; ultrasound $195 Seminole); mri-cost-florida/page.tsx (typical FL hospital MRI $1,200-$3,500 incl. facility fees, representative not a quote; FAQ 'Is self-pay cheaper than using my insurance and paying my deductible? Very often, yes'; self-pay with a doctor's order allowed, results sent to doctor; HSA/FSA accepted); pricing/page.tsx (no referral for self-pay, same-day often available for self-pay, verify benefits for free, insurance needs physician's order, out-of-pocket depends on plan benefits).",
   "flag": "Medicare/Medicaid cash-pay caveat still pending; disclaimer says 'ask us what applies'. Whether a self-pay scan counts toward a deductible depends on the plan, so the post tells people to ask rather than answering. Website says 'up to 75% less than hospital rates' on pricing pages but 'up to ~90%' in the mri-cost-florida table; this post avoids percentages. Leftover imports/2026-10-13-scarier-than-mri batch still in the repo (not touched).",
-  "status": "awaiting approval"
+  "status": "awaiting approval",
+  "canva": {
+    "carousel": "DAHahY3eDOA",
+    "gbp": "DAHahYn7Kcs"
+  },
+  "canva_note": "Page 1 heading resized in open Canva transaction 6740158582238299430 so it wraps; commit on approval."
 }
