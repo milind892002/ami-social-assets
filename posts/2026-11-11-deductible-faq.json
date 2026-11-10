@@ -1,0 +1,120 @@
+{
+  "slug": "2026-11-11-deductible-faq",
+  "title": "FAQ: Is self-pay cheaper than my deductible?",
+  "palette": "blue",
+  "ribbon": false,
+  "slides": [
+    {
+      "type": "hook",
+      "photo": {
+        "src": "facility/team.jpg"
+      },
+      "eyebrow": "Your deductible questions, answered",
+      "title": "Big deductible?",
+      "title_accent": "Compare first.",
+      "title_size": 80
+    },
+    {
+      "type": "list",
+      "eyebrow": "Quick answer",
+      "title": "What a deductible means for a scan.",
+      "items": [
+        "It&#39;s what you pay for covered care before your plan starts to pay.",
+        "Not met yet? You may pay your plan&#39;s full rate for the scan yourself.",
+        "Some care, like certain preventive screenings, is covered before it."
+      ],
+      "footnote": "Source: HealthCare.gov glossary, &ldquo;Deductible.&rdquo; Every plan is different, so check your plan details."
+    },
+    {
+      "type": "big",
+      "dark": true,
+      "eyebrow": "Self-pay MRI here",
+      "giant": "$295",
+      "giant_size": 360,
+      "title": "Reading included.",
+      "title_size": 84,
+      "items": [
+        "Hospital MRIs often run $1,200 to $3,500.",
+        "On an unmet deductible, that can be on you.",
+        "Here: one price, no facility fees."
+      ],
+      "item_size": 38,
+      "footnote": "MRI without contrast, one body area; $395 with and without contrast. Hospital range: typical Florida hospital outpatient prices with facility fees, not a quote for any one hospital. Self-pay prices as of November 2026."
+    },
+    {
+      "type": "list",
+      "save": true,
+      "title": "Before you book, ask your plan:",
+      "items": [
+        "How much of my deductible is left?",
+        "What would I owe for this exam in network?",
+        "Does a self-pay scan count toward my deductible?",
+        "Is prior authorization needed? How long?"
+      ],
+      "footnote": "Deductible already met? Insurance may be the better deal. We verify your benefits for free and help you compare."
+    },
+    {
+      "type": "big",
+      "dark": false,
+      "eyebrow": "Choosing self-pay here",
+      "title": "Simple to choose.",
+      "title_size": 96,
+      "words": [
+        [
+          "No referral",
+          "for eligible self-pay exams"
+        ],
+        [
+          "No wait",
+          "on prior authorization"
+        ],
+        [
+          "HSA/FSA",
+          "cards accepted"
+        ],
+        [
+          "Same day",
+          "often available for self-pay"
+        ]
+      ],
+      "footnote": "Have a doctor&#39;s order? Bring it and we send your results to your doctor. Insurance accepted too, with a doctor&#39;s order."
+    },
+    {
+      "type": "cta",
+      "title": "Do the math first.",
+      "title_accent": "We&#39;ll help you compare.",
+      "title_size": 80,
+      "share": "Send this to someone with a big deductible.",
+      "disclaimer": "General information, not medical or financial advice. Your plan&#39;s rules apply. Self-pay prices as of November 2026. Using Medicare or Medicaid? Ask us what applies."
+    }
+  ],
+  "gbp": {
+    "photo": {
+      "src": "facility/team.jpg"
+    },
+    "eyebrow": "Self-pay or insurance? We help you compare",
+    "title": "Big deductible?",
+    "title_accent": "Compare first.",
+    "sub": "Self-pay MRI $295 with the radiologist&#39;s reading. No facility fees.",
+    "button": "Book at advancedimg.com"
+  },
+  "captions": {
+    "instagram": "Big deductible? Compare before you book your scan. 🧮\n\n✔️ A deductible is what you pay for covered care before your plan starts to pay\n✔️ Haven't met it yet? You may pay your plan's full rate for the scan yourself\n✔️ Our self-pay MRI is $295, radiologist's reading included, no facility fees\n✔️ Self-pay means no referral and no waiting on prior authorization\n✔️ Deductible already met? Insurance may be the better deal, and we'll check your benefits for free\n\nAsk your plan: How much of my deductible is left? What would I owe for this exam? Does a self-pay scan count toward my deductible?\n\n📅 Book through the link in our bio or call (727) 398-5999.\n\nKnow someone with a big deductible? Send this to them.\n\nGeneral information, not medical or financial advice. Your plan's rules apply. Self-pay prices as of November 2026. Using Medicare or Medicaid? Ask us what applies.\n\n#HealthInsurance #MRI #CTScan #SeminoleFL #PinellasCounty",
+    "facebook": "Big deductible? Compare before you book your scan. 🧮\n\nA deductible is the amount you pay for covered care before your insurance plan starts to pay (HealthCare.gov). If you haven't met it yet, you may pay your plan's full rate for an MRI or CT yourself, and hospital MRIs in Florida often run $1,200 to $3,500 once facility fees are added.\n\nOur self-pay prices are published up front, with the radiologist's reading included and no facility fees:\n✔️ MRI $295 ($395 with and without contrast), Seminole and St. Petersburg\n✔️ CT $295 ($395 with and without contrast), Seminole\n✔️ Routine ultrasound $195, Seminole\n✔️ No referral and no prior authorization for eligible self-pay exams\n✔️ HSA and FSA cards accepted\n\nBefore you book, ask your plan:\n1. How much of my deductible is left?\n2. What would I owe for this exam in network?\n3. Does a self-pay scan count toward my deductible?\n4. Is prior authorization needed, and how long will it take?\n\nAlready met your deductible? Insurance may be the better deal. We accept most plans and verify your benefits for free, so we can help you compare.\n\n📅 Book online: https://www.advancedimg.com/lp/imaging-seminole-fl?utm_source=facebook&utm_medium=social&utm_campaign=deductible-faq\n📞 Or call (727) 398-5999 (Mon to Fri, 8 to 5)\n📍 Seminole and St. Petersburg\n\nKnow someone with a big deductible? Share this with them.\n\nGeneral information, not medical or financial advice. Your plan's rules apply. Self-pay prices as of November 2026. Hospital range is typical Florida hospital outpatient pricing, not a quote for any one hospital. Using Medicare or Medicaid? Ask us what applies.\n\n#HealthInsurance #MRI #SeminoleFL",
+    "gbp": "Big deductible? Compare before you book your scan. A deductible is what you pay for covered care before your insurance plan starts to pay, so if you haven't met it yet you may pay your plan's full rate for an MRI or CT yourself. At Advanced Medical Imaging, self-pay prices are published up front with the radiologist's reading included and no facility fees: MRI $295 ($395 with and without contrast), CT $295 and routine ultrasound $195. Self-pay means no referral and no waiting on prior authorization for eligible exams, and HSA and FSA cards are accepted. Before you book, ask your plan how much of your deductible is left, what you would owe for the exam, and whether a self-pay scan counts toward your deductible. Already met it? Insurance may be the better deal, and we verify your benefits for free.\n\nBook online at advancedimg.com. General information, not medical or financial advice."
+  },
+  "alt_text": {
+    "carousel": [
+      "The Advanced Medical Imaging team in black scrubs stands together in the clinic. Your deductible questions, answered: Big deductible? Compare first.",
+      "Quick answer: what a deductible means for a scan. It's what you pay for covered care before your plan starts to pay. Not met yet? You may pay your plan's full rate for the scan yourself. Some care, like certain preventive screenings, is covered before it.",
+      "Self-pay MRI here: $295, reading included. Hospital MRIs often run $1,200 to $3,500. On an unmet deductible, that can be on you. Here: one price, no facility fees.",
+      "Save this. Before you book, ask your plan: How much of my deductible is left? What would I owe for this exam in network? Does a self-pay scan count toward my deductible? Is prior authorization needed? How long?",
+      "Choosing self-pay here is simple: no referral for eligible self-pay exams, no waiting on prior authorization, HSA and FSA cards accepted, same day often available.",
+      "Do the math first. We'll help you compare. Book through the link in our bio or call (727) 398-5999."
+    ],
+    "gbp": "The Advanced Medical Imaging team stands together in the clinic. Big deductible? Compare first."
+  },
+  "facts_checked": "Checked 2026-11-10. HealthCare.gov glossary 'Deductible' (read in full): 'The amount you pay for covered health care services before your insurance plan starts to pay'; Marketplace plans pay certain preventive benefits before the deductible; 'Many plans pay for certain services ... before you've met your deductible. Check your plan details.' Practice facts from amiweb origin/main 6756d1c: prices.ts (mri $295, mriContrast $395 both centers; ct $295, ctContrast $395 Seminole; ultrasound $195 Seminole); mri-cost-florida/page.tsx (typical FL hospital MRI $1,200-$3,500 incl. facility fees, representative not a quote; FAQ 'Is self-pay cheaper than using my insurance and paying my deductible? Very often, yes'; self-pay with a doctor's order allowed, results sent to doctor; HSA/FSA accepted); pricing/page.tsx (no referral for self-pay, same-day often available for self-pay, verify benefits for free, insurance needs physician's order, out-of-pocket depends on plan benefits).",
+  "flag": "Medicare/Medicaid cash-pay caveat still pending; disclaimer says 'ask us what applies'. Whether a self-pay scan counts toward a deductible depends on the plan, so the post tells people to ask rather than answering. Website says 'up to 75% less than hospital rates' on pricing pages but 'up to ~90%' in the mri-cost-florida table; this post avoids percentages. Leftover imports/2026-10-13-scarier-than-mri batch still in the repo (not touched).",
+  "status": "awaiting approval"
+}
